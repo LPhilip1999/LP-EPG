@@ -18,7 +18,19 @@ sources = {
     "https://api.bloomberg.com/syndication/feed/liveschedules/1822d1fb-ffc2-44bd-8fc4-39d9f2786930?access_token=fd24ea542693ebfbc70b4b66318e9da4": 
         ("Bloomberg.metaX", "Bloomberg TV"),
     "https://api.bloomberg.com/syndication/feed/liveschedules/2d399335-fa7a-4aaf-8ad3-a55ea7e91b89?access_token=fd24ea542693ebfbc70b4b66318e9da4&channel=qt_digital_live": 
-        ("BloombergOriginals.metaX", "Bloomberg Originals")
+        ("BloombergOriginals.metaX", "Bloomberg Originals"),
+    "https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=261204&partner=metax": 
+        ("ToonGogglesWW.metaX", "Toon Goggles WW"),
+"https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=259981&partner=metax": 
+        ("TGJunior.metaX", "TG Junior"),
+"https://api-ott.afrolandtv.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=1484&partner=metax": 
+        ("AfroKiddos.metaX", "AfroKiddos"),
+"https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=USERIES-TV&DurationHours=96": 
+        ("UseriesTV.metaX", "Useries TV"),
+"https://app2.evrideo.com/api/reports/epg?channelUid=860e6f4f-38ca-400d-8c37-b251f4f4209e&minDurationSecs=180&groupSameIdSequence=false&durationHours=96&encodingCodePag": 
+        ("NoveboxENG.metaX", "Novebox ENG"), 
+"https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/wapis_metax/WAPIS.xml": 
+        ("WedoAmorPeilSavaje.metaX", "WedoAmor Peil Savaje")
 }
 
 headers = {'User-Agent': 'Mozilla/5.0'}
