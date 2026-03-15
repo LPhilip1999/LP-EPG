@@ -1,0 +1,10 @@
+https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=261204&partner=metax|Toon Goggles WW
+https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=259981&partner=metax|TG Junior
+https://api-ott.afrolandtv.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=1484&partner=metax|AfroKiddos
+https://api-ott.afrolandtv.com/getrawvideosegments?version=12.5&rss_format=xmltv&days=8&linear_channel_id=3920&language=en&partner=metax|AfroLand Comedy
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=GOLF-NETWORK&DurationHours=72|Golf Network
+https://epg.frequency.com/output?id=11&format=xmltv|CHOPPERTOWN
+https://epg-schedule.dw.com/epg-dwenglish/epg.xml|DW English
+https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/fra24gb_metax/FRA24.xml|France 24
+https://api.bloomberg.com/syndication/feed/liveschedules/1822d1fb-ffc2-44bd-8fc4-39d9f2786930?access_token=fd24ea542693ebfbc70b4b66318e9da4|Bloomberg TV
+https://api.bloomberg.com/syndication/feed/liveschedules/2d399335-fa7a-4aaf-8ad3-a55ea7e91b89?access_token=fd24ea542693ebfbc70b4b66318e9da4&channel=qt_digital_live|Bloomberg Originals
