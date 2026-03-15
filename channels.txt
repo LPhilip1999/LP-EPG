@@ -1,7 +1,10 @@
 https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=261204&partner=metax|Toon Goggles WW
 https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=259981&partner=metax|TG Junior
 https://api-ott.afrolandtv.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=1484&partner=metax|AfroKiddos
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=USERIES-TV&DurationHours=96|USeries TV
 https://api-ott.afrolandtv.com/getrawvideosegments?version=12.5&rss_format=xmltv&days=8&linear_channel_id=3920&language=en&partner=metax|AfroLand Comedy
+https://app2.evrideo.com/api/reports/epg?channelUid=860e6f4f-38ca-400d-8c37-b251f4f4209e&minDurationSecs=180&groupSameIdSequence=false&durationHours=96&encodingCodePag|Novebox English
+https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/wapis_metax/WAPIS.xml|WedoAmor Piel Salvaje
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=GOLF-NETWORK&DurationHours=72|Golf Network
 https://epg.frequency.com/output?id=11&format=xmltv|CHOPPERTOWN
 https://epg-schedule.dw.com/epg-dwenglish/epg.xml|DW English
@@ -13,3 +16,5 @@ https://30a-tv.com/feeds/vidaa/30atvmusic.xml|30A TV Music Channel
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=FACECULTURE&DurationHours=96|FACE CULTURE TV
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=EDGY-URBAN-ENG&DurationHours=96|EDGY URBAN TV
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=Wildest Wish&DurationHours=96|WILDEST WISH TV
+https://app2.evrideo.com/api/reports/epg?channelUid=f9222e46-c48b-4028-bb42-7178fe3a22e2&minDurationSecs=180&groupSameIdSequence=false&durationHours=96&encodingCodePage=65001&outputType=xmlTv2&wrapTextInCDATA=false|English Club
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=JUPITER-TV-ENG&DurationHours=96|JUPITER TV
