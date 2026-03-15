@@ -8,3 +8,8 @@ https://epg-schedule.dw.com/epg-dwenglish/epg.xml|DW English
 https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/fra24gb_metax/FRA24.xml|France 24
 https://api.bloomberg.com/syndication/feed/liveschedules/1822d1fb-ffc2-44bd-8fc4-39d9f2786930?access_token=fd24ea542693ebfbc70b4b66318e9da4|Bloomberg TV
 https://api.bloomberg.com/syndication/feed/liveschedules/2d399335-fa7a-4aaf-8ad3-a55ea7e91b89?access_token=fd24ea542693ebfbc70b4b66318e9da4&channel=qt_digital_live|Bloomberg Originals
+https://freecast.s3.amazonaws.com/Programming/EPG/Playing_For_Change/PFC_EPG.xml|Playing For Change
+https://30a-tv.com/feeds/vidaa/30atvmusic.xml|30A TV Music Channel 
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=FACECULTURE&DurationHours=96|FACE CULTURE TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=EDGY-URBAN-ENG&DurationHours=96|EDGY URBAN TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=Wildest Wish&DurationHours=96|WILDEST WISH TV
