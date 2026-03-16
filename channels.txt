@@ -32,8 +32,11 @@ https://30a-tv.com/feeds/vidaa/tottenham.xml|We Are Tottenham TV
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=GOAL-TV&DurationHours=168|GOAL TV
 https://epg-schedule.dw.com/epg-dwenglish/epg.xml|DW English
 https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/fra24gb_metax/FRA24.xml|France 24
+https://freecast.s3.amazonaws.com/Programming/EPG/Playing_For_Change/PFC_EPG.xml|Playing For Change
+https://30a-tv.com/feeds/vidaa/30atvmusic.xml|30A TV Music Channel 
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=FACECULTURE&DurationHours=96|FACE CULTURE TV
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=EDGY-URBAN-ENG&DurationHours=96|EDGY URBAN TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=Wildest Wish&DurationHours=96|WILDEST WISH TV
 https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/indiatodayintl_metaxinternational/ind-today-intl-metax.xml|India Today International
 https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/gntin_metaxinternational/AMG00644C2.xml|Good News Today
 https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/aajtakintl_metaxinternational/aajtakintl-metax.xml|Aaj Tak HD International
