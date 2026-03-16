@@ -1,33 +1,10 @@
-name: Automatic MetaX EPG Update
-
-on:
-  schedule:
-    # This runs at 18:00 UTC, which is 02:00 AM in the Philippines (+8)
-    - cron: '0 18 * * *'
-  workflow_dispatch: # This keeps the "Run workflow" button for manual testing
-
-jobs:
-  update-epg:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write # Important: allows the bot to save files back to your repo
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Run EPG Script
+- name: Run Scraper
         run: python fetch_epg.py
 
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "EPG-Bot"
+          git config --global user.email "bot@github.com"
           git add epg.xml epg.xml.gz tvg-ids.txt
-          # The "|| exit 0" prevents the action from failing if there are no changes
-          git commit -m "Daily EPG Auto-Update [$(date)]" || exit 0
+          git commit -m "Update EPG files (xml & gz)" || exit 0
           git push
