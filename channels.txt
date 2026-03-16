@@ -30,6 +30,29 @@ https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=RUGBY-ZONE-TV&DurationH
 https://streaming002.muxip.com/xmltv/19647889?scheduleId=216&daysInPast=2&daysInFuture=7|Channel Fight Masterclass
 https://30a-tv.com/feeds/vidaa/tottenham.xml|We Are Tottenham TV
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=GOAL-TV&DurationHours=168|GOAL TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=KUNG-FU-ENG&DurationHours=96|KUNG FU
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=MI-RAZA-CANAL-PLUS&DurationHours=96|MI RAZAL CANAL PLUS
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=CINEMAS&DurationHours=96|CINEMAS
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=BEST-ACTION-TV&DurationHours=96|BEST ACTION TV
+https://app2.evrideo.com/api/reports/epg?channelUid=4e160454-ffee-4efc-beb6-a141b0343f51&minDurationSecs=180&groupSameIdSequence=false&durationHours=96&encodingCodePage=65001&outputType=xmlTv2&wrapTextInCDATA=false|Starmedia
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=SOONER-COMING-OF-AGE&DurationHours=96|SOONER COMING OF AGE
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=DRIVE-IN-MOVIE-CHANNEL-ENG&DurationHours=96|DRIVE IN CHANNEL
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HEARTFELT-TV-ENG&DurationHours=96|HEARTFELT TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=SOONER-NEXT-GEN&DurationHours=96|SOONER NEXTGEN
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=BANG-BANG-TV-ENG&DurationHours=96|BANG BANG
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=OUTER-VISION-TV-ENG&DurationHours=96|OUTER VISION
+https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/wmsia_metaxinternational/WMSIA.xml|Wedo Movies ASIA
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=PEEKFLICK&DurationHours=96|PEEKFLICK
+https://30a-tv.com/feeds/vidaa/30atvmovies.xml|30A TV Movies
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=BOLLYWOOD 4U&DurationHours=96|BOLLYWOOD4U
+https://app2.evrideo.com/api/reports/epg?channelUid=57cf15ab-519a-488a-8eb4-ded01646c6ad&minDurationSecs=300&groupSameIdSequence=true&durationHours=96&encodingCodePage=65001&outputType=xmlTv2&wrapTextInCDATA=false|Mediacorp
+https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/zmund_sofast/zmundo.xml|ZEE MUNDO
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=BOLLYWOOD-TV&DurationHours=96|BOLLYWOOD TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=BEST-DRAMA-TV&DurationHours=96|BEST DRAMA TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=BOLLYWOOD-MASALA-TV&DurationHours=72|BOLLYWOOD MASALA
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=COLOUR BLIND&DurationHours=96|COLOURBLIND
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=BEST-CLASSIC-TV&DurationHours=96|BEST CLASSIC TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HORROR-TV-ENG&DurationHours=96|HORROR TV
 https://freecast.s3.amazonaws.com/Programming/EPG/Playing_For_Change/PFC_EPG.xml|PLAYING FOR CHANGE
 https://30a-tv.com/feeds/vidaa/30atvmusic.xml|30A TV Music Channel 
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=FACECULTURE&DurationHours=96|FACE CULTURE TV
