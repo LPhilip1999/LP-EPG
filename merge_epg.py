@@ -3,11 +3,10 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 import gzip
 import shutil
-import os
 
 def merge_epg():
     merged_root = ET.Element("tv")
-    merged_root.set("generator-info-name", "OTT-Navigator-Metax-Gzip")
+    merged_root.set("generator-info-name", "OTT-Navigator-NoSpaces")
     merged_root.set("date", datetime.now().strftime("%Y%m%d%H%M%S"))
 
     try:
@@ -21,10 +20,12 @@ def merge_epg():
         url, display_name = line.split("|")
         url = url.strip()
         display_name = display_name.strip()
-        target_id = f"{display_name}.metax"
+        
+        # REMOVE SPACES: "Playing For Change" -> "PlayingForChange.metax"
+        target_id = f"{display_name.replace(' ', '')}.metax"
         
         try:
-            print(f"Fetching: {display_name}...")
+            print(f"Fetching: {display_name} -> ID: {target_id}")
             response = requests.get(url, timeout=30)
             if response.status_code == 200:
                 source_root = ET.fromstring(response.content)
@@ -33,27 +34,27 @@ def merge_epg():
                 chan_elem = ET.SubElement(merged_root, "channel", id=target_id)
                 ET.SubElement(chan_elem, "display-name").text = display_name
                 
-                # Add Programme Nodes
+                # Add Programme Nodes and update their channel reference
                 for prog in source_root.findall("programme"):
                     prog.set("channel", target_id)
                     merged_root.append(prog)
         except Exception as e:
             print(f"Error processing {display_name}: {e}")
 
-    # 1. Save the standard XML file
+    # Save epg.xml
     xml_file = "epg.xml"
     tree = ET.ElementTree(merged_root)
     with open(xml_file, "wb") as f:
         f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
         tree.write(f, encoding="utf-8", xml_declaration=False)
 
-    # 2. Create the GZipped version
+    # Save epg.xml.gz
     gz_file = "epg.xml.gz"
     with open(xml_file, 'rb') as f_in:
         with gzip.open(gz_file, 'wb') as f_out:
             shutil.copyfileobj(f_in, f_out)
     
-    print(f"Created {xml_file} and {gz_file}")
+    print("Files updated successfully.")
 
 if __name__ == "__main__":
     merge_epg()
