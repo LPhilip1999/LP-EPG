@@ -40,26 +40,5 @@ https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=Wildest Wish&DurationHo
 https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=261204&partner=metax|Toon Goggles WW
 https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=259981&partner=metax|TG Junior
 https://api-ott.afrolandtv.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=1484&partner=metax|AfroKiddos
-https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/indiatodayintl_metaxinternational/ind-today-intl-metax.xml|India Today International
-https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/gntin_metaxinternational/AMG00644C2.xml|Good News Today
-https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/aajtakintl_metaxinternational/aajtakintl-metax.xml|Aaj Tak HD International
-http://49.233.55.102/xml?platform=PLATFORM_0&channel=204&timezone=-8&days=7&format=download|China Travel
-http://49.233.55.102/xml?platform=PLATFORM_0&channel=191&timezone=-8&days=7&format=download|GlobalBiz
-http://49.233.55.102/xml?platform=PLATFORM_0&channel=201&timezone=-8&days=7&format=download|Discovering China
-https://api.bloomberg.com/syndication/feed/liveschedules/1822d1fb-ffc2-44bd-8fc4-39d9f2786930?access_token=fd24ea542693ebfbc70b4b66318e9da4|Bloomberg TV
-https://api.bloomberg.com/syndication/feed/liveschedules/2d399335-fa7a-4aaf-8ad3-a55ea7e91b89?access_token=fd24ea542693ebfbc70b4b66318e9da4&channel=qt_digital_live|Bloomberg Originals
-https://app2.evrideo.com/api/reports/epg?channelUid=860e6f4f-38ca-400d-8c37-b251f4f4209e&minDurationSecs=180&groupSameIdSequence=false&durationHours=96&encodingCodePag|Novebox English
-https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/wapis_metax/WAPIS.xml|WedoAmor Piel Salvaje
-https://d2mxb63djushzm.cloudfront.net/gustous_metax/GUSTOToday.xml|Gusto TV
-https://yachtingtv.tv/epg.xml|Yatching TV
-https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=ESCAPE-TV&DurationHours=96|ESCAPE TV
-https://30a-tv.com/feeds/vidaa/visitflorida.xml|Florida TV Channel
-https://api-ott-cookingpanda.ottera.tv/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=900&partner=metax|Cooking Panda
-https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=LUXURY-DREAMS-TV-ENG&DurationHours=96|LUXURY DREAMS TV
-https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=CUISINE-CULTURE&DurationHours=96|CUISINE CULTURE
-https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=UNCHAINED-TV-ENG&DurationHours=96|UNCHAINEDTV
-https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=the-beach-channel&DurationHours=96|THE BEACH CHANNEL
-https://30a-tv.com/feeds/vidaa/firsttimers.xml|The First Timers
-https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=WAI%20LANA&DurationHours=96|WAI LANA
 https://app2.evrideo.com/api/reports/epg?channelUid=f9222e46-c48b-4028-bb42-7178fe3a22e2&minDurationSecs=180&groupSameIdSequence=false&durationHours=96&encodingCodePage=65001&outputType=xmlTv2&wrapTextInCDATA=false|English Club
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=JUPITER-TV-ENG&DurationHours=96|JUPITER TV
