@@ -42,5 +42,18 @@ https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=Wildest Wish&DurationHo
 https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=261204&partner=metax|Toon Goggles WW
 https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=259981&partner=metax|TG Junior
 https://api-ott.afrolandtv.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=1484&partner=metax|AfroKiddos
+https://web-cdn.metaxplay.tv/cmsMediaEpg/12810.xml|Hi Life
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HERITAGE-TOURISM-TV-ENG&DurationHours=96|HERITAGE TOURISM
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HERITAGE-ENG&DurationHours=96|HERITAGE
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=THE-EXPLORERS-ENG&DurationHours=96|THE EXPLORERS English
+https://api-ott.motorvision.tv/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=1198&partner=metax|Motorvision TV
+https://epg.frequency.com/output?id=11&format=xmltv|CHOPPPERTOWN
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=SACRED-SITES&DurationHours=96|SPlus
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HOLY-LAND-HERITAGE-TV-ENG&DurationHours=96|HOLY LAND HERITAGE
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=SPACE-SERIES&DurationHours=96|SPACE SERIES
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=AMERICAS-BOATING-CHANNEL-ENG&DurationHours=96|AMERICAS BOATING CHANNEL
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=AUTOMOTIONS-ENG&DurationHours=96|AUTOMOTION
+https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/webds_metax/WEBDS.xml|wedo big stories
+http://49.233.55.102/xml?platform=PLATFORM_0&channel=201&timezone=-8&days=7&format=download|Discovering China
 https://app2.evrideo.com/api/reports/epg?channelUid=f9222e46-c48b-4028-bb42-7178fe3a22e2&minDurationSecs=180&groupSameIdSequence=false&durationHours=96&encodingCodePage=65001&outputType=xmlTv2&wrapTextInCDATA=false|English Club
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=JUPITER-TV-ENG&DurationHours=96|JUPITER TV
