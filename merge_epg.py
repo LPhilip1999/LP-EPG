@@ -6,7 +6,7 @@ import shutil
 import re
 
 def fix_timestamp(ts):
-    """Converts various formats to YYYYMMDDHHMMSS +0000"""
+    """Converts ISO and other formats to YYYYMMDDHHMMSS +0000"""
     if not ts:
         return ts
     digits = re.sub(r'\D', '', ts)
@@ -20,7 +20,7 @@ def fix_timestamp(ts):
 def merge_epg():
     merged_root = ET.Element("tv")
     merged_root.set("source-info-name", "EPG Service")
-    merged_root.set("generator-info-name", "Metax-Clean-Generator")
+    merged_root.set("generator-info-name", "Metax-Final-Generator")
 
     try:
         with open("channels.txt", "r") as f:
@@ -35,7 +35,7 @@ def merge_epg():
         target_id = f"{display_name.replace(' ', '')}.metax"
         
         try:
-            print(f"Syncing & Cleaning: {display_name}...")
+            print(f"Syncing: {display_name}...")
             response = requests.get(url, timeout=30)
             if response.status_code == 200:
                 source_root = ET.fromstring(response.content)
@@ -46,16 +46,16 @@ def merge_epg():
                 
                 # Process Programs
                 for prog in source_root.findall("programme"):
-                    # Create a clean programme element
                     clean_prog = ET.Element("programme")
                     clean_prog.set("channel", target_id)
                     clean_prog.set("start", fix_timestamp(prog.get("start")))
                     clean_prog.set("stop", fix_timestamp(prog.get("stop")))
                     
-                    # Only keep the Title (remove icons, desc, value, etc.)
-                    title = prog.find("title")
-                    if title is not None:
-                        clean_prog.append(title)
+                    # Keep only Title, Desc, and Icon
+                    for tag in ["title", "desc", "icon"]:
+                        found_elements = prog.findall(tag)
+                        for elem in found_elements:
+                            clean_prog.append(elem)
                     
                     merged_root.append(clean_prog)
         except Exception as e:
@@ -76,7 +76,7 @@ def merge_epg():
         with gzip.open(gz_file, 'wb') as f_out:
             shutil.copyfileobj(f_in, f_out)
     
-    print(f"Success! {xml_file} is now cleaned and compressed.")
+    print(f"Success! {xml_file} and {gz_file} created.")
 
 if __name__ == "__main__":
     merge_epg()
