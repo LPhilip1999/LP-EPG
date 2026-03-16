@@ -1,3 +1,35 @@
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=DRIVE-SPEED&DurationHours=96|DRIVE SPEED
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=SPORT-FISHING-TV-ENG&DurationHours=96|SPORT FISHING TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=hoop-mrss&DurationHours=96|HOOP TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=THE-RING-TV-ENG&DurationHours=96|THE RING TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=BILLIARDS-PLUS&DurationHours=96|BILLIARD CHANNEL
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=X-TREM SPORTS&DurationHours=96|XTREM SPORT
+https://nauticalchannel.com/sofast-url|NAUTICAL CHANNEL
+https://api-ott.dfbplay.tv/getrawvideosegments?version=12.5&rss_format=xmltv&days=8&linear_channel_id=105&partner=metax|DFB Play TV
+https://30a-tv.com/feeds/vidaa/fishingoffshore.xml|Fishing Offshore
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=KOZOOM-ENG&DurationHours=96|KOZOOM TV
+https://streaming002.muxip.com/xmltv/19647893?scheduleId=234&daysInPast=2&daysInFuture=7|Om Stars
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=NITRO TV&DurationHours=96|NITRO TV
+https://distroscale-content.s3.amazonaws.com/22705/distrotv_epg/11063/11063.xml|HORIZON SPORTS
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=ace-mrss&DurationHours=96|ACE TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=GOLF-NETWORK&DurationHours=72|GOLF NETWORK
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HUNT-FISH-TV-ENG&DurationHours=96|HUNT FISH TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=ITSF-ENG&DurationHours=96|ITSF
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=CHRONO-TV-ENG&DurationHours=96|CHRONO TV
+https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/fuelau_metaxinternational/AMG01074C16.xml|Fuel TV Asia
+https://streaming002.muxip.com/xmltv/19647935?scheduleId=360&daysInPast=2&daysInFuture=7|Cricket Gold
+https://streaming002.muxip.com/xmltv/19647938?scheduleId=368&daysInPast=2&daysInFuture=7|Equus TV
+https://www.horsetv.es/sofast-url|HORSE TV
+https://streaming002.muxip.com/xmltv/19647931?scheduleId=352&daysInPast=2&daysInFuture=7|Sports First TV
+https://streaming002.muxip.com/xmltv/19647946?scheduleId=380&daysInPast=2&daysInFuture=7|Surfing Plus
+https://streaming002.muxip.com/xmltv/19647870?scheduleId=198&daysInPast=2&daysInFuture=7|The Grappling Network
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=homerun-mrss&DurationHours=96|HOMERUN TV
+https://streaming002.muxip.com/xmltv/19647879?scheduleId=213&daysInPast=2&daysInFuture=7|Fite TV
+https://30a-tv.com/feeds/vidaa/golf.xml|Golf Kingdom
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=RUGBY-ZONE-TV&DurationHours=96|RUGBY ZONE TV
+https://streaming002.muxip.com/xmltv/19647889?scheduleId=216&daysInPast=2&daysInFuture=7|Channel Fight Masterclass
+https://30a-tv.com/feeds/vidaa/tottenham.xml|We Are Tottenham TV
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=GOAL-TV&DurationHours=168|GOAL TV
 https://epg-schedule.dw.com/epg-dwenglish/epg.xml|DW English
 https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/fra24gb_metax/FRA24.xml|France 24
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=FACECULTURE&DurationHours=96|FACE CULTURE TV
