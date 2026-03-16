@@ -37,6 +37,9 @@ https://30a-tv.com/feeds/vidaa/30atvmusic.xml|30A TV Music Channel
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=FACECULTURE&DurationHours=96|FACE CULTURE TV
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=EDGY-URBAN-ENG&DurationHours=96|EDGY URBAN TV
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=Wildest Wish&DurationHours=96|WILDEST WISH TV
+https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=261204&partner=metax|Toon Goggles WW
+https://api.toongoggles.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=259981&partner=metax|TG Junior
+https://api-ott.afrolandtv.com/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=1484&partner=metax|AfroKiddos
 https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/indiatodayintl_metaxinternational/ind-today-intl-metax.xml|India Today International
 https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/gntin_metaxinternational/AMG00644C2.xml|Good News Today
 https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/aajtakintl_metaxinternational/aajtakintl-metax.xml|Aaj Tak HD International
