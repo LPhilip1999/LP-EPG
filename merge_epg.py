@@ -6,24 +6,21 @@ import shutil
 import re
 
 def fix_timestamp(ts):
-    """Converts 2026-03-16T00:00:00.000+0000 to 20260316000000 +0000"""
+    """Converts various formats to YYYYMMDDHHMMSS +0000"""
     if not ts:
         return ts
-    # Remove dashes, colons, and the 'T'
-    clean_ts = re.sub(r'[-:T]', '', ts)
-    # Split the main time from the offset (handling the .000 milliseconds)
-    # Target format: YYYYMMDDHHMMSS +Offset
-    match = re.match(r'(\d{14})(\.\d+)?\s?([+-]\d{4})?', clean_ts)
-    if match:
-        main_time = match.group(1)
-        offset = match.group(3) if match.group(3) else "+0000"
+    digits = re.sub(r'\D', '', ts)
+    if len(digits) >= 14:
+        main_time = digits[:14]
+        offset_match = re.search(r'([+-]\d{4})', ts)
+        offset = offset_match.group(1) if offset_match else "+0000"
         return f"{main_time} {offset}"
     return ts
 
 def merge_epg():
     merged_root = ET.Element("tv")
-    merged_root.set("generator-info-name", "OTT-Navigator-TimeFixed")
-    merged_root.set("date", datetime.now().strftime("%Y%m%d%H%M%S"))
+    merged_root.set("source-info-name", "EPG Service")
+    merged_root.set("generator-info-name", "Metax-Clean-Generator")
 
     try:
         with open("channels.txt", "r") as f:
@@ -38,7 +35,7 @@ def merge_epg():
         target_id = f"{display_name.replace(' ', '')}.metax"
         
         try:
-            print(f"Processing: {display_name}...")
+            print(f"Syncing & Cleaning: {display_name}...")
             response = requests.get(url, timeout=30)
             if response.status_code == 200:
                 source_root = ET.fromstring(response.content)
@@ -47,35 +44,39 @@ def merge_epg():
                 chan_elem = ET.SubElement(merged_root, "channel", id=target_id)
                 ET.SubElement(chan_elem, "display-name").text = display_name
                 
-                # Add and Fix Programme Nodes
+                # Process Programs
                 for prog in source_root.findall("programme"):
-                    prog.set("channel", target_id)
+                    # Create a clean programme element
+                    clean_prog = ET.Element("programme")
+                    clean_prog.set("channel", target_id)
+                    clean_prog.set("start", fix_timestamp(prog.get("start")))
+                    clean_prog.set("stop", fix_timestamp(prog.get("stop")))
                     
-                    # FIX START AND STOP TIMES
-                    start_time = prog.get("start")
-                    stop_time = prog.get("stop")
+                    # Only keep the Title (remove icons, desc, value, etc.)
+                    title = prog.find("title")
+                    if title is not None:
+                        clean_prog.append(title)
                     
-                    prog.set("start", fix_timestamp(start_time))
-                    prog.set("stop", fix_timestamp(stop_time))
-                    
-                    merged_root.append(prog)
+                    merged_root.append(clean_prog)
         except Exception as e:
-            print(f"Error processing {display_name}: {e}")
+            print(f"Skip {display_name}: {e}")
 
-    # Save epg.xml
+    # 1. Save epg.xml with DOCTYPE
     xml_file = "epg.xml"
-    tree = ET.ElementTree(merged_root)
+    declaration = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n'
+    xml_data = ET.tostring(merged_root, encoding="utf-8")
+    
     with open(xml_file, "wb") as f:
-        f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
-        tree.write(f, encoding="utf-8", xml_declaration=False)
+        f.write(declaration.encode("utf-8"))
+        f.write(xml_data)
 
-    # Save epg.xml.gz
+    # 2. Save epg.xml.gz
     gz_file = "epg.xml.gz"
     with open(xml_file, 'rb') as f_in:
         with gzip.open(gz_file, 'wb') as f_out:
             shutil.copyfileobj(f_in, f_out)
     
-    print("Time formats fixed and files updated.")
+    print(f"Success! {xml_file} is now cleaned and compressed.")
 
 if __name__ == "__main__":
     merge_epg()
