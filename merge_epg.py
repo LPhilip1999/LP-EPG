@@ -1,68 +1,59 @@
-import os
+import requests
 import xml.etree.ElementTree as ET
+from datetime import datetime
 import gzip
 import shutil
-from datetime import datetime, timedelta
+import os
 
-def generate_epg():
-    # 1. Locate channels.txt safely
-    base_path = os.getcwd()
-    input_file = os.path.join(base_path, "channels.txt")
-    
-    if not os.path.exists(input_file):
-        print(f"Error: {input_file} not found. Please create it.")
-        return
+def merge_epg():
+    merged_root = ET.Element("tv")
+    merged_root.set("generator-info-name", "OTT-Navigator-Metax-Gzip")
+    merged_root.set("date", datetime.now().strftime("%Y%m%d%H%M%S"))
 
     try:
-        with open(input_file, "r", encoding="utf-8") as f:
-            channels = [line.strip() for line in f if line.strip()]
-    except Exception as e:
-        print(f"Error reading channels.txt: {e}")
+        with open("channels.txt", "r") as f:
+            lines = [line.strip() for line in f if line.strip() and "|" in line]
+    except FileNotFoundError:
+        print("Error: channels.txt not found.")
         return
 
-    # 2. Start building XMLTV
-    root = ET.Element("tv", {"generator-info-name": "MetaX-EPG-Generator"})
+    for line in lines:
+        url, display_name = line.split("|")
+        url = url.strip()
+        display_name = display_name.strip()
+        target_id = f"{display_name}.metax"
+        
+        try:
+            print(f"Fetching: {display_name}...")
+            response = requests.get(url, timeout=30)
+            if response.status_code == 200:
+                source_root = ET.fromstring(response.content)
+                
+                # Add Channel Node
+                chan_elem = ET.SubElement(merged_root, "channel", id=target_id)
+                ET.SubElement(chan_elem, "display-name").text = display_name
+                
+                # Add Programme Nodes
+                for prog in source_root.findall("programme"):
+                    prog.set("channel", target_id)
+                    merged_root.append(prog)
+        except Exception as e:
+            print(f"Error processing {display_name}: {e}")
+
+    # 1. Save the standard XML file
+    xml_file = "epg.xml"
+    tree = ET.ElementTree(merged_root)
+    with open(xml_file, "wb") as f:
+        f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+        tree.write(f, encoding="utf-8", xml_declaration=False)
+
+    # 2. Create the GZipped version
+    gz_file = "epg.xml.gz"
+    with open(xml_file, 'rb') as f_in:
+        with gzip.open(gz_file, 'wb') as f_out:
+            shutil.copyfileobj(f_in, f_out)
     
-    # Open ID list for your reference
-    with open("tvg-ids.txt", "w", encoding="utf-8") as txt_file:
-        txt_file.write(f"# MetaXPlay TVG-ID List (.metax)\n# Last Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
-
-        for name in channels:
-            # Format ID: "DW English" -> "dw_english.metax"
-            clean_id = name.lower().replace(" ", "_").replace("-", "_").replace(".", "") + ".metax"
-            
-            # Record the ID for M3U mapping
-            txt_file.write(f"ID: {clean_id} | Name: {name}\n")
-
-            # Channel Node
-            channel_node = ET.SubElement(root, "channel", id=clean_id)
-            ET.SubElement(channel_node, "display-name").text = name
-
-            # 3. Create a 24-hour Placeholder Program
-            # This ensures OTT Navigator shows a listing even without a live API
-            now = datetime.now()
-            start_time = now.strftime("%Y%m%d000000 +0800")
-            stop_time = (now + timedelta(days=1)).strftime("%Y%m%d000000 +0800")
-
-            prog_node = ET.SubElement(root, "programme", 
-                                    channel=clean_id, 
-                                    start=start_time, 
-                                    stop=stop_time)
-            ET.SubElement(prog_node, "title", lang="en").text = f"{name} Live Stream"
-            ET.SubElement(prog_node, "desc", lang="en").text = "Continuous digital broadcast powered by MetaXPlay."
-
-    # 4. Save epg.xml
-    tree = ET.ElementTree(root)
-    tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
-
-    # 5. Create epg.xml.gz (Compression for faster loading)
-    try:
-        with open("epg.xml", "rb") as f_in:
-            with gzip.open("epg.xml.gz", "wb") as f_out:
-                shutil.copyfileobj(f_in, f_out)
-        print("Success: epg.xml, epg.xml.gz, and tvg-ids.txt created.")
-    except Exception as e:
-        print(f"Error during compression: {e}")
+    print(f"Created {xml_file} and {gz_file}")
 
 if __name__ == "__main__":
-    generate_epg()
+    merge_epg()
