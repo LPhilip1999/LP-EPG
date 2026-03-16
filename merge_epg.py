@@ -1,69 +1,49 @@
-import requests
 import xml.etree.ElementTree as ET
-import gzip
-import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
-headers = {'User-Agent': 'Mozilla/5.0'}
-
-def format_bloomberg_time(time_str):
-    if not time_str: return ""
+def generate_epg():
+    # 1. Read your existing channels.txt
     try:
-        dt_str = time_str.replace('Z', '+0000')
-        dt = datetime.strptime(dt_str, "%Y-%m-%dT%H:%M:%S.%f%z") if '.' in dt_str else datetime.strptime(dt_str, "%Y-%m-%dT%H:%M:%S%z")
-        return dt.strftime("%Y%m%d%H%M%S %z")
-    except: return ""
-
-def merge_xml():
-    root = ET.Element("tv")
-    root.set("generator-info-name", "Gemini-EPG-External-List")
-
-    # Read channels from txt file
-    if not os.path.exists("channels.txt"):
+        with open("channels.txt", "r", encoding="utf-8") as f:
+            channels = [line.strip() for line in f if line.strip()]
+    except FileNotFoundError:
         print("Error: channels.txt not found!")
         return
 
-    with open("channels.txt", "r") as f:
-        lines = f.readlines()
+    root = ET.Element("tv", {"generator-info-name": "MetaX-Manual-Mapper"})
+    
+    # Open the ID viewer file
+    with open("tvg-ids.txt", "w", encoding="utf-8") as txt_file:
+        txt_file.write(f"# MetaXPlay TVG-ID List (.metax) - Generated {datetime.now()}\n\n")
 
-    for line in lines:
-        if "|" not in line: continue
-        url, display_name = line.strip().split("|")
-        # Generate tvg-id: Remove spaces and add .metaX
-        new_id = display_name.replace(" ", "") + ".metaX"
+        for name in channels:
+            # Create a clean ID: "Golf Network" -> "golf_network.metax"
+            clean_id = name.lower().replace(" ", "_").replace("-", "_") + ".metax"
+            
+            # Write to TXT for your reference
+            txt_file.write(f"ID: {clean_id} | Name: {name}\n")
 
-        try:
-            response = requests.get(url, headers=headers, timeout=30)
-            if response.status_code != 200: continue
+            # XML Channel Definition
+            channel_node = ET.SubElement(root, "channel", id=clean_id)
+            ET.SubElement(channel_node, "display-name").text = name
 
-            if "bloomberg.com" in url:
-                data = response.json()
-                chan = ET.SubElement(root, "channel", id=new_id)
-                ET.SubElement(chan, "display-name", lang="en").text = display_name
-                for item in data:
-                    show, ep = item.get("showInfo", {}), item.get("episodeInfo", {})
-                    start, stop = format_bloomberg_time(ep.get("episodeStartTime")), format_bloomberg_time(ep.get("episodeEndTime"))
-                    if start and stop:
-                        prog = ET.SubElement(root, "programme", start=start, stop=stop, channel=new_id)
-                        ET.SubElement(prog, "title", lang="en").text = show.get("showTitle", "Bloomberg")
-                        ET.SubElement(prog, "desc", lang="en").text = ep.get("episodeDescription") or show.get("showDescription", "")
-            else:
-                tree = ET.fromstring(response.content)
-                chan = ET.SubElement(root, "channel", id=new_id)
-                ET.SubElement(chan, "display-name", lang="en").text = display_name
-                for prog in tree.findall("programme"):
-                    new_p = ET.SubElement(root, "programme")
-                    for a, v in prog.attrib.items(): new_p.set(a, v)
-                    new_p.set("channel", new_id)
-                    for child in prog: new_p.append(child)
+            # Create Dummy Programs (OTT Navigator needs data to show the channel)
+            # This creates a 24-hour "Live Stream" block
+            now = datetime.now()
+            start_time = now.strftime("%Y%m%d000000 +0800")
+            stop_time = (now + timedelta(days=1)).strftime("%Y%m%d000000 +0800")
 
-            print(f"Processed: {display_name}")
-        except Exception as e:
-            print(f"Failed {display_name}: {e}")
+            p = ET.SubElement(root, "programme", 
+                            channel=clean_id, 
+                            start=start_time, 
+                            stop=stop_time)
+            ET.SubElement(p, "title", lang="en").text = f"{name} Live"
+            ET.SubElement(p, "desc", lang="en").text = "Continuous programming from MetaXPlay."
 
-    xml_data = ET.tostring(root, encoding='utf-8', method='xml')
-    with gzip.open("epg.xml.gz", "wb") as f: f.write(xml_data)
-    with open("epg.xml", "wb") as f: f.write(xml_data)
+    # Save the files
+    tree = ET.ElementTree(root)
+    tree.write("guide.xml", encoding="utf-8", xml_declaration=True)
+    print(f"Success! Processed {len(channels)} channels.")
 
 if __name__ == "__main__":
-    merge_xml()
+    generate_epg()
