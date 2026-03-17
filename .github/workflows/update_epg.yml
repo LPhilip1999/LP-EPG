@@ -2,16 +2,18 @@ name: Update EPG Files
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch:      # Allows you to run it manually from the Actions tab
+    - cron: '0 1,7,13,19 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write         # Gives the bot permission to push files to your repo
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -31,13 +33,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Add both the plain XML and the compressed GZ file
           git add epg.xml epg.xml.gz
-          
-          # Only commit if there are actual changes in the EPG data
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
             git commit -m "Update EPG: $(date +'%Y-%m-%d %H:%M')"
             git push
