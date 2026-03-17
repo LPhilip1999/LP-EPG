@@ -105,7 +105,7 @@ https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HERITAGE-TOURISM-TV-ENG
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HERITAGE-ENG&DurationHours=96|HERITAGE
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=THE-EXPLORERS-ENG&DurationHours=96|THE EXPLORERS English
 https://api-ott.motorvision.tv/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=1198&partner=metax|Motorvision TV
-https://epg.frequency.com/output?id=11&format=xmltv|CHOPPPERTOWN
+https://epg.frequency.com/output?id=11&format=xmltv|CHOPPERTOWN
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=SACRED-SITES&DurationHours=96|SPlus
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HOLY-LAND-HERITAGE-TV-ENG&DurationHours=96|HOLY LAND HERITAGE
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=SPACE-SERIES&DurationHours=96|SPACE SERIES
