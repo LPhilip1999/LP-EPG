@@ -6,11 +6,10 @@ import shutil
 import re
 
 def fix_timestamp(ts):
-    """General fix for ISO and compact formats"""
     if not ts: return ts
-    # Ensure there is a space before the offset (e.g., 20260316234853 0000)
     digits = re.sub(r'\D', '', ts)
     if len(digits) >= 14:
+        # Frequency often uses ' 0000', ensure we keep a valid offset
         offset_match = re.search(r'([+-]\d{4})', ts)
         offset = offset_match.group(1) if offset_match else "+0000"
         return f"{digits[:14]} {offset}"
@@ -26,13 +25,17 @@ def fix_yachting_time(date_str, time_str):
 def merge_epg():
     merged_root = ET.Element("tv")
     merged_root.set("source-info-name", "EPG Service")
-    merged_root.set("generator-info-name", "Metax-Universal-Bridge")
+    merged_root.set("generator-info-name", "Metax-Redirect-Bridge")
+
+    # Adding a User-Agent helps with Google Script redirects
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
 
     try:
         with open("channels.txt", "r") as f:
             lines = [line.strip() for line in f if line.strip() and "|" in line]
     except FileNotFoundError:
-        print("channels.txt not found.")
         return
 
     for line in lines:
@@ -42,8 +45,12 @@ def merge_epg():
         
         try:
             print(f"Syncing: {display_name}...")
-            response = requests.get(url, timeout=30)
-            if response.status_code != 200: continue
+            # allow_redirects=True is default, but we ensure it here
+            response = requests.get(url, headers=headers, timeout=45, allow_redirects=True)
+            
+            if response.status_code != 200:
+                print(f"Failed {display_name}: Status {response.status_code}")
+                continue
 
             # --- 1. BLOOMBERG JSON HANDLING ---
             if "bloomberg" in url.lower() or url.endswith(".json"):
@@ -60,20 +67,20 @@ def merge_epg():
                     ET.SubElement(prog, "title").text = show.get("showTitle", "Bloomberg")
                     ET.SubElement(prog, "desc").text = ep.get("episodeDescription", "")
 
-            # --- 2. YACHTING TV & CHOPPERTOWN (NON-STANDARD XML) ---
+            # --- 2. XML HANDLING (YACHTING, CHOPPERTOWN, OTHERS) ---
             else:
-                # Handle UTF-16 for Choppertown/Frequency sources
                 content = response.content
+                # Fix for UTF-16 sources like Choppertown
                 try:
                     source_root = ET.fromstring(content)
                 except ET.ParseError:
+                    # If it fails, try decoding as utf-16 (Choppertown default)
                     source_root = ET.fromstring(content.decode('utf-16').encode('utf-8'))
 
                 chan_elem = ET.SubElement(merged_root, "channel", id=target_id)
                 ET.SubElement(chan_elem, "display-name").text = display_name
                 
                 for prog in source_root.findall("programme"):
-                    # Use provided start/stop or calculate for Yachting
                     if "yachting" in url.lower() or "Yachting" in display_name:
                         xmltv_start = fix_yachting_time(prog.get("date"), prog.get("start"))
                         xmltv_stop = fix_yachting_time(prog.get("date"), prog.get("end"))
@@ -84,7 +91,6 @@ def merge_epg():
                     if xmltv_start and xmltv_stop:
                         clean_prog = ET.SubElement(merged_root, "programme", channel=target_id, start=xmltv_start, stop=xmltv_stop)
                         
-                        # Extract and Clean Tags (Handling CDATA and different Title tags)
                         tags_to_find = {
                             "title": ["title", "original_title"],
                             "desc": ["desc", "description"],
@@ -96,6 +102,7 @@ def merge_epg():
                                 found = prog.find(s_tag)
                                 if found is not None:
                                     new_elem = ET.SubElement(clean_prog, standard_tag)
+                                    # ET.fromstring handles CDATA automatically
                                     new_elem.text = found.text
                                     if s_tag == "icon":
                                         new_elem.set("src", found.get("src", ""))
@@ -112,7 +119,7 @@ def merge_epg():
         f.write(declaration.encode("utf-8") + xml_data)
     with open(xml_file, 'rb') as f_in, gzip.open("epg.xml.gz", 'wb') as f_out:
         shutil.copyfileobj(f_in, f_out)
-    print("All sources (including Choppertown) merged and cleaned.")
+    print("Done! Redirects handled and files updated.")
 
 if __name__ == "__main__":
     merge_epg()
