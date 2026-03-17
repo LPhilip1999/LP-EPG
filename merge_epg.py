@@ -8,15 +8,16 @@ import re
 def fix_timestamp(ts):
     """General fix for ISO and compact formats"""
     if not ts: return ts
+    # Ensure there is a space before the offset (e.g., 20260316234853 0000)
     digits = re.sub(r'\D', '', ts)
     if len(digits) >= 14:
-        return f"{digits[:14]} +0000"
+        offset_match = re.search(r'([+-]\d{4})', ts)
+        offset = offset_match.group(1) if offset_match else "+0000"
+        return f"{digits[:14]} {offset}"
     return ts
 
 def fix_yachting_time(date_str, time_str):
-    """Converts date='12.3.2026' and start='11:46:52' to '20260312114652 +0000'"""
     try:
-        # Parse '12.3.2026 11:46:52'
         dt = datetime.strptime(f"{date_str} {time_str}", "%d.%m.%Y %H:%M:%S")
         return dt.strftime("%Y%m%d%H%M%S +0000")
     except:
@@ -25,12 +26,13 @@ def fix_yachting_time(date_str, time_str):
 def merge_epg():
     merged_root = ET.Element("tv")
     merged_root.set("source-info-name", "EPG Service")
-    merged_root.set("generator-info-name", "Metax-Multi-Bridge")
+    merged_root.set("generator-info-name", "Metax-Universal-Bridge")
 
     try:
         with open("channels.txt", "r") as f:
             lines = [line.strip() for line in f if line.strip() and "|" in line]
     except FileNotFoundError:
+        print("channels.txt not found.")
         return
 
     for line in lines:
@@ -46,9 +48,8 @@ def merge_epg():
             # --- 1. BLOOMBERG JSON HANDLING ---
             if "bloomberg" in url.lower() or url.endswith(".json"):
                 data = response.json()
-                ET.SubElement(merged_root, "channel", id=target_id).append(ET.Element("display-name"))
-                merged_root.find(f"channel[@id='{target_id}']/display-name").text = display_name
-                
+                chan_elem = ET.SubElement(merged_root, "channel", id=target_id)
+                ET.SubElement(chan_elem, "display-name").text = display_name
                 for item in data:
                     show, ep = item.get("showInfo", {}), item.get("episodeInfo", {})
                     prog = ET.SubElement(merged_root, "programme", 
@@ -58,51 +59,52 @@ def merge_epg():
                     )
                     ET.SubElement(prog, "title").text = show.get("showTitle", "Bloomberg")
                     ET.SubElement(prog, "desc").text = ep.get("episodeDescription", "")
-            
-            # --- 2. YACHTING TV (NON-STANDARD XML) ---
-            elif "yachting" in url.lower() or "Yachting" in display_name:
-                source_root = ET.fromstring(response.content)
-                ET.SubElement(merged_root, "channel", id=target_id).append(ET.Element("display-name"))
-                merged_root.find(f"channel[@id='{target_id}']/display-name").text = display_name
 
-                for p in source_root.findall("programme"):
-                    date_val = p.get("date")
-                    start_val = p.get("start")
-                    end_val = p.get("end")
-                    
-                    xmltv_start = fix_yachting_time(date_val, start_val)
-                    xmltv_stop = fix_yachting_time(date_val, end_val)
-                    
-                    if xmltv_start and xmltv_stop:
-                        prog = ET.SubElement(merged_root, "programme", channel=target_id, start=xmltv_start, stop=xmltv_stop)
-                        # Map original_title to title
-                        title_node = p.find("original_title")
-                        desc_node = p.find("description")
-                        
-                        ET.SubElement(prog, "title").text = title_node.text if title_node is not None else "Yachting TV"
-                        if desc_node is not None:
-                            ET.SubElement(prog, "desc").text = desc_node.text
-
-            # --- 3. STANDARD XMLTV HANDLING ---
+            # --- 2. YACHTING TV & CHOPPERTOWN (NON-STANDARD XML) ---
             else:
-                source_root = ET.fromstring(response.content)
-                ET.SubElement(merged_root, "channel", id=target_id).append(ET.Element("display-name"))
-                merged_root.find(f"channel[@id='{target_id}']/display-name").text = display_name
+                # Handle UTF-16 for Choppertown/Frequency sources
+                content = response.content
+                try:
+                    source_root = ET.fromstring(content)
+                except ET.ParseError:
+                    source_root = ET.fromstring(content.decode('utf-16').encode('utf-8'))
+
+                chan_elem = ET.SubElement(merged_root, "channel", id=target_id)
+                ET.SubElement(chan_elem, "display-name").text = display_name
                 
                 for prog in source_root.findall("programme"):
-                    clean_prog = ET.Element("programme")
-                    clean_prog.set("channel", target_id)
-                    clean_prog.set("start", fix_timestamp(prog.get("start")))
-                    clean_prog.set("stop", fix_timestamp(prog.get("stop")))
-                    for tag in ["title", "desc", "icon"]:
-                        for elem in prog.findall(tag):
-                            clean_prog.append(elem)
-                    merged_root.append(clean_prog)
+                    # Use provided start/stop or calculate for Yachting
+                    if "yachting" in url.lower() or "Yachting" in display_name:
+                        xmltv_start = fix_yachting_time(prog.get("date"), prog.get("start"))
+                        xmltv_stop = fix_yachting_time(prog.get("date"), prog.get("end"))
+                    else:
+                        xmltv_start = fix_timestamp(prog.get("start"))
+                        xmltv_stop = fix_timestamp(prog.get("stop"))
+
+                    if xmltv_start and xmltv_stop:
+                        clean_prog = ET.SubElement(merged_root, "programme", channel=target_id, start=xmltv_start, stop=xmltv_stop)
+                        
+                        # Extract and Clean Tags (Handling CDATA and different Title tags)
+                        tags_to_find = {
+                            "title": ["title", "original_title"],
+                            "desc": ["desc", "description"],
+                            "icon": ["icon"]
+                        }
+                        
+                        for standard_tag, source_tags in tags_to_find.items():
+                            for s_tag in source_tags:
+                                found = prog.find(s_tag)
+                                if found is not None:
+                                    new_elem = ET.SubElement(clean_prog, standard_tag)
+                                    new_elem.text = found.text
+                                    if s_tag == "icon":
+                                        new_elem.set("src", found.get("src", ""))
+                                    break
 
         except Exception as e:
             print(f"Skip {display_name}: {e}")
 
-    # File Generation
+    # Output Generation
     xml_file = "epg.xml"
     declaration = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n'
     xml_data = ET.tostring(merged_root, encoding="utf-8")
@@ -110,6 +112,7 @@ def merge_epg():
         f.write(declaration.encode("utf-8") + xml_data)
     with open(xml_file, 'rb') as f_in, gzip.open("epg.xml.gz", 'wb') as f_out:
         shutil.copyfileobj(f_in, f_out)
+    print("All sources (including Choppertown) merged and cleaned.")
 
 if __name__ == "__main__":
     merge_epg()
