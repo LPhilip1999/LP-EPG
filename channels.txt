@@ -77,7 +77,7 @@ https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=JUST-FOR-LAUGHS-ENG&Dur
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=LOVE 2 HATE&DurationHours=96|LOVE 2 HATE
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=NAIJA-GOLD&DurationHours=96|NAIJA GOLD REELS
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=DIY-ART&DurationHours=96|DIY ART
-https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=COMEDY-TADKA&DurationHours=96|COMEDY-TADKA
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=COMEDY-TADKA&DurationHours=96|COMEDY TADKA
 https://streaming002.muxip.com/xmltv/19647840?scheduleId=115&daysInPast=2&daysInFuture=7|HUMOR HILL
 https://streaming002.muxip.com/xmltv/19647932?scheduleId=358&daysInPast=2&daysInFuture=7|FEVA TV
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=EDGY-TV-ENG&DurationHours=96|EDGY TV
