@@ -2,7 +2,7 @@ name: Update EPG Files
 
 on:
   schedule:
-    - cron: '0 1,7,13,19 * * *'
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 permissions:
