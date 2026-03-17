@@ -56,7 +56,7 @@ https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=HORROR-TV-ENG&DurationH
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=USERIES-TV&DurationHours=96|USeries TV
 https://api-ott.afrolandtv.com/getrawvideosegments?version=12.5&rss_format=xmltv&days=8&linear_channel_id=3920&language=en&partner=metax|AfroLand Comedy
 https://app2.evrideo.com/api/reports/epg?channelUid=860e6f4f-38ca-400d-8c37-b251f4f4209e&minDurationSecs=180&groupSameIdSequence=false&durationHours=96&encodingCodePag|Novebox English
-https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/wapis_metax/WAPIS.xml|WedoAmor Piel Salvaje
+https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/wapis_metax/WAPIS.xml|WedoAmor Piel Salvaje ENG
 https://freecast.s3.amazonaws.com/Programming/EPG/Playing_For_Change/PFC_EPG.xml|PLAYING FOR CHANGE
 https://30a-tv.com/feeds/vidaa/30atvmusic.xml|30A TV Music Channel 
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=FACECULTURE&DurationHours=96|FACE CULTURE TV
