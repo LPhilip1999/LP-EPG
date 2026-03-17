@@ -24,7 +24,7 @@ def fix_yachting_time(date_str, time_str):
 def merge_epg():
     merged_root = ET.Element("tv")
     merged_root.set("source-info-name", "EPG Service")
-    merged_root.set("generator-info-name", "Metax-Universal-V3")
+    merged_root.set("generator-info-name", "Metax-Universal-V4")
 
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -61,7 +61,7 @@ def merge_epg():
                     ET.SubElement(prog, "title").text = show.get("showTitle", "Bloomberg")
                     ET.SubElement(prog, "desc").text = ep.get("episodeDescription", "")
 
-            # --- 2. XML HANDLING (HI LIFE, YACHTING, CHOPPERTOWN) ---
+            # --- 2. XML HANDLING (HI LIFE, YACHTING, CHOPPERTOWN, SOFAST) ---
             else:
                 content = response.content
                 try:
@@ -72,7 +72,7 @@ def merge_epg():
                 chan_elem = ET.SubElement(merged_root, "channel", id=target_id)
                 ET.SubElement(chan_elem, "display-name").text = display_name
                 
-                # UNIVERSAL CHECK: Look for both 'programme' and 'program' tags
+                # Check for 'programme' or 'program'
                 for prog in source_root.findall(".//programme") + source_root.findall(".//program"):
                     if "yachting" in url.lower() or "Yachting" in display_name:
                         xmltv_start = fix_yachting_time(prog.get("date"), prog.get("start"))
@@ -84,10 +84,14 @@ def merge_epg():
                     if xmltv_start and xmltv_stop:
                         clean_prog = ET.SubElement(merged_root, "programme", channel=target_id, start=xmltv_start, stop=xmltv_stop)
                         
+                        # TAG MAPPING
+                        # title: maps 'title' or 'original_title'
+                        # desc: maps 'desc' or 'description'
+                        # icon: maps 'icon' or 'ThumbnailUrl'
                         tags_to_find = {
                             "title": ["title", "original_title"],
                             "desc": ["desc", "description"],
-                            "icon": ["icon"]
+                            "icon": ["icon", "ThumbnailUrl"]
                         }
                         
                         for standard_tag, source_tags in tags_to_find.items():
@@ -95,9 +99,15 @@ def merge_epg():
                                 found = prog.find(s_tag)
                                 if found is not None:
                                     new_elem = ET.SubElement(clean_prog, standard_tag)
-                                    new_elem.text = found.text
-                                    if s_tag == "icon" and found.get("src"):
-                                        new_elem.set("src", found.get("src"))
+                                    
+                                    # Logic for Icon: standard <icon src="url"/>
+                                    if standard_tag == "icon":
+                                        img_url = found.get("src") or found.text
+                                        if img_url:
+                                            new_elem.set("src", img_url.strip())
+                                    else:
+                                        # Logic for Title/Desc text
+                                        new_elem.text = found.text
                                     break
 
         except Exception as e:
@@ -111,7 +121,7 @@ def merge_epg():
         f.write(declaration.encode("utf-8") + xml_data)
     with open(xml_file, 'rb') as f_in, gzip.open("epg.xml.gz", 'wb') as f_out:
         shutil.copyfileobj(f_in, f_out)
-    print("Done! Hi Life and all other sources updated.")
+    print("Success! SoFast TV ThumbnailUrls converted to standard icons.")
 
 if __name__ == "__main__":
     merge_epg()
