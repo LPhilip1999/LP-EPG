@@ -82,7 +82,7 @@ https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=ESCAPE-TV&DurationHours
 https://api-ott-cookingpanda.ottera.tv/getrawvideosegments?version=12.5&rss_format=xmltv&linear_channel_id=900&partner=metax|Cooking Panda
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=the-beach-channel&DurationHours=96|THE BEACH CHANNEL
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=UNCHAINED-TV-ENG&DurationHours=96|UNCHAINEDTV
-https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=CUISINE-CULTURE&DurationHours=96|CUSINE CULTURE
+https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=CUISINE-CULTURE&DurationHours=96|CUISINE CULTURE
 https://30a-tv.com/feeds/vidaa/firsttimers.xml|The First Timers
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=WAI%20LANA&DurationHours=96|WAI LANA
 https://web-cdn.metaxplay.tv/cmsMediaEpg/12810.xml|Hi Life
