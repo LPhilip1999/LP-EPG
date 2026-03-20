@@ -116,3 +116,5 @@ https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/webds_metax/WEBDS.xml|wedo big s
 http://49.233.55.102/xml?platform=PLATFORM_0&channel=201&timezone=-8&days=7&format=download|Discovering China
 https://app2.evrideo.com/api/reports/epg?channelUid=f9222e46-c48b-4028-bb42-7178fe3a22e2&minDurationSecs=180&groupSameIdSequence=false&durationHours=96&encodingCodePage=65001&outputType=xmlTv2&wrapTextInCDATA=false|English Club
 https://epg.sofast.tv/api/ChannelXML/GetEpgXml?ChannelId=JUPITER-TV-ENG&DurationHours=96|JUPITER TV
+https://api.bongo-solutions.com/roster/EpgXml?channel=bongo-movies&days=2|BONGO MOVIES
+https://api.tvstartupcms.com/api/v3/channels/b6eeba12-ce95-4993-9bbb-0905f5dfdd1b/xmltv/?format=xmltv|POWERTUBE
