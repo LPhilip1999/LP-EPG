@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="EWTN-Chrome-Scraper-V3">
+<tv generator-info-name="EWTN-Fixed-Format">
   <channel id="tv-united-states.ewtn">
     <display-name>EWTN US</display-name>
   </channel>
