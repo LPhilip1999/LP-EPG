@@ -1,2 +1,2 @@
-# LPC-EPG-MetaX-Testing
-My test deployment of MetaX EPG.
+# LP-EPG
+EPG test deployment
