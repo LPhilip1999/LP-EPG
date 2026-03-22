@@ -20,8 +20,8 @@ jobs:
 
       - name: Reconstruct Private Files
         run: |
-          echo "${{ secrets.CHANNELS_DATA }}" > channels.txt
-          echo "${{ secrets.PYTHON_SCRIPT }}" > merge_epg.py
+          echo "${{ secrets.CH_DATA }}" > channels.txt
+          echo "${{ secrets.PY_DATA }}" > merge_epg.py
 
       - name: Set up Python
         uses: actions/setup-python@v5
