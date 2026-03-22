@@ -18,11 +18,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Reconstruct Private Files
-        run: |
-          echo "${{ secrets.CHANNELS_DATA }}" > channels.txt
-          echo "${{ secrets.PYTHON_SCRIPT }}" > merge_epg.py
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -42,6 +37,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "Update EPG: $(date +'%Y-%m-%d %H:%M') PHT"
+            git commit -m "Update EPG: $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
