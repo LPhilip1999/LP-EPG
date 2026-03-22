@@ -36,6 +36,10 @@ jobs:
         # This runs the logic from your b0322 backup
         run: python merge_epg.py
 
+      - name: Clean Up Temporary Files
+        # Explicitly deletes the secret data before committing
+        run: rm channels.txt
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
