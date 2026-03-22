@@ -1,2 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="EWTN-Deep-Scraper"><channel id="EWTN.united-states"><display-name>EWTN US</display-name></channel><channel id="EWTN.canada"><display-name>EWTN Canada</display-name></channel><channel id="EWTN.asia-pacific"><display-name>EWTN Asia-Pacific</display-name></channel><channel id="EWTN.africa-asia"><display-name>EWTN Africa/Asia</display-name></channel><channel id="EWTN.europe"><display-name>EWTN Europe</display-name></channel><channel id="EWTN.estados-unidos"><display-name>EWTN Español US</display-name></channel><channel id="EWTN.es-latam"><display-name>EWTN Español LATAM</display-name></channel></tv>
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="EWTN-Chrome-Scraper">
+  <channel id="tv-united-states.ewtn">
+    <display-name>EWTN US</display-name>
+  </channel>
+  <channel id="tv-canada.ewtn">
+    <display-name>EWTN Canada</display-name>
+  </channel>
+  <channel id="tv-asia-pacific.ewtn">
+    <display-name>EWTN Asia-Pacific</display-name>
+  </channel>
+  <channel id="tv-africa-asia.ewtn">
+    <display-name>EWTN Africa/Asia</display-name>
+  </channel>
+  <channel id="tv-europe.ewtn">
+    <display-name>EWTN Europe</display-name>
+  </channel>
+  <channel id="tv-estados-unidos.ewtn">
+    <display-name>EWTN Español US</display-name>
+  </channel>
+  <channel id="tv-es-latam.ewtn">
+    <display-name>EWTN Español LATAM</display-name>
+  </channel>
+</tv>
