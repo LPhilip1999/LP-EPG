@@ -2,8 +2,9 @@ name: Update EPG Files
 
 on:
   schedule:
+    # Runs at 8:00 AM Philippine Time (00:00 UTC) every day
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Allows you to run it manually from your phone
 
 permissions:
   contents: write
@@ -18,10 +19,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Reconstruct Private Files
-        run: |
-          echo "${{ secrets.CH_DATA }}" > channels.txt
-          echo "${{ secrets.PY_DATA }}" > merge_epg.py
+      - name: Reconstruct Private Channels
+        # Creates the channels.txt file that your Python script needs
+        run: echo "${{ secrets.CH_DATA }}" > channels.txt
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,19 +29,22 @@ jobs:
           python-version: '3.x'
 
       - name: Install Dependencies
+        # Your script requires the requests library to sync channels
         run: pip install requests
 
       - name: Run EPG Merge Script
+        # This runs the logic from your b0322 backup
         run: python merge_epg.py
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Your script generates both the plain and compressed EPG
           git add epg.xml epg.xml.gz
           if git diff --staged --quiet; then
-            echo "No changes"
+            echo "No changes to commit"
           else
-            git commit -m "Update EPG: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "Update EPG: $(date +'%Y-%m-%d %H:%M') PHT"
             git push
           fi
