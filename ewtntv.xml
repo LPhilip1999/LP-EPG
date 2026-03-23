@@ -1643,7 +1643,7 @@ They also explore some of the key experiences and practices that Catholics and P
     <desc>Documentary on Shawn Riney, a man born with Down Syndrome, and how his life touches the hearts of families who know him.</desc>
   </programme>
   <channel id="tv-asia-pacific.ewtn">
-    <display-name>EWTN Asia-Pacific</display-name>
+    <display-name>EWTN Asia Pacific</display-name>
   </channel>
   <programme start="20260322233000 +0000" stop="20260323000000 +0000" channel="tv-asia-pacific.ewtn">
     <title>Biblical Story of the Mass</title>
@@ -4330,7 +4330,7 @@ They also explore some of the key experiences and practices that Catholics and P
     <desc>Each week, Raymond Arroyo challenges viewers with important political and cultural reporting and analysis of a wide variety of topics of interest to Catholics and people of faith.</desc>
   </programme>
   <channel id="tv-estados-unidos.ewtn">
-    <display-name>EWTN Español US</display-name>
+    <display-name>EWTN EEUU</display-name>
   </channel>
   <programme start="20260322230000 +0000" stop="20260323000000 +0000" channel="tv-estados-unidos.ewtn">
     <title>Tertulias de fe</title>
@@ -5149,7 +5149,7 @@ They also explore some of the key experiences and practices that Catholics and P
     <sub-title>Letanía al Sagrado Corazón de Jesús</sub-title>
   </programme>
   <channel id="tv-es-latam.ewtn">
-    <display-name>EWTN Español LATAM</display-name>
+    <display-name>EWTN Latinoamérica</display-name>
   </channel>
   <programme start="20260322230000 +0000" stop="20260323000000 +0000" channel="tv-es-latam.ewtn">
     <title>Tertulias de fe</title>
