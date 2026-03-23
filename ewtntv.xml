@@ -3,6 +3,50 @@
   <channel id="tv-united-states.ewtn">
     <display-name>EWTN US</display-name>
   </channel>
+  <programme start="20260322230000 +0000" stop="20260323002000 +0000" channel="tv-united-states.ewtn">
+    <title>Sunday Mass</title>
+    <desc>The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel as friars intone Gregorian chant. Visiting clergy concelebrate this sacrament. LIVE Sundays at 8 am Eastern.</desc>
+  </programme>
+  <programme start="20260323002000 +0000" stop="20260323003000 +0000" channel="tv-united-states.ewtn">
+    <title>Litany of the Sacred Heart</title>
+    <desc>The Franciscan Missionaries of the Eternal Word pray the Litany of the Sacred Heart.</desc>
+  </programme>
+  <programme start="20260323003000 +0000" stop="20260323010000 +0000" channel="tv-united-states.ewtn">
+    <title>Catholics Come Home</title>
+    <sub-title>Columbian Psychologist Discovers Truth</sub-title>
+    <desc>Despite agnostic influences and a secular scientific education, Isabel Alvarez rediscovered the joy of her faith that she had wandered from, with the help of the Blessed Mother.</desc>
+  </programme>
+  <programme start="20260323010000 +0000" stop="20260323013000 +0000" channel="tv-united-states.ewtn">
+    <title>Life on the Rock</title>
+    <sub-title>Pete Burak, Pt. 2</sub-title>
+    <desc>Pete Burak, of Renewal Ministries, is back to explore the value of prayer and listening to what God has to say to us, while also sharing more about his book, “A Man on Purpose.”</desc>
+  </programme>
+  <programme start="20260323013000 +0000" stop="20260323020000 +0000" channel="tv-united-states.ewtn">
+    <title>Holy Rosary From Lourdes</title>
+    <desc>Pilgrims from around the world gather and pray the Rosary from the Lourdes grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
+  </programme>
+  <programme start="20260323020000 +0000" stop="20260323030000 +0000" channel="tv-united-states.ewtn">
+    <title>Saint Patrick: the Hidden Years</title>
+    <desc>In this original docudrama, experience Saint Patrick’s life from his early years, to captivity, miraculous escape, and decision to return to evangelize to those he had left behind.</desc>
+  </programme>
+  <programme start="20260323030000 +0000" stop="20260323033000 +0000" channel="tv-united-states.ewtn">
+    <title>The Doctors of the Church</title>
+    <sub-title>St. Robert Bellarmine, Pt. 1</sub-title>
+    <desc>During a time of great division, Robert Bellarmine defended Church teaching against the revolutionary ideas of the Protestant Reformers. His scriptural and theological acumen made him a giant among doctors of the Church.</desc>
+  </programme>
+  <programme start="20260323033000 +0000" stop="20260323040000 +0000" channel="tv-united-states.ewtn">
+    <title>My Lourdes Faith Journey</title>
+    <sub-title>Fr. John Hollowell Pt. 2- Priests and Pilgrims of Hope:  Healing After Abuse</sub-title>
+    <desc>Fr. John Hollowell speaks frankly and openly in a sensitive discussion; exploring healing for victims of priestly and other abuse through the purity of the Immaculate Conception.</desc>
+  </programme>
+  <programme start="20260323040000 +0000" stop="20260323052000 +0000" channel="tv-united-states.ewtn">
+    <title>Sunday Mass</title>
+    <desc>The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel as friars intone Gregorian chant. Visiting clergy concelebrate this sacrament. LIVE Sundays at 8 am Eastern.</desc>
+  </programme>
+  <programme start="20260323052000 +0000" stop="20260323053000 +0000" channel="tv-united-states.ewtn">
+    <title>Litany of the Sacred Heart</title>
+    <desc>The Franciscan Missionaries of the Eternal Word pray the Litany of the Sacred Heart.</desc>
+  </programme>
   <programme start="20260323053000 +0000" stop="20260323070000 +0000" channel="tv-united-states.ewtn">
     <title>A Wolf in Sheep’s Clothing</title>
     <desc>An exposé of the lies and deception spun by 60's radical, Saul Alinsky. His political tactics and theories espoused social justice, but carried an agenda that threatened core beliefs of Christianity and the Church.</desc>
@@ -780,6 +824,50 @@ They also explore some of the key experiences and practices that Catholics and P
   <channel id="tv-canada.ewtn">
     <display-name>EWTN Canada</display-name>
   </channel>
+  <programme start="20260322230000 +0000" stop="20260323002000 +0000" channel="tv-canada.ewtn">
+    <title>Sunday Mass</title>
+    <desc>The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel as friars intone Gregorian chant. Visiting clergy concelebrate this sacrament. LIVE Sundays at 8 am Eastern.</desc>
+  </programme>
+  <programme start="20260323002000 +0000" stop="20260323003000 +0000" channel="tv-canada.ewtn">
+    <title>Litany of the Sacred Heart</title>
+    <desc>The Franciscan Missionaries of the Eternal Word pray the Litany of the Sacred Heart.</desc>
+  </programme>
+  <programme start="20260323003000 +0000" stop="20260323010000 +0000" channel="tv-canada.ewtn">
+    <title>Catholics Come Home</title>
+    <sub-title>Columbian Psychologist Discovers Truth</sub-title>
+    <desc>Despite agnostic influences and a secular scientific education, Isabel Alvarez rediscovered the joy of her faith that she had wandered from, with the help of the Blessed Mother.</desc>
+  </programme>
+  <programme start="20260323010000 +0000" stop="20260323013000 +0000" channel="tv-canada.ewtn">
+    <title>Life on the Rock</title>
+    <sub-title>Pete Burak, Pt. 2</sub-title>
+    <desc>Pete Burak, of Renewal Ministries, is back to explore the value of prayer and listening to what God has to say to us, while also sharing more about his book, “A Man on Purpose.”</desc>
+  </programme>
+  <programme start="20260323013000 +0000" stop="20260323020000 +0000" channel="tv-canada.ewtn">
+    <title>Holy Rosary From Lourdes</title>
+    <desc>Pilgrims from around the world gather and pray the Rosary from the Lourdes grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
+  </programme>
+  <programme start="20260323020000 +0000" stop="20260323030000 +0000" channel="tv-canada.ewtn">
+    <title>Saint Patrick: the Hidden Years</title>
+    <desc>In this original docudrama, experience Saint Patrick’s life from his early years, to captivity, miraculous escape, and decision to return to evangelize to those he had left behind.</desc>
+  </programme>
+  <programme start="20260323030000 +0000" stop="20260323033000 +0000" channel="tv-canada.ewtn">
+    <title>The Doctors of the Church</title>
+    <sub-title>St. Robert Bellarmine, Pt. 1</sub-title>
+    <desc>During a time of great division, Robert Bellarmine defended Church teaching against the revolutionary ideas of the Protestant Reformers. His scriptural and theological acumen made him a giant among doctors of the Church.</desc>
+  </programme>
+  <programme start="20260323033000 +0000" stop="20260323040000 +0000" channel="tv-canada.ewtn">
+    <title>My Lourdes Faith Journey</title>
+    <sub-title>Fr. John Hollowell Pt. 2- Priests and Pilgrims of Hope:  Healing After Abuse</sub-title>
+    <desc>Fr. John Hollowell speaks frankly and openly in a sensitive discussion; exploring healing for victims of priestly and other abuse through the purity of the Immaculate Conception.</desc>
+  </programme>
+  <programme start="20260323040000 +0000" stop="20260323052000 +0000" channel="tv-canada.ewtn">
+    <title>Sunday Mass</title>
+    <desc>The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel as friars intone Gregorian chant. Visiting clergy concelebrate this sacrament. LIVE Sundays at 8 am Eastern.</desc>
+  </programme>
+  <programme start="20260323052000 +0000" stop="20260323053000 +0000" channel="tv-canada.ewtn">
+    <title>Litany of the Sacred Heart</title>
+    <desc>The Franciscan Missionaries of the Eternal Word pray the Litany of the Sacred Heart.</desc>
+  </programme>
   <programme start="20260323053000 +0000" stop="20260323070000 +0000" channel="tv-canada.ewtn">
     <title>A Wolf in Sheep’s Clothing</title>
     <desc>An exposé of the lies and deception spun by 60's radical, Saul Alinsky. His political tactics and theories espoused social justice, but carried an agenda that threatened core beliefs of Christianity and the Church.</desc>
@@ -1557,6 +1645,54 @@ They also explore some of the key experiences and practices that Catholics and P
   <channel id="tv-asia-pacific.ewtn">
     <display-name>EWTN Asia-Pacific</display-name>
   </channel>
+  <programme start="20260322233000 +0000" stop="20260323000000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>Biblical Story of the Mass</title>
+    <sub-title>Like Fathers, Like Sons: Abraham and Isaac Recieve God's Saving Word</sub-title>
+    <desc>Tom Nash and Fr. Wade explore how Abraham’s offering of his only son Isaac prefigures the Sacrifice of the Son of God, whom our heavenly Father sent to save the world.</desc>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>Mother Angelica Live Classics</title>
+    <sub-title>03/22/11 Annunciation</sub-title>
+    <desc>EWTN foundress Mother Angelica discusses the Annunciation.</desc>
+  </programme>
+  <programme start="20260323010000 +0000" stop="20260323013000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>Ireland's Catholics: Signs of Hope</title>
+    <desc>Colm Flynn reports from Ireland, where Church decline meets renewal, as young Catholics revive devotion and lay faithful take on new roles.</desc>
+  </programme>
+  <programme start="20260323013000 +0000" stop="20260323020000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>Where God Weeps</title>
+    <sub-title>Way of the Cross in the Conflict in the Amara Region in Ethiopia</sub-title>
+    <desc>Join Mark Riedemann and Bishop Christos Matheos Semahun to explore the diocese of Bahir Dar-Dessie in one of Africa’s poorest countries which still struggles to recover from war.</desc>
+  </programme>
+  <programme start="20260323020000 +0000" stop="20260323023000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>Sunday Vespers With Benediction</title>
+    <desc>Join the Franciscan Missionaries of the Eternal Word as they celebrate Vespers and Benediction of the Blessed Sacrament from Our Lady of the Angels Chapel in Irondale, Alabama.</desc>
+  </programme>
+  <programme start="20260323023000 +0000" stop="20260323030000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>Sunday Best With Fr. Groeschel</title>
+    <sub-title>Mail Bag - Christ's Divinity</sub-title>
+    <desc>On today’s episode of Sunday Best, Fr. Benedict Groeschel answers challenging viewer questions on a wide range of subjects, including the Divinity of Jesus Christ.</desc>
+  </programme>
+  <programme start="20260323030000 +0000" stop="20260323033000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>From the Heart, With Mother Angelica</title>
+    <sub-title>Hunger and Thirst for God and Humor</sub-title>
+    <desc>Mother speaks about the importance of hunger and thirst for God, and cites passages from John, Matthew and Colossians that illustrate her point about the gift of the Holy Spirit, and God’s power over all things.</desc>
+  </programme>
+  <programme start="20260323033000 +0000" stop="20260323040000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>Remembering Jesus</title>
+    <sub-title>Sleep - Prayer - Graceamine</sub-title>
+    <desc>Dr. Vincent Fortanasce and Fr. Roger Landry discuss the importance of sleep and the importance of diagnosing and treating sleep apnea as a way to prevent Alzheimer’s.</desc>
+  </programme>
+  <programme start="20260323040000 +0000" stop="20260323043000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>Life on the Rock</title>
+    <sub-title>Pete Burak, Pt. 2</sub-title>
+    <desc>Pete Burak, of Renewal Ministries, is back to explore the value of prayer and listening to what God has to say to us, while also sharing more about his book, “A Man on Purpose.”</desc>
+  </programme>
+  <programme start="20260323043000 +0000" stop="20260323050000 +0000" channel="tv-asia-pacific.ewtn">
+    <title>Catholics Come Home</title>
+    <sub-title>Tsa Trainer Converts Upon Return From Europe</sub-title>
+    <desc>How Rick Strickland, a non-practicing Texas Baptist, converted to Catholicism, and has since helped seven family members and friends come home to the Church. Hosted by Tom Peterson.</desc>
+  </programme>
   <programme start="20260323050000 +0000" stop="20260323060000 +0000" channel="tv-asia-pacific.ewtn">
     <title>Mother Angelica Live Classics</title>
     <sub-title>Why Did Lucifer Call God a Liar</sub-title>
@@ -2417,6 +2553,52 @@ They also explore some of the key experiences and practices that Catholics and P
   <channel id="tv-africa-asia.ewtn">
     <display-name>EWTN Africa/Asia</display-name>
   </channel>
+  <programme start="20260322233000 +0000" stop="20260323000000 +0000" channel="tv-africa-asia.ewtn">
+    <title>An EWTN Holy Land Experience</title>
+    <sub-title>An EWTN Holy Land Experience: Peter Pt.2</sub-title>
+    <desc>The exploration of St. Peter's remarkable life continues with a visit to many of the Holy Land sites where he faced his most difficult trials as an apostle and servant of God.</desc>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="tv-africa-asia.ewtn">
+    <title>Mother Angelica Live Classics</title>
+    <sub-title>Why Did Lucifer Call God a Liar</sub-title>
+    <desc>Mother Angelica offers an insightful discussion on the deceptiveness of our spiritual enemy, Satan.</desc>
+  </programme>
+  <programme start="20260323010000 +0000" stop="20260323013000 +0000" channel="tv-africa-asia.ewtn">
+    <title>Sunday Vespers With Benediction</title>
+    <desc>Join the Franciscan Missionaries of the Eternal Word as they celebrate Vespers and Benediction of the Blessed Sacrament from Our Lady of the Angels Chapel in Irondale, Alabama.</desc>
+  </programme>
+  <programme start="20260323013000 +0000" stop="20260323020000 +0000" channel="tv-africa-asia.ewtn">
+    <title>Sunday Best With Fr. Groeschel</title>
+    <sub-title>Satan</sub-title>
+    <desc>He’s the iconic Catholic priest, author, psychologist, activist, and television host. Relive Fr. Benedict Groeschel’s most inspirational programs during his ministry on EWTN. Today he speaks about “Satan.”</desc>
+  </programme>
+  <programme start="20260323020000 +0000" stop="20260323023000 +0000" channel="tv-africa-asia.ewtn">
+    <title>Ireland's Catholics: Signs of Hope</title>
+    <desc>Colm Flynn reports from Ireland, where Church decline meets renewal, as young Catholics revive devotion and lay faithful take on new roles.</desc>
+  </programme>
+  <programme start="20260323023000 +0000" stop="20260323035000 +0000" channel="tv-africa-asia.ewtn">
+    <title>Sunday Mass</title>
+    <desc>The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel as friars intone Gregorian chant. Visiting clergy concelebrate this sacrament. LIVE Sundays at 8 am Eastern.</desc>
+  </programme>
+  <programme start="20260323035000 +0000" stop="20260323040000 +0000" channel="tv-africa-asia.ewtn">
+    <title>The Litany of the Sacred Heart of Jesus</title>
+    <desc>Join the Franciscan Missionaries of the Eternal Word at the Shrine of the Most Blessed Sacrament in Hanceville, Alabama, as they pray the Litany of the Sacred Heart.</desc>
+  </programme>
+  <programme start="20260323040000 +0000" stop="20260323043000 +0000" channel="tv-africa-asia.ewtn">
+    <title>Life on the Rock</title>
+    <sub-title>Pete Burak, Pt. 2</sub-title>
+    <desc>Pete Burak, of Renewal Ministries, is back to explore the value of prayer and listening to what God has to say to us, while also sharing more about his book, “A Man on Purpose.”</desc>
+  </programme>
+  <programme start="20260323043000 +0000" stop="20260323050000 +0000" channel="tv-africa-asia.ewtn">
+    <title>Icons</title>
+    <sub-title>Icons  the Gift of Lourdes</sub-title>
+    <desc>Their pilgrimage has led them down a road to self-discovery and healing that none could have expected. Now, Fr. Angelus and the children bring home the lessons they learned that helped them all grow closer to God.</desc>
+  </programme>
+  <programme start="20260323050000 +0000" stop="20260323053000 +0000" channel="tv-africa-asia.ewtn">
+    <title>Remembering Jesus</title>
+    <sub-title>Sleep - Prayer - Graceamine</sub-title>
+    <desc>Dr. Vincent Fortanasce and Fr. Roger Landry discuss the importance of sleep and the importance of diagnosing and treating sleep apnea as a way to prevent Alzheimer’s.</desc>
+  </programme>
   <programme start="20260323053000 +0000" stop="20260323063000 +0000" channel="tv-africa-asia.ewtn">
     <title>EWTN Live</title>
     <sub-title>Robert Royal</sub-title>
@@ -3260,6 +3442,52 @@ They also explore some of the key experiences and practices that Catholics and P
   <channel id="tv-europe.ewtn">
     <display-name>EWTN Europe</display-name>
   </channel>
+  <programme start="20260322233000 +0000" stop="20260323000000 +0000" channel="tv-europe.ewtn">
+    <title>Savoring Our Faith</title>
+    <sub-title>Lisieux, France</sub-title>
+    <desc>Fr. Leo Patalinghug examines the life of St. Thérèse at Lisieux by touring the saint’s family home and the Carmelite monastery where “The Little Flower” devoted her life to God.</desc>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="tv-europe.ewtn">
+    <title>Mother Angelica Live Classics</title>
+    <sub-title>Why Did Lucifer Call God a Liar</sub-title>
+    <desc>Mother Angelica offers an insightful discussion on the deceptiveness of our spiritual enemy, Satan.</desc>
+  </programme>
+  <programme start="20260323010000 +0000" stop="20260323022000 +0000" channel="tv-europe.ewtn">
+    <title>Sunday Mass</title>
+    <desc>The Franciscan Missionaries of the Eternal Word celebrate the Holy Sacrifice of the Mass each Sunday from Our Lady of the Angels Chapel as friars intone Gregorian chant. Visiting clergy concelebrate this sacrament. LIVE Sundays at 8 am Eastern.</desc>
+  </programme>
+  <programme start="20260323022000 +0000" stop="20260323023000 +0000" channel="tv-europe.ewtn">
+    <title>The Litany of the Sacred Heart of Jesus</title>
+    <desc>Join the Franciscan Missionaries of the Eternal Word at the Shrine of the Most Blessed Sacrament in Hanceville, Alabama, as they pray the Litany of the Sacred Heart.</desc>
+  </programme>
+  <programme start="20260323023000 +0000" stop="20260323030000 +0000" channel="tv-europe.ewtn">
+    <title>Sunday Best With Fr. Groeschel</title>
+    <sub-title>The Meaning of the Mass</sub-title>
+    <desc>On today’s program, Fr. Groeschel discusses the meaning of the Mass, comparing the current service to the way it was celebrated in the early Church. He also explores what the Eucharist means for the faithful.</desc>
+  </programme>
+  <programme start="20260323030000 +0000" stop="20260323040000 +0000" channel="tv-europe.ewtn">
+    <title>Saint Patrick: the Hidden Years</title>
+    <desc>In this original docudrama, experience Saint Patrick’s life from his early years, to captivity, miraculous escape, and decision to return to evangelize to those he had left behind.</desc>
+  </programme>
+  <programme start="20260323040000 +0000" stop="20260323043000 +0000" channel="tv-europe.ewtn">
+    <title>Explore With the Miracle Hunter</title>
+    <sub-title>Paris</sub-title>
+    <desc>"Miracle Hunter" Michael O'Neill travels to Paris where the Virgin Mary appeared to St. Catherine Laboure in 1830, resulting in the most famous and widespread Catholic medal in circulation, the Miraculous Medal.</desc>
+  </programme>
+  <programme start="20260323043000 +0000" stop="20260323050000 +0000" channel="tv-europe.ewtn">
+    <title>Remembering Jesus</title>
+    <sub-title>Sleep - Prayer - Graceamine</sub-title>
+    <desc>Dr. Vincent Fortanasce and Fr. Roger Landry discuss the importance of sleep and the importance of diagnosing and treating sleep apnea as a way to prevent Alzheimer’s.</desc>
+  </programme>
+  <programme start="20260323050000 +0000" stop="20260323051900 +0000" channel="tv-europe.ewtn">
+    <title>The Holy Land Rosary</title>
+    <sub-title>Joyful Mysteries</sub-title>
+    <desc>Fr. Mitch Pacwa leads the Joyful Mysteries of the Rosary from the actual holy sites and shrines where they took place, bringing the Gospels to life and offering a deeper understanding of the Rosary meditations.</desc>
+  </programme>
+  <programme start="20260323051900 +0000" stop="20260323053000 +0000" channel="tv-europe.ewtn">
+    <title>The Litany of the Divine Child Jesus</title>
+    <desc>Join the Franciscan Missionaries of the Eternal Word as they recite the litany of the Divine Child Jesus from the Shrine of the Most Blessed Sacrament in Hanceville, Alabama.</desc>
+  </programme>
   <programme start="20260323053000 +0000" stop="20260323060000 +0000" channel="tv-europe.ewtn">
     <title>Lord, Have Mercy</title>
     <sub-title>Answering Common Objections</sub-title>
@@ -4104,6 +4332,44 @@ They also explore some of the key experiences and practices that Catholics and P
   <channel id="tv-estados-unidos.ewtn">
     <display-name>EWTN Español US</display-name>
   </channel>
+  <programme start="20260322230000 +0000" stop="20260323000000 +0000" channel="tv-estados-unidos.ewtn">
+    <title>Tertulias de fe</title>
+    <sub-title>Martín Zavala</sub-title>
+    <desc>Martín Zavala, originario de Monterrey, Nuevo León, México, es un misionero laico, viudo, con tres hijos. Fue profesor de la materia de Apologética en el Seminario Mayor de Ciudad Juárez, México, fundador y subdirector del Instituto Diocesano de Teología de Ciudad, Juárez y fundador y director de Misioneros de la Palabra de Dios. Además, fundador y director del Instituto Católico de Formación Integral DASM (Discípulo Apologista Servidor Misionero). Conferencista, participante en programas de Radio y Televisión sobre apologética, pastoral y formación integral y Autor/Coautor de 23 libros. Su apostolado busca impulsar el crecimiento de la fe católica en las personas, familias, movimientos, parroquias, diócesis, etc.</desc>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="tv-estados-unidos.ewtn">
+    <title>Mientras el mundo gira</title>
+    <sub-title>¡Tomar a Dios en serio!</sub-title>
+    <desc>Tomar a Dios en serio es contar con Él siempre, es pensar, ¿que haría Jesús en mi lugar? Es imaginarte que Él está frente a ti viéndote, y saber que lo que haces le agrada. Tomar a Dios en serio, exclama el Padre Willie, es buscar ser como Él, es luchar por conseguir la santidad.</desc>
+  </programme>
+  <programme start="20260323010000 +0000" stop="20260323020000 +0000" channel="tv-estados-unidos.ewtn">
+    <title>Conozca primero su fe católica</title>
+    <sub-title>Estaba ciego y ahora puedo ver</sub-title>
+    <desc>La Palabra de Dios nos habla acerca de un ciego de nacimiento. Pobrecito, seguro que era un joven y toda su vida había estado en oscuridad. Pero Jesús se acerca a Él. Para los judíos el tener un defecto físico era una maldición de Dios. Pero qué dice Jesús, no es ni por él ni por sus padres, sino para que lo que suceda sea para gloria de Dios. Y el ciego dijo: “lo que yo sí sé es que yo era ciego, pero ahora puedo ver”. El Padre Pedro ruega por que el Señor nos ayude para que en ese tiempo de Cuaresma podamos de verdad dejarnos sanar por Cristo y que podamos ver la vida con nuevos ojos. El P. Núñez también responde a las preguntas llegadas al programa vía telefónica, el correo electrónico (padrepedro@ewtn.com) y Facebook (www.facebook.com/ppedronunez).</desc>
+  </programme>
+  <programme start="20260323020000 +0000" stop="20260323030000 +0000" channel="tv-estados-unidos.ewtn">
+    <title>Perspectiva Católica</title>
+    <sub-title>La paternidad y San José</sub-title>
+    <desc>San José se nos presenta en la Biblia como alguien que habla poco, pero hace mucho. Mons. Flavio Calle, arzobispo emérito de Ibagué (Colombia), junto a José Cardozo, nos comparten el porqué de su devoción a este gran santo y lo que podemos aprender de él.</desc>
+  </programme>
+  <programme start="20260323030000 +0000" stop="20260323040000 +0000" channel="tv-estados-unidos.ewtn">
+    <title>Un viaje, dos destinos</title>
+    <desc>Las advocaciones de la Virgen María representadas en las imágenes de Nuestra Señora de Luján y Nuestra Señora de la Consolación de Sumampa, llegaron a esta tierra, hoy conocida como Argentina, en el siglo XVII. Desde entonces y hasta hoy congregan a millones de peregrinos, que se acercan tanto a Luján, en Buenos Aires, como a Sumampa, en Santiago del Estero, para agradecer y también solicitar la intercesión de María ante Jesús, su hijo.</desc>
+  </programme>
+  <programme start="20260323040000 +0000" stop="20260323043000 +0000" channel="tv-estados-unidos.ewtn">
+    <title>Informe provida</title>
+    <sub-title>Fundación Chile unido</sub-title>
+    <desc>Entrevista a Verónica Hoffmann, directora ejecutiva de Fundación Chile Unido, cuya misión principal es la construcción de un país más humano, a través de diversos programas sociales, entre las cuales está el apoyar a la mujer ante un embarazo vulnerable, el cuidado y protección de la vida, y el fortalecimiento de la familia como núcleo fundamental de la sociedad.</desc>
+  </programme>
+  <programme start="20260323043000 +0000" stop="20260323050000 +0000" channel="tv-estados-unidos.ewtn">
+    <title>De dos en dos</title>
+    <sub-title>Reglas 7 y 8 de los ejercicios espirituales</sub-title>
+    <desc>Cuando sientes que Dios está lejos, ¿cómo puedes encontrar fuerza y paciencia? Las Reglas 7 y 8 de San Ignacio de Loyola te ofrecen una guía para resistir en la desolación y esperar con esperanza la consolación divina.</desc>
+  </programme>
+  <programme start="20260323050000 +0000" stop="20260323053000 +0000" channel="tv-estados-unidos.ewtn">
+    <title>Teresa, una vocacion</title>
+    <desc>Este documental pone de manifiesto en la persona de Teresa de Cepeda y Ahumada que la vocación y la fidelidad a la llamada de Dios, a esa vocación es siempre una lucha. Lucha personal en el proceso de desvelamiento de la voluntad de Dios en su vida, lucha exterior para llevar a cabo o término el proyecto que Dios propone para su vida y, en el caso de Santa Teresa, llevar a término de proyecto divino para la iglesia.</desc>
+  </programme>
   <programme start="20260323053000 +0000" stop="20260323060000 +0000" channel="tv-estados-unidos.ewtn">
     <title>Cristonautas</title>
     <sub-title>Escritos de S. Pablo: Introducción y contexto</sub-title>
@@ -4885,6 +5151,50 @@ They also explore some of the key experiences and practices that Catholics and P
   <channel id="tv-es-latam.ewtn">
     <display-name>EWTN Español LATAM</display-name>
   </channel>
+  <programme start="20260322230000 +0000" stop="20260323000000 +0000" channel="tv-es-latam.ewtn">
+    <title>Tertulias de fe</title>
+    <sub-title>Martín Zavala</sub-title>
+    <desc>Martín Zavala, originario de Monterrey, Nuevo León, México, es un misionero laico, viudo, con tres hijos. Fue profesor de la materia de Apologética en el Seminario Mayor de Ciudad Juárez, México, fundador y subdirector del Instituto Diocesano de Teología de Ciudad, Juárez y fundador y director de Misioneros de la Palabra de Dios. Además, fundador y director del Instituto Católico de Formación Integral DASM (Discípulo Apologista Servidor Misionero). Conferencista, participante en programas de Radio y Televisión sobre apologética, pastoral y formación integral y Autor/Coautor de 23 libros. Su apostolado busca impulsar el crecimiento de la fe católica en las personas, familias, movimientos, parroquias, diócesis, etc.</desc>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="tv-es-latam.ewtn">
+    <title>Mientras el mundo gira</title>
+    <sub-title>¡Tomar a Dios en serio!</sub-title>
+    <desc>Tomar a Dios en serio es contar con Él siempre, es pensar, ¿que haría Jesús en mi lugar? Es imaginarte que Él está frente a ti viéndote, y saber que lo que haces le agrada. Tomar a Dios en serio, exclama el Padre Willie, es buscar ser como Él, es luchar por conseguir la santidad.</desc>
+  </programme>
+  <programme start="20260323010000 +0000" stop="20260323020000 +0000" channel="tv-es-latam.ewtn">
+    <title>Conozca primero su fe católica</title>
+    <sub-title>Estaba ciego y ahora puedo ver</sub-title>
+    <desc>La Palabra de Dios nos habla acerca de un ciego de nacimiento. Pobrecito, seguro que era un joven y toda su vida había estado en oscuridad. Pero Jesús se acerca a Él. Para los judíos el tener un defecto físico era una maldición de Dios. Pero qué dice Jesús, no es ni por él ni por sus padres, sino para que lo que suceda sea para gloria de Dios. Y el ciego dijo: “lo que yo sí sé es que yo era ciego, pero ahora puedo ver”. El Padre Pedro ruega por que el Señor nos ayude para que en ese tiempo de Cuaresma podamos de verdad dejarnos sanar por Cristo y que podamos ver la vida con nuevos ojos. El P. Núñez también responde a las preguntas llegadas al programa vía telefónica, el correo electrónico (padrepedro@ewtn.com) y Facebook (www.facebook.com/ppedronunez).</desc>
+  </programme>
+  <programme start="20260323020000 +0000" stop="20260323030000 +0000" channel="tv-es-latam.ewtn">
+    <title>Perspectiva Católica</title>
+    <sub-title>La paternidad y San José</sub-title>
+    <desc>San José se nos presenta en la Biblia como alguien que habla poco, pero hace mucho. Mons. Flavio Calle, arzobispo emérito de Ibagué (Colombia), junto a José Cardozo, nos comparten el porqué de su devoción a este gran santo y lo que podemos aprender de él.</desc>
+  </programme>
+  <programme start="20260323030000 +0000" stop="20260323033000 +0000" channel="tv-es-latam.ewtn">
+    <title>Informe provida</title>
+    <sub-title>Fundación Chile unido</sub-title>
+    <desc>Entrevista a Verónica Hoffmann, directora ejecutiva de Fundación Chile Unido, cuya misión principal es la construcción de un país más humano, a través de diversos programas sociales, entre las cuales está el apoyar a la mujer ante un embarazo vulnerable, el cuidado y protección de la vida, y el fortalecimiento de la familia como núcleo fundamental de la sociedad.</desc>
+  </programme>
+  <programme start="20260323033000 +0000" stop="20260323040000 +0000" channel="tv-es-latam.ewtn">
+    <title>De dos en dos</title>
+    <sub-title>Reglas 7 y 8 de los ejercicios espirituales</sub-title>
+    <desc>Cuando sientes que Dios está lejos, ¿cómo puedes encontrar fuerza y paciencia? Las Reglas 7 y 8 de San Ignacio de Loyola te ofrecen una guía para resistir en la desolación y esperar con esperanza la consolación divina.</desc>
+  </programme>
+  <programme start="20260323040000 +0000" stop="20260323043000 +0000" channel="tv-es-latam.ewtn">
+    <title>Ángelus con el Papa León XIV</title>
+    <desc>El Papa León XIV reza el Ángelus desde Roma. Esta oración especial, acompañada del toque de la campana del Ángelus, conmemora la Encarnación de Cristo.</desc>
+  </programme>
+  <programme start="20260323043000 +0000" stop="20260323050000 +0000" channel="tv-es-latam.ewtn">
+    <title>Santo Rosario</title>
+    <sub-title>Misterios gozosos</sub-title>
+    <desc>En los Misterios Gozosos meditamos sobre la vida de Jesús desde la Anunciación-Encarnación hasta la alegría del Encuentro del niño Jesús que se había perdido en el Templo.</desc>
+  </programme>
+  <programme start="20260323050000 +0000" stop="20260323053000 +0000" channel="tv-es-latam.ewtn">
+    <title>EWTN noticias</title>
+    <sub-title>EWTN Noticias | viernes 20 de marzo 2026 | Programa completo</sub-title>
+    <desc>HOY EN EWTN NOTICIAS:  El Papa recibe en el Vaticano a los reyes de España a pocos meses de su viaje apostólico al país  ADEMÁS: Crecen las manifestaciones en Cuba por el hartazgo de la población ante el colapso social. Un sacerdote detalla el difícil día a día de la mayoría de cubanos, que esperan un cambio de régimen. ESTO Y MÁS EN EWTN NOTICIAS.</desc>
+  </programme>
   <programme start="20260323053000 +0000" stop="20260323060000 +0000" channel="tv-es-latam.ewtn">
     <title>Teresa, una vocacion</title>
     <desc>Este documental pone de manifiesto en la persona de Teresa de Cepeda y Ahumada que la vocación y la fidelidad a la llamada de Dios, a esa vocación es siempre una lucha. Lucha personal en el proceso de desvelamiento de la voluntad de Dios en su vida, lucha exterior para llevar a cabo o término el proyecto que Dios propone para su vida y, en el caso de Santa Teresa, llevar a término de proyecto divino para la iglesia.</desc>
