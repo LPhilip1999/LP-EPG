@@ -1,12 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="EWTN-Radio-Global-Scraper">
+<tv generator-info-name="EWTN-Radio-EPG">
   <channel id="radio-eng.ewtn">
     <display-name>EWTN Catholic Radio</display-name>
   </channel>
-  <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="radio-eng.ewtn">
-    <title>Catholic Answers Live (LIVE)</title>
-    <desc>Catholic Answers Live - 1-888-318-7884</desc>
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="radio-eng.ewtn">
     <title>The Journey Home</title>
     <desc>JonMarc Grodi</desc>
@@ -787,33 +783,9 @@
     <title>Catholic Answers Live (LIVE)</title>
     <desc>Catholic Answers Live - 1-888-318-7884</desc>
   </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="radio-eng.ewtn">
-    <title>The Journey Home</title>
-    <desc>JonMarc Grodi</desc>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="radio-eng.ewtn">
-    <title>EWTN News Nightly</title>
-    <desc>www.ewtnnews.com</desc>
-  </programme>
-  <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="radio-eng.ewtn">
-    <title>Holy Rosary</title>
-    <desc>Fr. Groeschel (Joyful Mysteries)</desc>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="radio-eng.ewtn">
-    <title>Bible in a Year/Catechism in a Year</title>
-    <desc>Fr. Mike Schmitz</desc>
-  </programme>
-  <programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="radio-eng.ewtn">
-    <title>Called to Communion (Encore)</title>
-    <desc>Dr. David Anders</desc>
-  </programme>
   <channel id="radio-extra.ewtn">
     <display-name>EWTN Radio Extra</display-name>
   </channel>
-  <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="radio-extra.ewtn">
-    <title>Beyond Damascus</title>
-    <desc>Aaron Richards/Dan DeMatte</desc>
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="radio-extra.ewtn">
     <title>The Family Room</title>
     <desc>from EWTN Podcast Central</desc>
@@ -1774,37 +1746,9 @@
     <title>Beyond Damascus</title>
     <desc>Aaron Richards/Dan DeMatte</desc>
   </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="radio-extra.ewtn">
-    <title>The Family Room</title>
-    <desc>from EWTN Podcast Central</desc>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="radio-extra.ewtn">
-    <title>Holy Rosary for Vocations</title>
-    <desc>Joyful Mysteries</desc>
-  </programme>
-  <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="radio-extra.ewtn">
-    <title>Dare Great Things</title>
-    <desc>from EWTN Podcast Central</desc>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="radio-extra.ewtn">
-    <title>Mother Angelica Live Classics</title>
-    <desc>Mother Angelica</desc>
-  </programme>
-  <programme start="20260331030000 +0000" stop="20260331033000 +0000" channel="radio-extra.ewtn">
-    <title>Truth &amp; Life Audio Bible</title>
-    <desc>EWTN Radio</desc>
-  </programme>
-  <programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="radio-extra.ewtn">
-    <title>EWTN Presents</title>
-    <desc>Fr. Andrew Apostoli</desc>
-  </programme>
   <channel id="radio-rcm.ewtn">
     <display-name>EWTN Radio Católica Mundial</display-name>
   </channel>
-  <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="radio-rcm.ewtn">
-    <title>Tertulias de fe</title>
-    <desc>Conversación, compartir y diálogo son las características de una buena Tertulia… si a ello le agregamos la Fe tenemos un espacio en el que podemos crecer en el amor a Jesús y a su Iglesia gracias al testimonio de sus invitados. Julio Inclán, un padre bien padre, nos traerá invitados todos los lunes para participar en unas “Tertulias de Fe”.</desc>
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="radio-rcm.ewtn">
     <title>Young Soul - Alma Jóven (EN VIVO Desde Sacramento, California)</title>
     <desc>Para participar: 1-916-469-9092</desc>
@@ -2613,33 +2557,9 @@
     <title>Tertulias de fe</title>
     <desc>Conversación, compartir y diálogo son las características de una buena Tertulia… si a ello le agregamos la Fe tenemos un espacio en el que podemos crecer en el amor a Jesús y a su Iglesia gracias al testimonio de sus invitados. Julio Inclán, un padre bien padre, nos traerá invitados todos los lunes para participar en unas “Tertulias de Fe”.</desc>
   </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="radio-rcm.ewtn">
-    <title>Young Soul - Alma Jóven (EN VIVO Desde Sacramento, California)</title>
-    <desc>Para participar: 1-916-469-9092</desc>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="radio-rcm.ewtn">
-    <title>Santo Rosario (EN VIVO Desde Sacramento, California)</title>
-    <desc>Para participar: 1-916-469-9092</desc>
-  </programme>
-  <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="radio-rcm.ewtn">
-    <title>EWTN Noticias</title>
-    <desc>Noticiero diario producido exclusivamente para EWTN por la agencia ACI Prensa de Perú. Este programa aborda noticias católicas del mundo y las actividades del Papa; incluye también reportajes a destacados católicos de América del Sur y América Central.</desc>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="radio-rcm.ewtn">
-    <title>Fe hecha canción (Retransmisión)</title>
-    <desc>Escúchalo en vivo lunes a viernes 11am (Hora del Este EEUU). Fe hecha canción es el programa de EWTN Radio Católica Mundial que promociona la música de los grupos y cantantes católicos del mundo hispano. Desde el Estudio 3 de Radio Católica Mundial, Douglas Archer comparte con ustedes una hora cargada de canciones, incluyendo las últimas novedades y estrenos, y de vez en cuando con algún invitado que canta o toca en directo.</desc>
-  </programme>
-  <programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="radio-rcm.ewtn">
-    <title>Con los ojos de María (Retransmisión)</title>
-    <desc>Escúchalo en vivo los lunes-mier-viernes 9am (Hora del Este EEUU)</desc>
-  </programme>
   <channel id="radio-gb.ewtn">
     <display-name>EWTN Radio Great Britain - Ireland</display-name>
   </channel>
-  <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="radio-gb.ewtn">
-    <title>Catholic Answers Live LIVE</title>
-    <desc>The apologists of Catholic Answers and their guests answer your questions about the Catholic faith. LIVE CALL IN: 001 888 318 7884</desc>
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="radio-gb.ewtn">
     <title>Catholic Answers Live LIVE</title>
     <desc>The apologists of Catholic Answers and their radio guests address your questions about the Catholic faith. LIVE CALL IN: 001 888 3187884+C27</desc>
@@ -3600,13 +3520,13 @@
     <title>Catholic Answers Live LIVE</title>
     <desc>The apologists of Catholic Answers and their guests answer your questions about the Catholic faith. LIVE CALL IN: 001 888 318 7884</desc>
   </programme>
+  <programme start="20260330230000 +0000" stop="20260331000000 +0000" channel="radio-gb.ewtn">
+    <title>Catholic Answers Live LIVE</title>
+    <desc>The apologists of Catholic Answers and their radio guests address your questions about the Catholic faith. LIVE CALL IN: 001 888 3187884+C27</desc>
+  </programme>
   <channel id="radio-ph.ewtn">
     <display-name>EWTN Radio Philippines</display-name>
   </channel>
-  <programme start="20260323220000 +0000" stop="20260324000000 +0000" channel="radio-ph.ewtn">
-    <title>Catholic Answers Live</title>
-    <desc>EWTN is the radio home for Catholic Answers Live featuring some of the leading apologists and theologians in the Church today.</desc>
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="radio-ph.ewtn">
     <title>The Journey Home</title>
     <desc>Marcus Grodi and his guests discuss their personal “journeys home” back to the Roman Catholic Church.</desc>
@@ -4374,5 +4294,37 @@
   <programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="radio-ph.ewtn">
     <title>The Journey Home</title>
     <desc>Marcus Grodi and his guests discuss their personal “journeys home” back to the Catholic Church.</desc>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="radio-ph.ewtn">
+    <title>The Best of EWTN Live</title>
+    <desc>Fr. Mitch Pacwa interviews a variety of guests seeking to teach and prepare us for evangelism.</desc>
+  </programme>
+  <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="radio-ph.ewtn">
+    <title>Mother Angelica Live Classics</title>
+    <desc>Mother Mary Angelica, the foundress of EWTN, brings her world-famous wit and wisdom into play while offering practical solutions to life's challenges.</desc>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="radio-ph.ewtn">
+    <title>Called to Communion (LIVE)</title>
+    <desc>Dr. David Anders takes calls from fallen away and non-Catholics.</desc>
+  </programme>
+  <programme start="20260330190000 +0000" stop="20260330193000 +0000" channel="radio-ph.ewtn">
+    <title>Chaplet of Divine Mercy/Food for the Journey</title>
+    <desc>EWTN Radio</desc>
+  </programme>
+  <programme start="20260330193000 +0000" stop="20260330200000 +0000" channel="radio-ph.ewtn">
+    <title>The Rosary is a Place</title>
+    <desc>The Holy Rosary with Fr. Benedict Groeschel &amp; Simonetta</desc>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330210000 +0000" channel="radio-ph.ewtn">
+    <title>Beacon of Truth with Deacon Harold Burke-Sivers</title>
+    <desc>The Dynamic Deacon unpacks the teachings of the Church!</desc>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260330220000 +0000" channel="radio-ph.ewtn">
+    <title>Christ is the Answer</title>
+    <desc>Fr. John Riccardo brings you Instruction on the Catechism of the Catholic Church and other topics critical to those seeking answers to life’s greatest questions.</desc>
+  </programme>
+  <programme start="20260330220000 +0000" stop="20260331000000 +0000" channel="radio-ph.ewtn">
+    <title>Catholic Answers Live</title>
+    <desc>EWTN is the radio home for Catholic Answers Live featuring some of the leading apologists and theologians in the Church today.</desc>
   </programme>
 </tv>
