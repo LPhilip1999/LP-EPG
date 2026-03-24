@@ -579,17 +579,9 @@
     <title>Scripture &amp; Tradition</title>
     <desc>Fr. Mitch Pacwa</desc>
   </programme>
-  <programme start="20260329080000 +0000" stop="20260329090000 +0000" channel="radio-eng.ewtn">
-    <title>Fathers of Mercy Hour</title>
-    <desc>EWTN Radio</desc>
-  </programme>
-  <programme start="20260329090000 +0000" stop="20260329093000 +0000" channel="radio-eng.ewtn">
-    <title>The Catholic Café</title>
-    <desc>Deacon Jeff</desc>
-  </programme>
-  <programme start="20260329093000 +0000" stop="20260329100000 +0000" channel="radio-eng.ewtn">
-    <title>Holy Rosary</title>
-    <desc>Mother Angelica (glorious)</desc>
+  <programme start="20260329080000 +0000" stop="20260329100000 +0000" channel="radio-eng.ewtn">
+    <title>Solemn Mass of Palm Sunday</title>
+    <desc>Pope Leo XIV</desc>
   </programme>
   <programme start="20260329100000 +0000" stop="20260329103000 +0000" channel="radio-eng.ewtn">
     <title>Lenten Reflections</title>
@@ -652,8 +644,8 @@
     <desc>Bishop Robert Barron</desc>
   </programme>
   <programme start="20260329203000 +0000" stop="20260329210000 +0000" channel="radio-eng.ewtn">
-    <title>Blessed to Play</title>
-    <desc>Ron Meyer</desc>
+    <title>Palm Sunday Meditations</title>
+    <desc>Fr. Benedict Groeschel</desc>
   </programme>
   <programme start="20260329210000 +0000" stop="20260329213000 +0000" channel="radio-eng.ewtn">
     <title>Lent: A Season of Grace</title>
