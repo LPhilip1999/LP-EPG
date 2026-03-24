@@ -1,13 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="EWTN-TV-Scraper">
+<tv generator-info-name="EWTN-TV-EPG">
   <channel id="tv-usa.ewtn">
     <display-name>EWTN United States</display-name>
   </channel>
-  <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="tv-usa.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="tv-usa.ewtn">
     <title>Journey Home</title>
     <sub-title>Dr. Marcus Peter/Lee Sondeno - Former Pentecostals</sub-title>
@@ -1348,38 +1343,9 @@ They also explore some of the key experiences and practices that Catholics and P
     <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
   </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="tv-usa.ewtn">
-    <title>Journey Home</title>
-    <sub-title>Deacon Stephen Nash</sub-title>
-    <desc>Deacon Stephen Nash was baptized Catholic, but several of the family members who had been anchors of faith in his life passed away when he was young. 
-
-There were sparks of faith along the way that caused him to pop in and out of Church occasionally, especially in college, when he became friends with a classmate at Princeton who was discerning the priesthood. 
-
-When he married his wife, he started going to church regularly with her, but when their second child became ill, he really began to get serious about faith. That experience, combined with the persistent prayers of his Catholic family, were pivotal in him finally coming back fully to the sacraments, and eventually discerning a vocation to the diaconate.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/journey-home-JHT.jpg" />
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="tv-usa.ewtn">
-    <title>EWTN News Nightly</title>
-    <desc>EWTN News Nightly is our daily news and analysis program presenting breaking Catholic News worldwide, top stories, and daily reports from the White House, Capitol Hill, and Rome. Weekdays at 6 &amp; 9 PM EST.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="tv-usa.ewtn">
-    <title>Holy Rosary From Lourdes</title>
-    <desc>Pilgrims from around the world gather and pray the Rosary from the Lourdes grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="tv-usa.ewtn">
-    <title>World Over</title>
-    <desc>Each week, Raymond Arroyo challenges viewers with important political and cultural reporting and analysis of a wide variety of topics of interest to Catholics and people of faith.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/world-over-WOT.jpg" />
-  </programme>
   <channel id="tv-can.ewtn">
     <display-name>EWTN Canada</display-name>
   </channel>
-  <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="tv-can.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="tv-can.ewtn">
     <title>Journey Home</title>
     <sub-title>Dr. Marcus Peter/Lee Sondeno - Former Pentecostals</sub-title>
@@ -2719,38 +2685,9 @@ They also explore some of the key experiences and practices that Catholics and P
     <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
   </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="tv-can.ewtn">
-    <title>Journey Home</title>
-    <sub-title>Deacon Stephen Nash</sub-title>
-    <desc>Deacon Stephen Nash was baptized Catholic, but several of the family members who had been anchors of faith in his life passed away when he was young. 
-
-There were sparks of faith along the way that caused him to pop in and out of Church occasionally, especially in college, when he became friends with a classmate at Princeton who was discerning the priesthood. 
-
-When he married his wife, he started going to church regularly with her, but when their second child became ill, he really began to get serious about faith. That experience, combined with the persistent prayers of his Catholic family, were pivotal in him finally coming back fully to the sacraments, and eventually discerning a vocation to the diaconate.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/journey-home-JHT.jpg" />
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="tv-can.ewtn">
-    <title>EWTN News Nightly</title>
-    <desc>EWTN News Nightly is our daily news and analysis program presenting breaking Catholic News worldwide, top stories, and daily reports from the White House, Capitol Hill, and Rome. Weekdays at 6 &amp; 9 PM EST.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="tv-can.ewtn">
-    <title>Holy Rosary From Lourdes</title>
-    <desc>Pilgrims from around the world gather and pray the Rosary from the Lourdes grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="tv-can.ewtn">
-    <title>World Over</title>
-    <desc>Each week, Raymond Arroyo challenges viewers with important political and cultural reporting and analysis of a wide variety of topics of interest to Catholics and people of faith.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/world-over-WOT.jpg" />
-  </programme>
   <channel id="tv-apac.ewtn">
     <display-name>EWTN Asia Pacific</display-name>
   </channel>
-  <programme start="20260323233000 +0000" stop="20260324000000 +0000" channel="tv-apac.ewtn">
-    <title>Marriage: for Better...Forever!</title>
-    <sub-title>Praying for Your Marriage</sub-title>
-    <desc>Marriage Counsler Greg Popcak explains how everything you do in a marriage is a prayer and offers tips on how to grow together in mutual love of Christ and His Church.</desc>
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="tv-apac.ewtn">
     <title>Journey Home</title>
     <sub-title>Dr. Marcus Peter/Lee Sondeno - Former Pentecostals</sub-title>
@@ -4143,41 +4080,9 @@ They also explore some of the key experiences and practices that Catholics and P
     <desc>Hosts Raymond Arroyo and Jeff Cavins continue into the heart of the Holy Land. Journey to the Sea of Galilee to the bustling marketplace of Jerusalem, the Garden of Gethsemane, and the Mount of Olives.  Part 2.</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/path-of-the-messiah-POT.jpg" />
   </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="tv-apac.ewtn">
-    <title>Journey Home</title>
-    <sub-title>Deacon Stephen Nash</sub-title>
-    <desc>Deacon Stephen Nash was baptized Catholic, but several of the family members who had been anchors of faith in his life passed away when he was young. 
-
-There were sparks of faith along the way that caused him to pop in and out of Church occasionally, especially in college, when he became friends with a classmate at Princeton who was discerning the priesthood. 
-
-When he married his wife, he started going to church regularly with her, but when their second child became ill, he really began to get serious about faith. That experience, combined with the persistent prayers of his Catholic family, were pivotal in him finally coming back fully to the sacraments, and eventually discerning a vocation to the diaconate.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/journey-home-JHT.jpg" />
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331020000 +0000" channel="tv-apac.ewtn">
-    <title>Christendom</title>
-    <desc>A docudrama about the golden age when Christianity touched every aspect of peoples’ lives and the pillars of Western civilization were formed, producing great achievements in art, music, agriculture, health care and science.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/christendom-381-376945.jpg" />
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331023000 +0000" channel="tv-apac.ewtn">
-    <title>EWTN News Nightly</title>
-    <desc>EWTN News Nightly is our daily news and analysis program presenting breaking Catholic News worldwide, top stories, and daily reports from the White House, Capitol Hill, and Rome. Weekdays at 6 &amp; 9 PM EST.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260331023000 +0000" stop="20260331030000 +0000" channel="tv-apac.ewtn">
-    <title>Women of Grace</title>
-    <sub-title>Encountering Christ Through His Seven Last Words, Pt. 1</sub-title>
-    <desc>The Church’s spiritual teachers have long stressed the importance of meditating on Christ’s sufferings. Liz Kelly Stanchina shows us how to contemplate Jesus’ seven last words.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/women-of-grace-WGR.jpg" />
-  </programme>
   <channel id="tv-afas.ewtn">
     <display-name>EWTN Africa/Asia</display-name>
   </channel>
-  <programme start="20260323233000 +0000" stop="20260324000000 +0000" channel="tv-afas.ewtn">
-    <title>Coming to Christ</title>
-    <sub-title>Where Do We Find Jesus Christ in Our Lives Today?</sub-title>
-    <desc>Host Susan Conroy explains how at the Mass, we are not only receiving Jesus Christ Himself in Holy Communion and but we are hearing His Words of everlasting life. Part One.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/where-do-we-find-jesus-christ-in-our-lives-today-CTC14001.jpg" />
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="tv-afas.ewtn">
     <title>Journey Home</title>
     <sub-title>Dr. Marcus Peter/Lee Sondeno - Former Pentecostals</sub-title>
@@ -5597,41 +5502,9 @@ They also explore some of the key experiences and practices that Catholics and P
     <desc>Host Susan Conroy explains how at the Mass, we are not only receiving Jesus Christ Himself in Holy Communion and but we are hearing His Words of everlasting life. Part Two.</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/coming-to-christ-at-holy-mass-CTC14002.jpg" />
   </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="tv-afas.ewtn">
-    <title>Journey Home</title>
-    <sub-title>Deacon Stephen Nash</sub-title>
-    <desc>Deacon Stephen Nash was baptized Catholic, but several of the family members who had been anchors of faith in his life passed away when he was young. 
-
-There were sparks of faith along the way that caused him to pop in and out of Church occasionally, especially in college, when he became friends with a classmate at Princeton who was discerning the priesthood. 
-
-When he married his wife, he started going to church regularly with her, but when their second child became ill, he really began to get serious about faith. That experience, combined with the persistent prayers of his Catholic family, were pivotal in him finally coming back fully to the sacraments, and eventually discerning a vocation to the diaconate.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/journey-home-JHT.jpg" />
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331020000 +0000" channel="tv-afas.ewtn">
-    <title>Lenten Parish Mission</title>
-    <sub-title>The Real Presence</sub-title>
-    <desc>Fathers of Mercy Superior General Fr. William Casey, C.P.M.,reflects on the Real Presence of Our Lord from the Shrine of the Most Blessed Sacrament in Hanceville, Alabama.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/the-real-presence-LPM02202.jpg" />
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331023000 +0000" channel="tv-afas.ewtn">
-    <title>EWTN News Nightly</title>
-    <desc>EWTN News Nightly is our daily news and analysis program presenting breaking Catholic News worldwide, top stories, and daily reports from the White House, Capitol Hill, and Rome. Weekdays at 6 &amp; 9 PM EST.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260331023000 +0000" stop="20260331033000 +0000" channel="tv-afas.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
   <channel id="tv-eu.ewtn">
     <display-name>EWTN Europe</display-name>
   </channel>
-  <programme start="20260323233000 +0000" stop="20260324000000 +0000" channel="tv-eu.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Monday, March 23, 2026</sub-title>
-    <desc>Pope Leo advances Fr. Flanagan’s cause for sainthood, declaring him Venerable. Meanwhile, the traditional Palm Sunday procession in Jerusalem has been canceled due to the Iran war. And, we remember EWTN foundress Mother Angelica’s global impact ahead of the tenth anniversary of her passing.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="tv-eu.ewtn">
     <title>Journey Home</title>
     <sub-title>Dr. Marcus Peter/Lee Sondeno - Former Pentecostals</sub-title>
@@ -7069,41 +6942,9 @@ They also explore some of the key experiences and practices that Catholics and P
     <desc>EWTN News Nightly is our daily news and analysis program presenting breaking Catholic News worldwide, top stories, and daily reports from the White House, Capitol Hill, and Rome. Weekdays at 6 &amp; 9 PM EST.</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
   </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="tv-eu.ewtn">
-    <title>Journey Home</title>
-    <sub-title>Deacon Stephen Nash</sub-title>
-    <desc>Deacon Stephen Nash was baptized Catholic, but several of the family members who had been anchors of faith in his life passed away when he was young. 
-
-There were sparks of faith along the way that caused him to pop in and out of Church occasionally, especially in college, when he became friends with a classmate at Princeton who was discerning the priesthood. 
-
-When he married his wife, he started going to church regularly with her, but when their second child became ill, he really began to get serious about faith. That experience, combined with the persistent prayers of his Catholic family, were pivotal in him finally coming back fully to the sacraments, and eventually discerning a vocation to the diaconate.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/journey-home-JHT.jpg" />
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331020000 +0000" channel="tv-eu.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331023000 +0000" channel="tv-eu.ewtn">
-    <title>Chaplet of St. Michael</title>
-    <desc>Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels, as they pray the chaplet of St. Michael.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/chaplet-of-st-michael-381-123265.jpg" />
-  </programme>
-  <programme start="20260331023000 +0000" stop="20260331030000 +0000" channel="tv-eu.ewtn">
-    <title>From the Heart, With Mother Angelica</title>
-    <sub-title>Loving as God Loves</sub-title>
-    <desc>In John 13, Jesus washes the feet of his disciples, showing how to lead by humbly serving and offering cleansing. Mother Angelica explains how He commands us to love one another as the way to do his will even unto death.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/FHM.jpg" />
-  </programme>
   <channel id="tv-eeuu.ewtn">
     <display-name>EWTN Estados Unidos</display-name>
   </channel>
-  <programme start="20260323233000 +0000" stop="20260324000000 +0000" channel="tv-eeuu.ewtn">
-    <title>Que no te la cuenten</title>
-    <sub-title>La guerra cristera en México</sub-title>
-    <desc>La historia de la fe en México tiene un momento de mucha tristeza, marcada por la persecución de la fe y el levantamiento en armas para defenderla, conocida como la guerra Cristera.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/que-no-te-la-cuenten-QNT.jpg" />
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="tv-eeuu.ewtn">
     <title>Tertulias de fe</title>
     <sub-title>P. Jerónimo Espinoza</sub-title>
@@ -8430,34 +8271,9 @@ When he married his wife, he started going to church regularly with her, but whe
     <desc>La razón por la cual se celebra la Pascua Judía. Los elementos que se usan para su celebración.</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/como-era-la-pascua-judia-LPE18001.jpg" />
   </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="tv-eeuu.ewtn">
-    <title>Tertulias de fe</title>
-    <sub-title>Ricardo Luzondo y Lucia Baez</sub-title>
-    <desc>Dr. Ricardo Luzondo y Lucía Báez Luzondo, JD. MAPT son cofundadores y directores de pastoral Hispania para Marriage Building USA / Construyendo Matrimonios USA, Inc. También son cofundadores del ministerio Renovación Familiar (Family Renewal Minstries, Inc.), un ministerio dedicado a servir a matrimonios y familias en los Estados Unidos y Latinoamérica. Ricardo y Lucia han trabajado extensamente como directores en varias arquidiócesis de Estados Unidos en las áreas de laicado, matrimonio, vida familiar, pastoral hispana y vida parroquial. Ellos han producido y presentado cientos de retiros, talleres, conferencias, congresos, programas y cursos en español. También son escritores para varias publicadoras católicas. Además anfitriones en EWTN Radio Católica Mundial y por EWTN Español.</desc>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="tv-eeuu.ewtn">
-    <title>Semana santa en Sevilla</title>
-    <sub-title>Lunes santo</sub-title>
-    <desc>Un documental sobre la forma como los sevillanos viven el Lunes Santo. Las hermandades procesionan por las calles de Sevilla llevando al Señor hasta la Catedral, conmemorando su labor evangelizadora y acompañadas por los sonidos de las bandas musicales.</desc>
-  </programme>
-  <programme start="20260331013000 +0000" stop="20260331023000 +0000" channel="tv-eeuu.ewtn">
-    <title>El santo grial</title>
-    <desc>El Santo Grial que buscaban los Caballeros de la Tabla Redonda ¿es el mismo que se venera en la catedral de Valencia y el que utilizó Jesucristo en la última Cena? ¿Y si fuese así, cómo llegó de Jerusalén a España? Este programa responde por medio de investigadores españoles y alemanes quienes demuestran que la copa de ágata que se venera en Valencia es de la época de Cristo</desc>
-  </programme>
-  <programme start="20260331023000 +0000" stop="20260331033000 +0000" channel="tv-eeuu.ewtn">
-    <title>Meditaciones de semana santa</title>
-    <sub-title>Lunes</sub-title>
-    <icon src="https://www.ewtn.com/img/tv/highlights/meditaciones-de-semana-santa-MD1.jpg" />
-  </programme>
   <channel id="tv-latam.ewtn">
     <display-name>EWTN Latinoamérica</display-name>
   </channel>
-  <programme start="20260323233000 +0000" stop="20260324000000 +0000" channel="tv-latam.ewtn">
-    <title>Ni AM, ni FM, ni mp3</title>
-    <sub-title>El papel de los abuelos</sub-title>
-    <desc>Miguel Ángel González cuenta su experiencia como padre en la educación de los hijos, y también como abuelo.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/ni-am-ni-fm-ni-mp3-NNF.jpg" />
-  </programme>
   <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="tv-latam.ewtn">
     <title>Tertulias de fe</title>
     <sub-title>P. Jerónimo Espinoza</sub-title>
@@ -9789,26 +9605,5 @@ When he married his wife, he started going to church regularly with her, but whe
     <sub-title>Padres presentes, pero ausentes</sub-title>
     <desc>Boris Nájera y Silvia Quinteros, no fueron siempre los óptimos padres para sus hijos. Con su testimonio nos recuerdan la importancia de la presencia completa de los padres en la vida de los hijos.</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/ni-am-ni-fm-ni-mp3-NNF.jpg" />
-  </programme>
-  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="tv-latam.ewtn">
-    <title>Tertulias de fe</title>
-    <sub-title>Ricardo Luzondo y Lucia Baez</sub-title>
-    <desc>Dr. Ricardo Luzondo y Lucía Báez Luzondo, JD. MAPT son cofundadores y directores de pastoral Hispania para Marriage Building USA / Construyendo Matrimonios USA, Inc. También son cofundadores del ministerio Renovación Familiar (Family Renewal Minstries, Inc.), un ministerio dedicado a servir a matrimonios y familias en los Estados Unidos y Latinoamérica. Ricardo y Lucia han trabajado extensamente como directores en varias arquidiócesis de Estados Unidos en las áreas de laicado, matrimonio, vida familiar, pastoral hispana y vida parroquial. Ellos han producido y presentado cientos de retiros, talleres, conferencias, congresos, programas y cursos en español. También son escritores para varias publicadoras católicas. Además anfitriones en EWTN Radio Católica Mundial y por EWTN Español.</desc>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="tv-latam.ewtn">
-    <title>La pascua eterna</title>
-    <sub-title>¿Cómo era la pascua judía?</sub-title>
-    <desc>La razón por la cual se celebra la Pascua Judía. Los elementos que se usan para su celebración.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/como-era-la-pascua-judia-LPE18001.jpg" />
-  </programme>
-  <programme start="20260331013000 +0000" stop="20260331023000 +0000" channel="tv-latam.ewtn">
-    <title>Meditaciones de semana santa</title>
-    <sub-title>Lunes</sub-title>
-    <icon src="https://www.ewtn.com/img/tv/highlights/meditaciones-de-semana-santa-MD1.jpg" />
-  </programme>
-  <programme start="20260331023000 +0000" stop="20260331030000 +0000" channel="tv-latam.ewtn">
-    <title>Semana santa en Sevilla</title>
-    <sub-title>Lunes santo</sub-title>
-    <desc>Un documental sobre la forma como los sevillanos viven el Lunes Santo. Las hermandades procesionan por las calles de Sevilla llevando al Señor hasta la Catedral, conmemorando su labor evangelizadora y acompañadas por los sonidos de las bandas musicales.</desc>
   </programme>
 </tv>
