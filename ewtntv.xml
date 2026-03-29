@@ -3,188 +3,6 @@
   <channel id="tv-usa.ewtn">
     <display-name>EWTN United States</display-name>
   </channel>
-  <programme start="20260328000000 +0000" stop="20260328010000 +0000" channel="tv-usa.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
-  </programme>
-  <programme start="20260328010000 +0000" stop="20260328013000 +0000" channel="tv-usa.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Friday, March 27, 2026</sub-title>
-    <desc>Pope Leo XIV is set for a historic visit to Monaco. Meanwhile, Mass was held in memory of Mother Angelica at St. Peter’s Basilica. And, Chicago Catholic parents have appealed to the Vatican to keep their school open.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260328013000 +0000" stop="20260328020000 +0000" channel="tv-usa.ewtn">
-    <title>Holy Rosary From Lourdes</title>
-    <desc>Pilgrims from around the world gather and pray the Rosary from the Lourdes grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
-  </programme>
-  <programme start="20260328020000 +0000" stop="20260328023000 +0000" channel="tv-usa.ewtn">
-    <title>Life on the Rock</title>
-    <sub-title>Pete Burak, Pt. 2</sub-title>
-    <desc>Pete Burak, of Renewal Ministries, is back to explore the value of prayer and listening to what God has to say to us, while also sharing more about his book, “A Man on Purpose.”</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/life-on-the-rock-ROK.jpg" />
-  </programme>
-  <programme start="20260328023000 +0000" stop="20260328030000 +0000" channel="tv-usa.ewtn">
-    <title>Icons</title>
-    <sub-title>Icons  Mission of the Heart</sub-title>
-    <desc>Today’s heartwarming episode features Brothers Kolbe, Michelangelo and Francisco, three friars on a mission. They find and deliver a much-needed wheelchair to a child whose family could never afford it.</desc>
-  </programme>
-  <programme start="20260328030000 +0000" stop="20260328033000 +0000" channel="tv-usa.ewtn">
-    <title>Women of Grace</title>
-    <sub-title>Walking the Way of the Cross With Mary, Pt. 5</sub-title>
-    <desc>Colin Donovan wraps up the series, “Walking the Way of the Cross with Mary,” by discussing the many special titles the Church has given Mary and the importance behind each.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/women-of-grace-WGR.jpg" />
-  </programme>
-  <programme start="20260328033000 +0000" stop="20260328040000 +0000" channel="tv-usa.ewtn">
-    <title>Rites of Passage – Leaving Boyhood Behind</title>
-    <sub-title>Rites of Passage - the Revelation of Identity</sub-title>
-    <desc>Host Jason Craig discusses the ceremonial practices that are often done during a rite of passage, and delves into the deeper meaning behind those ceremonies and a father's role within them.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/rites-of-passage-the-need-of-brotherhood-ROP19004.jpg" />
-  </programme>
-  <programme start="20260328040000 +0000" stop="20260328050000 +0000" channel="tv-usa.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328050000 +0000" stop="20260328060000 +0000" channel="tv-usa.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
-  </programme>
-  <programme start="20260328060000 +0000" stop="20260328063000 +0000" channel="tv-usa.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Friday, March 27, 2026</sub-title>
-    <desc>Pope Leo XIV is set for a historic visit to Monaco. Meanwhile, Mass was held in memory of Mother Angelica at St. Peter’s Basilica. And, Chicago Catholic parents have appealed to the Vatican to keep their school open.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260328063000 +0000" stop="20260328070000 +0000" channel="tv-usa.ewtn">
-    <title>A Travel Guide to Life</title>
-    <sub-title>Transform Yourself</sub-title>
-    <desc>Anthony DeStefano wraps things up by discussing three of the hardest realities in life to understand: the presence of evil in the world, suffering, the meaning of love and its greatest symbol, the Cross.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/transform-yourself-TGL14006.jpg" />
-  </programme>
-  <programme start="20260328070000 +0000" stop="20260328073000 +0000" channel="tv-usa.ewtn">
-    <title>The Major Religious Orders of Men</title>
-    <sub-title>The Contribution of Eastern Monasticism in the West</sub-title>
-    <desc>Fr. Charles Connor continues his study of the major Catholic religious orders of men with a look at the influence of Eastern Monasticism on the West.</desc>
-  </programme>
-  <programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="tv-usa.ewtn">
-    <title>At Home With Jim and Joy</title>
-    <sub-title>Sr. Emma Rueda, SCTJM and Sr. Amanda Davis, Pt. 2</sub-title>
-    <desc>Sr. Emma SCTJM and Sr. Amanda Magdalena SCTJM are back with Jim and Joy to share more about the beauty found within the Servants of the Pierced Hearts of Jesus and Mary.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/at-home-with-jim-and-joy-HJJ.jpg" />
-  </programme>
-  <programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="tv-usa.ewtn">
-    <title>Savoring Our Faith</title>
-    <sub-title>Cebu: Marian Devotion</sub-title>
-    <desc>Fr. Leo continues his time in Cebu, visiting Marian shrines and learning how the ancient dogmas shaped Filipino devotion today expressed through pilgrimages and prayer.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/savoring-our-faith-SV1.jpg" />
-  </programme>
-  <programme start="20260328083000 +0000" stop="20260328093000 +0000" channel="tv-usa.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Welcome Ceremony</sub-title>
-    <desc>From the Prince’s Palace of Monaco.</desc>
-  </programme>
-  <programme start="20260328093000 +0000" stop="20260328100000 +0000" channel="tv-usa.ewtn">
-    <title>EWTN Religious Catalogue</title>
-    <sub-title>Stations of the Cross Crucifix Icon</sub-title>
-    <desc>Celebrate your faith as EWTN Religious Catalogue presents a unique array of religious items -- from books and paintings to rosaries and statues -- and everything in between.</desc>
-  </programme>
-  <programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="tv-usa.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With the Catholic Community</sub-title>
-    <desc>In the Cathedral of the Immaculate Conception.</desc>
-  </programme>
-  <programme start="20260328103000 +0000" stop="20260328104500 +0000" channel="tv-usa.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>God’s Mission for Man</sub-title>
-    <desc>Explore how work shapes our identity, serves the common good, and can be a path to holiness when centered on Christ. Catholic farmer, Jesse Straight, shares his powerful story.</desc>
-  </programme>
-  <programme start="20260328104500 +0000" stop="20260328114500 +0000" channel="tv-usa.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With Young People and Catechumens</sub-title>
-    <desc>Taking place in the area in front of the Church of Sainte-Dévote.</desc>
-  </programme>
-  <programme start="20260328114500 +0000" stop="20260328120000 +0000" channel="tv-usa.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>Work and Holiness</sub-title>
-    <desc>Find how habits formed through work can lead toward or away from virtue through teachings of St. John Paul II. Col. Dr. Ed Lopez shares his testimony as a military physician.</desc>
-  </programme>
-  <programme start="20260328120000 +0000" stop="20260328130000 +0000" channel="tv-usa.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328130000 +0000" stop="20260328133000 +0000" channel="tv-usa.ewtn">
-    <title>Holy Rosary for Peace in the World</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, Alabama. The praying of this rosary is in response to the invitation of Cardinal Pizzaballa, Latin Patriarch of Jerusalem, for everyone to recite the Rosary "to ask for peace and serenity, especially for those suffering because of the conflict."</desc>
-  </programme>
-  <programme start="20260328133000 +0000" stop="20260328140000 +0000" channel="tv-usa.ewtn">
-    <title>The Friar</title>
-    <sub-title>The Good Samaritan</sub-title>
-    <desc>Father John teaches his friends Renata the girl, Timothy the mouse, and Leopold the frog about the parable of the Good Samaritan.</desc>
-  </programme>
-  <programme start="20260328140000 +0000" stop="20260328143000 +0000" channel="tv-usa.ewtn">
-    <title>At Home With Jim and Joy</title>
-    <sub-title>Sr. Emma Rueda, SCTJM and Sr. Amanda Davis, Pt. 2</sub-title>
-    <desc>Sr. Emma SCTJM and Sr. Amanda Magdalena SCTJM are back with Jim and Joy to share more about the beauty found within the Servants of the Pierced Hearts of Jesus and Mary.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/at-home-with-jim-and-joy-HJJ.jpg" />
-  </programme>
-  <programme start="20260328143000 +0000" stop="20260328163000 +0000" channel="tv-usa.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Holy Mass</sub-title>
-    <desc>From Louis II Stadium.</desc>
-  </programme>
-  <programme start="20260328163000 +0000" stop="20260328170000 +0000" channel="tv-usa.ewtn">
-    <title>Bob and Penny Lord Present</title>
-    <sub-title>St. Clare of Assisi</sub-title>
-    <desc>Bob and Penny Lord discuss the life of St. Clare of Assisi, including how she began the Poor Clares religious order with the help of St. Francis.</desc>
-  </programme>
-  <programme start="20260328170000 +0000" stop="20260328173000 +0000" channel="tv-usa.ewtn">
-    <title>EWTN Religious Catalogue</title>
-    <sub-title>Stations of the Cross Crucifix Icon</sub-title>
-    <desc>Celebrate your faith as EWTN Religious Catalogue presents a unique array of religious items -- from books and paintings to rosaries and statues -- and everything in between.</desc>
-  </programme>
-  <programme start="20260328173000 +0000" stop="20260328180000 +0000" channel="tv-usa.ewtn">
-    <title>Dominican Sisters of Mary, Mother of the Eucharist</title>
-    <sub-title>Raised in Grace: Lesson 10 - Teaching Virtue in Elementary School</sub-title>
-    <desc>Raising and educating virtuous people begins with a solid foundation. Sr. Mary Bethany and Sr. Maria Karol explore the impact of virtue education on children in elementary school.</desc>
-  </programme>
-  <programme start="20260328180000 +0000" stop="20260328190000 +0000" channel="tv-usa.ewtn">
-    <title>Christendom</title>
-    <desc>A docudrama about the golden age when Christianity touched every aspect of peoples’ lives and the pillars of Western civilization were formed, producing great achievements in art, music, agriculture, health care and science.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/christendom-381-376945.jpg" />
-  </programme>
-  <programme start="20260328190000 +0000" stop="20260328192000 +0000" channel="tv-usa.ewtn">
-    <title>Chaplet of Divine Mercy</title>
-    <desc>From the chapel of the National Shrine of the Divine Mercy in Stockbridge, Massachusetts.</desc>
-  </programme>
-  <programme start="20260328192000 +0000" stop="20260328193000 +0000" channel="tv-usa.ewtn">
-    <title>Live Adoration From EWTN Chapel</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, AL.</desc>
-  </programme>
-  <programme start="20260328193000 +0000" stop="20260328200000 +0000" channel="tv-usa.ewtn">
-    <title>Holy Rosary for Peace in the World</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, Alabama. The praying of this rosary is in response to the invitation of Cardinal Pizzaballa, Latin Patriarch of Jerusalem, for everyone to recite the Rosary "to ask for peace and serenity, especially for those suffering because of the conflict."</desc>
-  </programme>
-  <programme start="20260328200000 +0000" stop="20260328210000 +0000" channel="tv-usa.ewtn">
-    <title>Called to Communion With Dr. David Anders</title>
-    <sub-title>The Bible</sub-title>
-    <desc>Dr. Anders answers questions about the Bible as the most popular book ever read worldwide and how a non-Catholic may benefit from the Catholic view of the Gospel.</desc>
-  </programme>
-  <programme start="20260328210000 +0000" stop="20260328213000 +0000" channel="tv-usa.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With the Catholic Community</sub-title>
-    <desc>In the Cathedral of the Immaculate Conception.</desc>
-  </programme>
-  <programme start="20260328213000 +0000" stop="20260328223000 +0000" channel="tv-usa.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With Young People and Catechumens</sub-title>
-    <desc>Taking place in the area in front of the Church of Sainte-Dévote.</desc>
-  </programme>
-  <programme start="20260328223000 +0000" stop="20260329003000 +0000" channel="tv-usa.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Holy Mass</sub-title>
-    <desc>From Louis II Stadium.</desc>
-  </programme>
   <programme start="20260329003000 +0000" stop="20260329023000 +0000" channel="tv-usa.ewtn">
     <title>Network of Freedom</title>
     <desc>An inspiring film about the heroic work of Sister Helene Studler. She saved thousands of French refugees’ lives by organizing an amazing underground network of freedom in Nazi-occupied territory during World War II.</desc>
@@ -1237,190 +1055,144 @@ When he married his wife, he started going to church regularly with her, but whe
     <desc>From the Colosseum, the Holy Father, Leo XIV, will preside over the pious exercise of the "Via Crucis," at the conclusion of which he will impart the Apostolic Blessing.</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/way-of-the-cross-from-rome-WO1.jpg" />
   </programme>
+  <programme start="20260404000000 +0000" stop="20260404012000 +0000" channel="tv-usa.ewtn">
+    <title>Adoration and Burial of the Lord:  a Maronite Tradition for Good Friday</title>
+    <desc>From St. Elias Maronite Church in Birmingham, Alabama.</desc>
+  </programme>
+  <programme start="20260404012000 +0000" stop="20260404013000 +0000" channel="tv-usa.ewtn">
+    <title>Shawn’s Eyes</title>
+    <desc>Documentary on Shawn Riney, a man born with Down Syndrome, and how his life touches the hearts of families who know him.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/shawns-eyes-381-310406.jpg" />
+  </programme>
+  <programme start="20260404013000 +0000" stop="20260404023000 +0000" channel="tv-usa.ewtn">
+    <title>Life Is Worth Living</title>
+    <sub-title>Lent Special: Good Friday</sub-title>
+    <desc>Archbishop Sheen discusses the feelings of the three types of "human hearts" involved in the crucifixion.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/life-is-worth-living-LIW.jpg" />
+  </programme>
+  <programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="tv-usa.ewtn">
+    <title>Answering the Questions of Jesus</title>
+    <sub-title>Could You Not Watch One Hour With Me?</sub-title>
+    <desc>We often put our faith in the Lord but run in fear when tested, just like the apostles outside the Garden. Father Apostoli explains why we must be strong like Mary and the Apostle John.</desc>
+  </programme>
+  <programme start="20260404030000 +0000" stop="20260404040000 +0000" channel="tv-usa.ewtn">
+    <title>Torchlight Stations of the Cross</title>
+  </programme>
+  <programme start="20260404040000 +0000" stop="20260404043000 +0000" channel="tv-usa.ewtn">
+    <title>Good Friday Meditations</title>
+    <desc>Father Benedict Groeschel of the Franciscan Friars of the Renewal presents inspiring mediations and prayers for Good Friday.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/good-friday-meditations-381-9181.jpg" />
+  </programme>
+  <programme start="20260404043000 +0000" stop="20260404063000 +0000" channel="tv-usa.ewtn">
+    <title>Easter Vigil From the Holy Sepulchre</title>
+    <desc>From the Church of the Holy Sepulchre in Jerusalem, join EWTN for Easter Vigil services, the first official celebration of the Resurrection of Jesus.</desc>
+  </programme>
+  <programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="tv-usa.ewtn">
+    <title>For God So Loved the World</title>
+    <sub-title>The Washing of the Feet</sub-title>
+    <desc>Frances Hogan shows how through the Washing of the Feet, Jesus helps us to interpret the horror of the coming crucifixion and how we are all cleansed as we enter into Christ’s Baptism.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-washing-of-the-feet-GSW00002.jpg" />
+  </programme>
+  <programme start="20260404070000 +0000" stop="20260404080000 +0000" channel="tv-usa.ewtn">
+    <title>Shroud, the - the Story of a Mystery</title>
+    <desc>A documentary on the Shroud of Turin, featuring scholars and experts to discuss its research project and the significant challenges it presents to 21st-century scientists.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/shroud-the-the-story-of-a-mystery-381-392567.jpg" />
+  </programme>
+  <programme start="20260404080000 +0000" stop="20260404091000 +0000" channel="tv-usa.ewtn">
+    <title>The Seven Last Words of Christ With Fr Raymond De Souza</title>
+    <sub-title>Seven Last Words of Christ With Fr Raymond De Souza</sub-title>
+    <desc>From St. Mary’s Cathedral in Ogdensburg, New York. The focus will be on the United States 250th birthday and American saints.</desc>
+  </programme>
+  <programme start="20260404091000 +0000" stop="20260404093000 +0000" channel="tv-usa.ewtn">
+    <title>And a Child Shall Lead Them</title>
+    <desc>An insightful glimpse into the power and beauty of the Divine Mercy Devotion: through interviews with those involved in the Canonization of St. Faustina, and members of the Marians of the Immaculate Conception.</desc>
+  </programme>
+  <programme start="20260404093000 +0000" stop="20260404110000 +0000" channel="tv-usa.ewtn">
+    <title>Way of the Cross From Rome</title>
+    <desc>From the Colosseum, the Holy Father, Leo XIV, will preside over the pious exercise of the "Via Crucis," at the conclusion of which he will impart the Apostolic Blessing.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/way-of-the-cross-from-rome-WO1.jpg" />
+  </programme>
+  <programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="tv-usa.ewtn">
+    <title>Chaplet of St. Michael</title>
+    <desc>Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels, as they pray the chaplet of St. Michael.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/chaplet-of-st-michael-381-123265.jpg" />
+  </programme>
+  <programme start="20260404113000 +0000" stop="20260404114900 +0000" channel="tv-usa.ewtn">
+    <title>The Holy Land Rosary</title>
+    <sub-title>Sorrowful Mysteries</sub-title>
+    <desc>Fr. Mitch Pacwa leads the Sorrowful Mysteries of the Rosary from the actual holy sites and shrines where they took place, bringing the Gospels to life and offering a deeper understanding of the Rosary meditations.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/holy-land-rosary-HLR.jpg" />
+  </programme>
+  <programme start="20260404114900 +0000" stop="20260404120000 +0000" channel="tv-usa.ewtn">
+    <title>The Litany of the Most Precious Blood of Jesus</title>
+    <desc>Join the Franciscan Missionaries of the Eternal Word at the Shrine of the Most Blessed Sacrament in Hanceville, Alabama, as they recite this beautiful prayer in honor of the Precious Blood of Jesus shed for our salvation.</desc>
+  </programme>
+  <programme start="20260404120000 +0000" stop="20260404130000 +0000" channel="tv-usa.ewtn">
+    <title>Life Is Worth Living</title>
+    <sub-title>His Last Words</sub-title>
+    <desc>Archbishop Sheen meditates on spectators on and about the Cross.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/life-is-worth-living-LIW.jpg" />
+  </programme>
+  <programme start="20260404130000 +0000" stop="20260404133000 +0000" channel="tv-usa.ewtn">
+    <title>A Scriptural Journey of the Via Dolorosa</title>
+    <desc>Join pilgrims from around the world in walking the Via Dolorosa in Jerusalem, with meditations on the scriptures and the Passion of Christ at each of the Stations of the Cross.</desc>
+  </programme>
+  <programme start="20260404133000 +0000" stop="20260404134500 +0000" channel="tv-usa.ewtn">
+    <title>Good Friday</title>
+    <desc>As Fr. John continues to work on restoring an old tabernacle, he teaches Renata, Timothy, and Leopold about Christ’s passion, Mary’s grief, and Peter’s denial.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/friar-the-good-friday-381-331662.jpg" />
+  </programme>
+  <programme start="20260404134500 +0000" stop="20260404140000 +0000" channel="tv-usa.ewtn">
+    <title>Easter Sunday</title>
+    <desc>Fr. John celebrates Easter Sunday with his friends Renata, Leopold, and Timothy through story and song.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/friar-the-easter-sunday-381-331663.jpg" />
+  </programme>
+  <programme start="20260404140000 +0000" stop="20260404160000 +0000" channel="tv-usa.ewtn">
+    <title>Easter Vigil From the Holy Sepulchre</title>
+    <desc>From the Church of the Holy Sepulchre in Jerusalem, join EWTN for Easter Vigil services, the first official celebration of the Resurrection of Jesus.</desc>
+  </programme>
+  <programme start="20260404160000 +0000" stop="20260404163000 +0000" channel="tv-usa.ewtn">
+    <title>The Human Face of God in the Holy Veil of Manoppello</title>
+    <desc>Host Paul Badde goes on-location in Italy to explore the Veil of Manoppello and its relation to other images of the Holy Face of Christ.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-human-face-of-god-in-the-holy-veil-of-manoppello-381-354016.jpg" />
+  </programme>
+  <programme start="20260404163000 +0000" stop="20260404173000 +0000" channel="tv-usa.ewtn">
+    <title>The Shroud of Turin</title>
+    <desc>In this cinematic feature documentary, uncover the origin of and investigate the potential miracle behind the most studied artifact in human history, The Shroud of Turin.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-shroud-of-turin-381-392446.jpg" />
+  </programme>
+  <programme start="20260404173000 +0000" stop="20260404183000 +0000" channel="tv-usa.ewtn">
+    <title>Life of Christ: a Holy Land Pilgrimage</title>
+    <desc>The Gospels come to life in an epic journey through the towns, cities, and sites of Christ’s history-changing ministry.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/life-of-christ-a-holy-land-pilgrimage-381-342854.jpg" />
+  </programme>
+  <programme start="20260404183000 +0000" stop="20260404190000 +0000" channel="tv-usa.ewtn">
+    <title>For God So Loved the World</title>
+    <sub-title>The Execution of God's Beloved Son</sub-title>
+    <desc>Scripture scholar Frances Hogan points out the parallels between the Passover lamb of the Old Testament and Jesus as the Paschal Lamb of the new Passover.</desc>
+  </programme>
+  <programme start="20260404190000 +0000" stop="20260404213000 +0000" channel="tv-usa.ewtn">
+    <title>Easter Vigil Mass From Rome</title>
+    <desc>His Holiness, Pope Francis, presides over the Easter Vigil Mass, live from Vatican City.</desc>
+  </programme>
+  <programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="tv-usa.ewtn">
+    <title>Luke: Meek Scribe of Christ</title>
+    <sub-title>Our Lord's Arrest and Crucifixion</sub-title>
+    <desc>Christendom College President Dr. Timothy O’ Donnell continues his study of the Gospel of St. Luke with a penetrating analysis of Jesus’ arrest and Crucifixion.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/our-lords-arrest-and-crucifixion-LMS09906.jpg" />
+  </programme>
+  <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="tv-usa.ewtn">
+    <title>Hill Number One</title>
+    <desc>The Korean war, and the battles that ensue, are correlated to Christ's crucifixion on Golgotha; a dramatic re-mix of biblical and historical elements. Featuring James Dean.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/hill-number-one-381-70035.jpg" />
+  </programme>
+  <programme start="20260404230000 +0000" stop="20260405000000 +0000" channel="tv-usa.ewtn">
+    <title>That I May See</title>
+    <desc>The Sermon on the Mount and the miracles of Jesus featuring Ruth Hussey and Raymond Burr.</desc>
+  </programme>
   <channel id="tv-can.ewtn">
     <display-name>EWTN Canada</display-name>
   </channel>
-  <programme start="20260328000000 +0000" stop="20260328010000 +0000" channel="tv-can.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
-  </programme>
-  <programme start="20260328010000 +0000" stop="20260328013000 +0000" channel="tv-can.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Friday, March 27, 2026</sub-title>
-    <desc>Pope Leo XIV is set for a historic visit to Monaco. Meanwhile, Mass was held in memory of Mother Angelica at St. Peter’s Basilica. And, Chicago Catholic parents have appealed to the Vatican to keep their school open.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260328013000 +0000" stop="20260328020000 +0000" channel="tv-can.ewtn">
-    <title>Holy Rosary From Lourdes</title>
-    <desc>Pilgrims from around the world gather and pray the Rosary from the Lourdes grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
-  </programme>
-  <programme start="20260328020000 +0000" stop="20260328023000 +0000" channel="tv-can.ewtn">
-    <title>Life on the Rock</title>
-    <sub-title>Pete Burak, Pt. 2</sub-title>
-    <desc>Pete Burak, of Renewal Ministries, is back to explore the value of prayer and listening to what God has to say to us, while also sharing more about his book, “A Man on Purpose.”</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/life-on-the-rock-ROK.jpg" />
-  </programme>
-  <programme start="20260328023000 +0000" stop="20260328030000 +0000" channel="tv-can.ewtn">
-    <title>Icons</title>
-    <sub-title>Icons  Mission of the Heart</sub-title>
-    <desc>Today’s heartwarming episode features Brothers Kolbe, Michelangelo and Francisco, three friars on a mission. They find and deliver a much-needed wheelchair to a child whose family could never afford it.</desc>
-  </programme>
-  <programme start="20260328030000 +0000" stop="20260328033000 +0000" channel="tv-can.ewtn">
-    <title>Women of Grace</title>
-    <sub-title>Walking the Way of the Cross With Mary, Pt. 5</sub-title>
-    <desc>Colin Donovan wraps up the series, “Walking the Way of the Cross with Mary,” by discussing the many special titles the Church has given Mary and the importance behind each.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/women-of-grace-WGR.jpg" />
-  </programme>
-  <programme start="20260328033000 +0000" stop="20260328040000 +0000" channel="tv-can.ewtn">
-    <title>Rites of Passage – Leaving Boyhood Behind</title>
-    <sub-title>Rites of Passage - the Revelation of Identity</sub-title>
-    <desc>Host Jason Craig discusses the ceremonial practices that are often done during a rite of passage, and delves into the deeper meaning behind those ceremonies and a father's role within them.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/rites-of-passage-the-need-of-brotherhood-ROP19004.jpg" />
-  </programme>
-  <programme start="20260328040000 +0000" stop="20260328050000 +0000" channel="tv-can.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328050000 +0000" stop="20260328060000 +0000" channel="tv-can.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
-  </programme>
-  <programme start="20260328060000 +0000" stop="20260328063000 +0000" channel="tv-can.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Friday, March 27, 2026</sub-title>
-    <desc>Pope Leo XIV is set for a historic visit to Monaco. Meanwhile, Mass was held in memory of Mother Angelica at St. Peter’s Basilica. And, Chicago Catholic parents have appealed to the Vatican to keep their school open.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260328063000 +0000" stop="20260328070000 +0000" channel="tv-can.ewtn">
-    <title>A Travel Guide to Life</title>
-    <sub-title>Transform Yourself</sub-title>
-    <desc>Anthony DeStefano wraps things up by discussing three of the hardest realities in life to understand: the presence of evil in the world, suffering, the meaning of love and its greatest symbol, the Cross.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/transform-yourself-TGL14006.jpg" />
-  </programme>
-  <programme start="20260328070000 +0000" stop="20260328073000 +0000" channel="tv-can.ewtn">
-    <title>The Major Religious Orders of Men</title>
-    <sub-title>The Contribution of Eastern Monasticism in the West</sub-title>
-    <desc>Fr. Charles Connor continues his study of the major Catholic religious orders of men with a look at the influence of Eastern Monasticism on the West.</desc>
-  </programme>
-  <programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="tv-can.ewtn">
-    <title>At Home With Jim and Joy</title>
-    <sub-title>Sr. Emma Rueda, SCTJM and Sr. Amanda Davis, Pt. 2</sub-title>
-    <desc>Sr. Emma SCTJM and Sr. Amanda Magdalena SCTJM are back with Jim and Joy to share more about the beauty found within the Servants of the Pierced Hearts of Jesus and Mary.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/at-home-with-jim-and-joy-HJJ.jpg" />
-  </programme>
-  <programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="tv-can.ewtn">
-    <title>Savoring Our Faith</title>
-    <sub-title>Cebu: Marian Devotion</sub-title>
-    <desc>Fr. Leo continues his time in Cebu, visiting Marian shrines and learning how the ancient dogmas shaped Filipino devotion today expressed through pilgrimages and prayer.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/savoring-our-faith-SV1.jpg" />
-  </programme>
-  <programme start="20260328083000 +0000" stop="20260328093000 +0000" channel="tv-can.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Welcome Ceremony</sub-title>
-    <desc>From the Prince’s Palace of Monaco.</desc>
-  </programme>
-  <programme start="20260328093000 +0000" stop="20260328100000 +0000" channel="tv-can.ewtn">
-    <title>EWTN Religious Catalogue</title>
-    <sub-title>Stations of the Cross Crucifix Icon</sub-title>
-    <desc>Celebrate your faith as EWTN Religious Catalogue presents a unique array of religious items -- from books and paintings to rosaries and statues -- and everything in between.</desc>
-  </programme>
-  <programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="tv-can.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With the Catholic Community</sub-title>
-    <desc>In the Cathedral of the Immaculate Conception.</desc>
-  </programme>
-  <programme start="20260328103000 +0000" stop="20260328104500 +0000" channel="tv-can.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>God’s Mission for Man</sub-title>
-    <desc>Explore how work shapes our identity, serves the common good, and can be a path to holiness when centered on Christ. Catholic farmer, Jesse Straight, shares his powerful story.</desc>
-  </programme>
-  <programme start="20260328104500 +0000" stop="20260328114500 +0000" channel="tv-can.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With Young People and Catechumens</sub-title>
-    <desc>Taking place in the area in front of the Church of Sainte-Dévote.</desc>
-  </programme>
-  <programme start="20260328114500 +0000" stop="20260328120000 +0000" channel="tv-can.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>Work and Holiness</sub-title>
-    <desc>Find how habits formed through work can lead toward or away from virtue through teachings of St. John Paul II. Col. Dr. Ed Lopez shares his testimony as a military physician.</desc>
-  </programme>
-  <programme start="20260328120000 +0000" stop="20260328130000 +0000" channel="tv-can.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328130000 +0000" stop="20260328133000 +0000" channel="tv-can.ewtn">
-    <title>Holy Rosary for Peace in the World</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, Alabama. The praying of this rosary is in response to the invitation of Cardinal Pizzaballa, Latin Patriarch of Jerusalem, for everyone to recite the Rosary "to ask for peace and serenity, especially for those suffering because of the conflict."</desc>
-  </programme>
-  <programme start="20260328133000 +0000" stop="20260328140000 +0000" channel="tv-can.ewtn">
-    <title>The Friar</title>
-    <sub-title>The Good Samaritan</sub-title>
-    <desc>Father John teaches his friends Renata the girl, Timothy the mouse, and Leopold the frog about the parable of the Good Samaritan.</desc>
-  </programme>
-  <programme start="20260328140000 +0000" stop="20260328143000 +0000" channel="tv-can.ewtn">
-    <title>Answering the Questions of Jesus</title>
-    <sub-title>Do You Love Me?</sub-title>
-    <desc>Having denied Christ three times, our Lord asked Peter if he loved him after his resurrection. Father Apostoli tells how with God's help we can accomplish our Lord's will for us.</desc>
-  </programme>
-  <programme start="20260328143000 +0000" stop="20260328163000 +0000" channel="tv-can.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Holy Mass</sub-title>
-    <desc>From Louis II Stadium.</desc>
-  </programme>
-  <programme start="20260328163000 +0000" stop="20260328170000 +0000" channel="tv-can.ewtn">
-    <title>Bob and Penny Lord Present</title>
-    <sub-title>St. Clare of Assisi</sub-title>
-    <desc>Bob and Penny Lord discuss the life of St. Clare of Assisi, including how she began the Poor Clares religious order with the help of St. Francis.</desc>
-  </programme>
-  <programme start="20260328170000 +0000" stop="20260328173000 +0000" channel="tv-can.ewtn">
-    <title>EWTN Religious Catalogue</title>
-    <sub-title>Stations of the Cross Crucifix Icon</sub-title>
-    <desc>Celebrate your faith as EWTN Religious Catalogue presents a unique array of religious items -- from books and paintings to rosaries and statues -- and everything in between.</desc>
-  </programme>
-  <programme start="20260328173000 +0000" stop="20260328180000 +0000" channel="tv-can.ewtn">
-    <title>Dominican Sisters of Mary, Mother of the Eucharist</title>
-    <sub-title>Raised in Grace: Lesson 10 - Teaching Virtue in Elementary School</sub-title>
-    <desc>Raising and educating virtuous people begins with a solid foundation. Sr. Mary Bethany and Sr. Maria Karol explore the impact of virtue education on children in elementary school.</desc>
-  </programme>
-  <programme start="20260328180000 +0000" stop="20260328190000 +0000" channel="tv-can.ewtn">
-    <title>Christendom</title>
-    <desc>A docudrama about the golden age when Christianity touched every aspect of peoples’ lives and the pillars of Western civilization were formed, producing great achievements in art, music, agriculture, health care and science.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/christendom-381-376945.jpg" />
-  </programme>
-  <programme start="20260328190000 +0000" stop="20260328192000 +0000" channel="tv-can.ewtn">
-    <title>Chaplet of Divine Mercy</title>
-    <desc>From the chapel of the National Shrine of the Divine Mercy in Stockbridge, Massachusetts.</desc>
-  </programme>
-  <programme start="20260328192000 +0000" stop="20260328193000 +0000" channel="tv-can.ewtn">
-    <title>Live Adoration From EWTN Chapel</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, AL.</desc>
-  </programme>
-  <programme start="20260328193000 +0000" stop="20260328200000 +0000" channel="tv-can.ewtn">
-    <title>Holy Rosary for Peace in the World</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, Alabama. The praying of this rosary is in response to the invitation of Cardinal Pizzaballa, Latin Patriarch of Jerusalem, for everyone to recite the Rosary "to ask for peace and serenity, especially for those suffering because of the conflict."</desc>
-  </programme>
-  <programme start="20260328200000 +0000" stop="20260328210000 +0000" channel="tv-can.ewtn">
-    <title>Called to Communion With Dr. David Anders</title>
-    <sub-title>The Bible</sub-title>
-    <desc>Dr. Anders answers questions about the Bible as the most popular book ever read worldwide and how a non-Catholic may benefit from the Catholic view of the Gospel.</desc>
-  </programme>
-  <programme start="20260328210000 +0000" stop="20260328213000 +0000" channel="tv-can.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With the Catholic Community</sub-title>
-    <desc>In the Cathedral of the Immaculate Conception.</desc>
-  </programme>
-  <programme start="20260328213000 +0000" stop="20260328223000 +0000" channel="tv-can.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With Young People and Catechumens</sub-title>
-    <desc>Taking place in the area in front of the Church of Sainte-Dévote.</desc>
-  </programme>
-  <programme start="20260328223000 +0000" stop="20260329003000 +0000" channel="tv-can.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Holy Mass</sub-title>
-    <desc>From Louis II Stadium.</desc>
-  </programme>
   <programme start="20260329003000 +0000" stop="20260329023000 +0000" channel="tv-can.ewtn">
     <title>Network of Freedom</title>
     <desc>An inspiring film about the heroic work of Sister Helene Studler. She saved thousands of French refugees’ lives by organizing an amazing underground network of freedom in Nazi-occupied territory during World War II.</desc>
@@ -2473,165 +2245,144 @@ When he married his wife, he started going to church regularly with her, but whe
     <desc>From the Colosseum, the Holy Father, Leo XIV, will preside over the pious exercise of the "Via Crucis," at the conclusion of which he will impart the Apostolic Blessing.</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/way-of-the-cross-from-rome-WO1.jpg" />
   </programme>
+  <programme start="20260404000000 +0000" stop="20260404012000 +0000" channel="tv-can.ewtn">
+    <title>Adoration and Burial of the Lord:  a Maronite Tradition for Good Friday</title>
+    <desc>From St. Elias Maronite Church in Birmingham, Alabama.</desc>
+  </programme>
+  <programme start="20260404012000 +0000" stop="20260404013000 +0000" channel="tv-can.ewtn">
+    <title>Shawn’s Eyes</title>
+    <desc>Documentary on Shawn Riney, a man born with Down Syndrome, and how his life touches the hearts of families who know him.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/shawns-eyes-381-310406.jpg" />
+  </programme>
+  <programme start="20260404013000 +0000" stop="20260404023000 +0000" channel="tv-can.ewtn">
+    <title>Life Is Worth Living</title>
+    <sub-title>Lent Special: Good Friday</sub-title>
+    <desc>Archbishop Sheen discusses the feelings of the three types of "human hearts" involved in the crucifixion.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/life-is-worth-living-LIW.jpg" />
+  </programme>
+  <programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="tv-can.ewtn">
+    <title>Answering the Questions of Jesus</title>
+    <sub-title>Could You Not Watch One Hour With Me?</sub-title>
+    <desc>We often put our faith in the Lord but run in fear when tested, just like the apostles outside the Garden. Father Apostoli explains why we must be strong like Mary and the Apostle John.</desc>
+  </programme>
+  <programme start="20260404030000 +0000" stop="20260404040000 +0000" channel="tv-can.ewtn">
+    <title>Torchlight Stations of the Cross</title>
+  </programme>
+  <programme start="20260404040000 +0000" stop="20260404043000 +0000" channel="tv-can.ewtn">
+    <title>Good Friday Meditations</title>
+    <desc>Father Benedict Groeschel of the Franciscan Friars of the Renewal presents inspiring mediations and prayers for Good Friday.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/good-friday-meditations-381-9181.jpg" />
+  </programme>
+  <programme start="20260404043000 +0000" stop="20260404063000 +0000" channel="tv-can.ewtn">
+    <title>Easter Vigil From the Holy Sepulchre</title>
+    <desc>From the Church of the Holy Sepulchre in Jerusalem, join EWTN for Easter Vigil services, the first official celebration of the Resurrection of Jesus.</desc>
+  </programme>
+  <programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="tv-can.ewtn">
+    <title>For God So Loved the World</title>
+    <sub-title>The Washing of the Feet</sub-title>
+    <desc>Frances Hogan shows how through the Washing of the Feet, Jesus helps us to interpret the horror of the coming crucifixion and how we are all cleansed as we enter into Christ’s Baptism.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-washing-of-the-feet-GSW00002.jpg" />
+  </programme>
+  <programme start="20260404070000 +0000" stop="20260404080000 +0000" channel="tv-can.ewtn">
+    <title>Shroud, the - the Story of a Mystery</title>
+    <desc>A documentary on the Shroud of Turin, featuring scholars and experts to discuss its research project and the significant challenges it presents to 21st-century scientists.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/shroud-the-the-story-of-a-mystery-381-392567.jpg" />
+  </programme>
+  <programme start="20260404080000 +0000" stop="20260404091000 +0000" channel="tv-can.ewtn">
+    <title>The Seven Last Words of Christ With Fr Raymond De Souza</title>
+    <sub-title>Seven Last Words of Christ With Fr Raymond De Souza</sub-title>
+    <desc>From St. Mary’s Cathedral in Ogdensburg, New York. The focus will be on the United States 250th birthday and American saints.</desc>
+  </programme>
+  <programme start="20260404091000 +0000" stop="20260404093000 +0000" channel="tv-can.ewtn">
+    <title>And a Child Shall Lead Them</title>
+    <desc>An insightful glimpse into the power and beauty of the Divine Mercy Devotion: through interviews with those involved in the Canonization of St. Faustina, and members of the Marians of the Immaculate Conception.</desc>
+  </programme>
+  <programme start="20260404093000 +0000" stop="20260404110000 +0000" channel="tv-can.ewtn">
+    <title>Way of the Cross From Rome</title>
+    <desc>From the Colosseum, the Holy Father, Leo XIV, will preside over the pious exercise of the "Via Crucis," at the conclusion of which he will impart the Apostolic Blessing.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/way-of-the-cross-from-rome-WO1.jpg" />
+  </programme>
+  <programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="tv-can.ewtn">
+    <title>Chaplet of St. Michael</title>
+    <desc>Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels, as they pray the chaplet of St. Michael.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/chaplet-of-st-michael-381-123265.jpg" />
+  </programme>
+  <programme start="20260404113000 +0000" stop="20260404114900 +0000" channel="tv-can.ewtn">
+    <title>The Holy Land Rosary</title>
+    <sub-title>Sorrowful Mysteries</sub-title>
+    <desc>Fr. Mitch Pacwa leads the Sorrowful Mysteries of the Rosary from the actual holy sites and shrines where they took place, bringing the Gospels to life and offering a deeper understanding of the Rosary meditations.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/holy-land-rosary-HLR.jpg" />
+  </programme>
+  <programme start="20260404114900 +0000" stop="20260404120000 +0000" channel="tv-can.ewtn">
+    <title>The Litany of the Most Precious Blood of Jesus</title>
+    <desc>Join the Franciscan Missionaries of the Eternal Word at the Shrine of the Most Blessed Sacrament in Hanceville, Alabama, as they recite this beautiful prayer in honor of the Precious Blood of Jesus shed for our salvation.</desc>
+  </programme>
+  <programme start="20260404120000 +0000" stop="20260404130000 +0000" channel="tv-can.ewtn">
+    <title>Life Is Worth Living</title>
+    <sub-title>His Last Words</sub-title>
+    <desc>Archbishop Sheen meditates on spectators on and about the Cross.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/life-is-worth-living-LIW.jpg" />
+  </programme>
+  <programme start="20260404130000 +0000" stop="20260404133000 +0000" channel="tv-can.ewtn">
+    <title>A Scriptural Journey of the Via Dolorosa</title>
+    <desc>Join pilgrims from around the world in walking the Via Dolorosa in Jerusalem, with meditations on the scriptures and the Passion of Christ at each of the Stations of the Cross.</desc>
+  </programme>
+  <programme start="20260404133000 +0000" stop="20260404134500 +0000" channel="tv-can.ewtn">
+    <title>Good Friday</title>
+    <desc>As Fr. John continues to work on restoring an old tabernacle, he teaches Renata, Timothy, and Leopold about Christ’s passion, Mary’s grief, and Peter’s denial.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/friar-the-good-friday-381-331662.jpg" />
+  </programme>
+  <programme start="20260404134500 +0000" stop="20260404140000 +0000" channel="tv-can.ewtn">
+    <title>Easter Sunday</title>
+    <desc>Fr. John celebrates Easter Sunday with his friends Renata, Leopold, and Timothy through story and song.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/friar-the-easter-sunday-381-331663.jpg" />
+  </programme>
+  <programme start="20260404140000 +0000" stop="20260404160000 +0000" channel="tv-can.ewtn">
+    <title>Easter Vigil From the Holy Sepulchre</title>
+    <desc>From the Church of the Holy Sepulchre in Jerusalem, join EWTN for Easter Vigil services, the first official celebration of the Resurrection of Jesus.</desc>
+  </programme>
+  <programme start="20260404160000 +0000" stop="20260404163000 +0000" channel="tv-can.ewtn">
+    <title>The Human Face of God in the Holy Veil of Manoppello</title>
+    <desc>Host Paul Badde goes on-location in Italy to explore the Veil of Manoppello and its relation to other images of the Holy Face of Christ.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-human-face-of-god-in-the-holy-veil-of-manoppello-381-354016.jpg" />
+  </programme>
+  <programme start="20260404163000 +0000" stop="20260404173000 +0000" channel="tv-can.ewtn">
+    <title>The Shroud of Turin</title>
+    <desc>In this cinematic feature documentary, uncover the origin of and investigate the potential miracle behind the most studied artifact in human history, The Shroud of Turin.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-shroud-of-turin-381-392446.jpg" />
+  </programme>
+  <programme start="20260404173000 +0000" stop="20260404183000 +0000" channel="tv-can.ewtn">
+    <title>Life of Christ: a Holy Land Pilgrimage</title>
+    <desc>The Gospels come to life in an epic journey through the towns, cities, and sites of Christ’s history-changing ministry.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/life-of-christ-a-holy-land-pilgrimage-381-342854.jpg" />
+  </programme>
+  <programme start="20260404183000 +0000" stop="20260404190000 +0000" channel="tv-can.ewtn">
+    <title>For God So Loved the World</title>
+    <sub-title>The Execution of God's Beloved Son</sub-title>
+    <desc>Scripture scholar Frances Hogan points out the parallels between the Passover lamb of the Old Testament and Jesus as the Paschal Lamb of the new Passover.</desc>
+  </programme>
+  <programme start="20260404190000 +0000" stop="20260404213000 +0000" channel="tv-can.ewtn">
+    <title>Easter Vigil Mass From Rome</title>
+    <desc>His Holiness, Pope Francis, presides over the Easter Vigil Mass, live from Vatican City.</desc>
+  </programme>
+  <programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="tv-can.ewtn">
+    <title>Luke: Meek Scribe of Christ</title>
+    <sub-title>Our Lord's Arrest and Crucifixion</sub-title>
+    <desc>Christendom College President Dr. Timothy O’ Donnell continues his study of the Gospel of St. Luke with a penetrating analysis of Jesus’ arrest and Crucifixion.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/our-lords-arrest-and-crucifixion-LMS09906.jpg" />
+  </programme>
+  <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="tv-can.ewtn">
+    <title>Hill Number One</title>
+    <desc>The Korean war, and the battles that ensue, are correlated to Christ's crucifixion on Golgotha; a dramatic re-mix of biblical and historical elements. Featuring James Dean.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/hill-number-one-381-70035.jpg" />
+  </programme>
+  <programme start="20260404230000 +0000" stop="20260405000000 +0000" channel="tv-can.ewtn">
+    <title>That I May See</title>
+    <desc>The Sermon on the Mount and the miracles of Jesus featuring Ruth Hussey and Raymond Burr.</desc>
+  </programme>
   <channel id="tv-apac.ewtn">
     <display-name>EWTN Asia Pacific</display-name>
   </channel>
-  <programme start="20260328000000 +0000" stop="20260328010000 +0000" channel="tv-apac.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
-  </programme>
-  <programme start="20260328010000 +0000" stop="20260328013000 +0000" channel="tv-apac.ewtn">
-    <title>Life on the Rock</title>
-    <sub-title>Pete Burak, Pt. 2</sub-title>
-    <desc>Pete Burak, of Renewal Ministries, is back to explore the value of prayer and listening to what God has to say to us, while also sharing more about his book, “A Man on Purpose.”</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/life-on-the-rock-ROK.jpg" />
-  </programme>
-  <programme start="20260328013000 +0000" stop="20260328020000 +0000" channel="tv-apac.ewtn">
-    <title>The New Evangelization</title>
-    <sub-title>The Redeemer's Mission, the Pope's Plan</sub-title>
-    <desc>Pope John Paul II published "Mission of the Redeemer" which addresses issues that keep people from evangelizing. Hosts Michael Hernon, Dr. Ralph Martin and Dr. Scott Hahn identify the principal causes of confusion about Christian mission.</desc>
-  </programme>
-  <programme start="20260328020000 +0000" stop="20260328023000 +0000" channel="tv-apac.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Friday, March 27, 2026</sub-title>
-    <desc>Pope Leo XIV is set for a historic visit to Monaco. Meanwhile, Mass was held in memory of Mother Angelica at St. Peter’s Basilica. And, Chicago Catholic parents have appealed to the Vatican to keep their school open.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260328023000 +0000" stop="20260328030000 +0000" channel="tv-apac.ewtn">
-    <title>Women of Grace</title>
-    <sub-title>Walking the Way of the Cross With Mary, Pt. 5</sub-title>
-    <desc>Colin Donovan wraps up the series, “Walking the Way of the Cross with Mary,” by discussing the many special titles the Church has given Mary and the importance behind each.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/women-of-grace-WGR.jpg" />
-  </programme>
-  <programme start="20260328030000 +0000" stop="20260328033000 +0000" channel="tv-apac.ewtn">
-    <title>Walking Through Time: Catholic London</title>
-    <sub-title>Kingston, Where England Began</sub-title>
-    <desc>Joanna visits Kingston, where the very first kings of England were crowned and on to the shrine of Our Lady of Westminster where the old statue has been given a new home and welcomes pilgrims from along  the Thames.</desc>
-  </programme>
-  <programme start="20260328033000 +0000" stop="20260328040000 +0000" channel="tv-apac.ewtn">
-    <title>Meditations With Fr. Groeschel</title>
-    <sub-title>On Palm Sunday</sub-title>
-    <desc>Palm Sunday marks the beginning of holiest week of the year in the Catholic calendar. Today, spiritual master Fr. Benedict Groeschel offers a series of meditations to help prepare us for this special time.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/on-palm-sunday-MFG02701.jpg" />
-  </programme>
-  <programme start="20260328040000 +0000" stop="20260328043000 +0000" channel="tv-apac.ewtn">
-    <title>The Church Universal</title>
-    <sub-title>Issues Facing Grandparents Today</sub-title>
-    <desc>Catherine Wiley and Fr. Enda Brady of the Catholic Grandparents Association share how they assist grandparents in sharing the richness of the Catholic faith with their children and grandchildren. Hosted by Fr. Joseph Mary Wolfe.</desc>
-  </programme>
-  <programme start="20260328043000 +0000" stop="20260328050000 +0000" channel="tv-apac.ewtn">
-    <title>Living Divine Mercy</title>
-    <sub-title>Fr. Chris Explains Palm Sunday</sub-title>
-    <desc>Fr. Chris reflects on the Lenten Season, explains the significance of Palm Sunday and what it means for us today.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/LDI.jpg" />
-  </programme>
-  <programme start="20260328050000 +0000" stop="20260328060000 +0000" channel="tv-apac.ewtn">
-    <title>Faith on the Frontier - the Father Kino Story</title>
-    <desc>An EWTN original documentary on the life of Fr. Eusebio Kino, who evangelized the Southwest American frontier during the late 17th century, building missions and bringing faith to the natives working in the harshest of conditions.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/faith-on-the-frontier-the-father-kino-story-381-370466.jpg" />
-  </programme>
-  <programme start="20260328060000 +0000" stop="20260328080000 +0000" channel="tv-apac.ewtn">
-    <title>A Wolf in Sheep’s Clothing II- the Gender Agenda</title>
-    <desc>This documentary sheds light on liberal and progressive influences shaping society's attitudes on gender and human sexuality, and how this phenomenon threatens our Biblical understanding of marriage and family.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/a-wolf-in-sheeps-clothing-ii-the-gender-agenda-381-371413.jpg" />
-  </programme>
-  <programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="tv-apac.ewtn">
-    <title>A Travel Guide to Life</title>
-    <sub-title>Transform Yourself</sub-title>
-    <desc>Anthony DeStefano wraps things up by discussing three of the hardest realities in life to understand: the presence of evil in the world, suffering, the meaning of love and its greatest symbol, the Cross.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/transform-yourself-TGL14006.jpg" />
-  </programme>
-  <programme start="20260328083000 +0000" stop="20260328093000 +0000" channel="tv-apac.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Welcome Ceremony</sub-title>
-    <desc>From the Prince’s Palace of Monaco.</desc>
-  </programme>
-  <programme start="20260328093000 +0000" stop="20260328100000 +0000" channel="tv-apac.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Friday, March 27, 2026</sub-title>
-    <desc>Pope Leo XIV is set for a historic visit to Monaco. Meanwhile, Mass was held in memory of Mother Angelica at St. Peter’s Basilica. And, Chicago Catholic parents have appealed to the Vatican to keep their school open.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="tv-apac.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With the Catholic Community</sub-title>
-    <desc>In the Cathedral of the Immaculate Conception.</desc>
-  </programme>
-  <programme start="20260328103000 +0000" stop="20260328104500 +0000" channel="tv-apac.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>God’s Mission for Man</sub-title>
-    <desc>Explore how work shapes our identity, serves the common good, and can be a path to holiness when centered on Christ. Catholic farmer, Jesse Straight, shares his powerful story.</desc>
-  </programme>
-  <programme start="20260328104500 +0000" stop="20260328114500 +0000" channel="tv-apac.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With Young People and Catechumens</sub-title>
-    <desc>Taking place in the area in front of the Church of Sainte-Dévote.</desc>
-  </programme>
-  <programme start="20260328114500 +0000" stop="20260328120000 +0000" channel="tv-apac.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>Work and Holiness</sub-title>
-    <desc>Find how habits formed through work can lead toward or away from virtue through teachings of St. John Paul II. Col. Dr. Ed Lopez shares his testimony as a military physician.</desc>
-  </programme>
-  <programme start="20260328120000 +0000" stop="20260328130000 +0000" channel="tv-apac.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328130000 +0000" stop="20260328133000 +0000" channel="tv-apac.ewtn">
-    <title>Holy Rosary for Peace in the World</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, Alabama. The praying of this rosary is in response to the invitation of Cardinal Pizzaballa, Latin Patriarch of Jerusalem, for everyone to recite the Rosary "to ask for peace and serenity, especially for those suffering because of the conflict."</desc>
-  </programme>
-  <programme start="20260328133000 +0000" stop="20260328143000 +0000" channel="tv-apac.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
-  </programme>
-  <programme start="20260328143000 +0000" stop="20260328163000 +0000" channel="tv-apac.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Holy Mass</sub-title>
-    <desc>From Louis II Stadium.</desc>
-  </programme>
-  <programme start="20260328163000 +0000" stop="20260328173000 +0000" channel="tv-apac.ewtn">
-    <title>Lenten Parish Mission</title>
-    <sub-title>Prayer</sub-title>
-    <desc>Fr. William Casey. C.P.M. preaches a mission on the importance of prayer in our Faith.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/prayer-LPM02201.jpg" />
-  </programme>
-  <programme start="20260328173000 +0000" stop="20260328181500 +0000" channel="tv-apac.ewtn">
-    <title>The Way of the Cross With Reflections by Archbishop Georg GÄNswein</title>
-    <desc>In his original meditations, Archbishop Georg Ga¨nswein reflects upon the Stations of the Cross, fourteen memorable events that occurred from the moment Christ was condemned to death to His placement in the tomb.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/the-way-of-the-cross-with-reflections-by-archbishop-georg-gnswein-381-374187.jpg" />
-  </programme>
-  <programme start="20260328181500 +0000" stop="20260328183000 +0000" channel="tv-apac.ewtn">
-    <title>Crux</title>
-    <desc>Bishop Donald Hying encourages viewers to live in the quiet of the moment in order to better hear and understand God’s plan for their lives.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/crux-381-318368.jpg" />
-  </programme>
-  <programme start="20260328183000 +0000" stop="20260328190000 +0000" channel="tv-apac.ewtn">
-    <title>My Little Angels</title>
-    <sub-title>Lent Special</sub-title>
-    <desc>The people of the town of St. Paul make use of the season of Lent to prepare for the Passion of Christ. Animated.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/lent-special-MLA00025.jpg" />
-  </programme>
-  <programme start="20260328190000 +0000" stop="20260328193000 +0000" channel="tv-apac.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With the Catholic Community</sub-title>
-    <desc>In the Cathedral of the Immaculate Conception.</desc>
-  </programme>
-  <programme start="20260328193000 +0000" stop="20260328203000 +0000" channel="tv-apac.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With Young People and Catechumens</sub-title>
-    <desc>Taking place in the area in front of the Church of Sainte-Dévote.</desc>
-  </programme>
-  <programme start="20260328203000 +0000" stop="20260328223000 +0000" channel="tv-apac.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Holy Mass</sub-title>
-    <desc>From Louis II Stadium.</desc>
-  </programme>
-  <programme start="20260328223000 +0000" stop="20260329000000 +0000" channel="tv-apac.ewtn">
-    <title>Stations of the Cross Presented by Comunita’ Cenacolo</title>
-    <desc>Men and women from Comunitá Cenacolo reenact Christ’s passion in this presentation of the Stations of the Cross.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/stations-of-the-cross-presented-by-comunita-cenacolo-381-315352.jpg" />
-  </programme>
   <programme start="20260329000000 +0000" stop="20260329010000 +0000" channel="tv-apac.ewtn">
     <title>Hill Number One</title>
     <desc>The Korean war, and the battles that ensue, are correlated to Christ's crucifixion on Golgotha; a dramatic re-mix of biblical and historical elements. Featuring James Dean.</desc>
@@ -3726,192 +3477,136 @@ When he married his wife, he started going to church regularly with her, but whe
     <sub-title>Do You Love Me?</sub-title>
     <desc>Having denied Christ three times, our Lord asked Peter if he loved him after his resurrection. Father Apostoli tells how with God's help we can accomplish our Lord's will for us.</desc>
   </programme>
-  <channel id="tv-afas.ewtn">
-    <display-name>EWTN Africa/Asia</display-name>
-  </channel>
-  <programme start="20260328000000 +0000" stop="20260328010000 +0000" channel="tv-afas.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
+  <programme start="20260404000000 +0000" stop="20260404003000 +0000" channel="tv-apac.ewtn">
+    <title>Choral Meditations on the Passion of Christ</title>
+    <desc>From the Basilica of the National Shrine of the Immaculate Conception in Washington DC, EWTN presents a Choral Meditation on the Passion of Christ and solemn celebration of the Lord's Passion on Good Friday.</desc>
   </programme>
-  <programme start="20260328010000 +0000" stop="20260328020000 +0000" channel="tv-afas.ewtn">
-    <title>Saint Patrick: the Hidden Years</title>
-    <desc>In this original docudrama, experience Saint Patrick’s life from his early years, to captivity, miraculous escape, and decision to return to evangelize to those he had left behind.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/saint-patrick-the-hidden-years-381-396605.jpg" />
+  <programme start="20260404003000 +0000" stop="20260404023000 +0000" channel="tv-apac.ewtn">
+    <title>Liturgy of the Lord's Passion (BNSIC)</title>
+    <sub-title>Liturgy of the Lord's Passion</sub-title>
+    <desc>From the Basilica of the National Shrine of the Immaculate Conception, join EWTN for a Solemn celebration of the Lord's Passion on Good Friday.</desc>
   </programme>
-  <programme start="20260328020000 +0000" stop="20260328023000 +0000" channel="tv-afas.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Friday, March 27, 2026</sub-title>
-    <desc>Pope Leo XIV is set for a historic visit to Monaco. Meanwhile, Mass was held in memory of Mother Angelica at St. Peter’s Basilica. And, Chicago Catholic parents have appealed to the Vatican to keep their school open.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
+  <programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="tv-apac.ewtn">
+    <title>Unlocking the Secrets of the Shroud</title>
+    <desc>An extensive historical, cultural, and medical study of the fascinating mysteries of the Shroud of Turin.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/unlocking-the-secrets-of-the-shroud-381-11333.jpg" />
   </programme>
-  <programme start="20260328023000 +0000" stop="20260328033000 +0000" channel="tv-afas.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
+  <programme start="20260404030000 +0000" stop="20260404043000 +0000" channel="tv-apac.ewtn">
+    <title>Redeemer</title>
+    <desc>Dramatic presentation follows Jesus through the last days of His life.</desc>
   </programme>
-  <programme start="20260328033000 +0000" stop="20260328040000 +0000" channel="tv-afas.ewtn">
-    <title>Holy Rosary on the Anniversary of Mother Angelica’s Passing</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, Alabama on the 10th Anniversary of Mother Angelica's Passing.</desc>
+  <programme start="20260404043000 +0000" stop="20260404063000 +0000" channel="tv-apac.ewtn">
+    <title>Easter Vigil From the Holy Sepulchre</title>
+    <desc>From the Church of the Holy Sepulchre in Jerusalem, join EWTN for Easter Vigil services, the first official celebration of the Resurrection of Jesus.</desc>
   </programme>
-  <programme start="20260328040000 +0000" stop="20260328050000 +0000" channel="tv-afas.ewtn">
-    <title>Faith on the Frontier - the Father Kino Story</title>
-    <desc>An EWTN original documentary on the life of Fr. Eusebio Kino, who evangelized the Southwest American frontier during the late 17th century, building missions and bringing faith to the natives working in the harshest of conditions.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/faith-on-the-frontier-the-father-kino-story-381-370466.jpg" />
+  <programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="tv-apac.ewtn">
+    <title>Living Divine Mercy</title>
+    <sub-title>Fr. Chris Explains St. Dismas</sub-title>
+    <desc>Fr. Chris Alar, M.I.C. helps viewers get a better understanding of the Divine Mercy message, and shares powerful, real life examples of people who live Divine Mercy in their every day lives.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/LDI.jpg" />
   </programme>
-  <programme start="20260328050000 +0000" stop="20260328053000 +0000" channel="tv-afas.ewtn">
-    <title>Meditations With Fr. Groeschel</title>
-    <sub-title>On Palm Sunday</sub-title>
-    <desc>Palm Sunday marks the beginning of holiest week of the year in the Catholic calendar. Today, spiritual master Fr. Benedict Groeschel offers a series of meditations to help prepare us for this special time.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/on-palm-sunday-MFG02701.jpg" />
+  <programme start="20260404070000 +0000" stop="20260404080000 +0000" channel="tv-apac.ewtn">
+    <title>Shroud, the - the Story of a Mystery</title>
+    <desc>A documentary on the Shroud of Turin, featuring scholars and experts to discuss its research project and the significant challenges it presents to 21st-century scientists.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/shroud-the-the-story-of-a-mystery-381-392567.jpg" />
   </programme>
-  <programme start="20260328053000 +0000" stop="20260328063000 +0000" channel="tv-afas.ewtn">
-    <title>Father Spitzer’s Universe</title>
-    <sub-title>Old Testament Prophecies, Pt. 1</sub-title>
-    <desc>Fr. Spitzer and Doug discuss why the Israelite prophets of the Old Testament were not primarily diviners or seers of the future but rather interpreters of the moral will of Yahweh.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/father-spitzers-universe-FSU.jpg" />
+  <programme start="20260404080000 +0000" stop="20260404090000 +0000" channel="tv-apac.ewtn">
+    <title>The Holy Winding Sheet- Exploring the Shroud of Turin</title>
+    <desc>After meeting with five of The Shroud of Turin’s leading experts, Catholic High School Senior Parker Dow provides a contemporary look at the history and authenticity of the linen believed to be the burial cloth of Christ.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-holy-winding-sheet-exploring-the-shroud-of-turin-381-318380.jpg" />
   </programme>
-  <programme start="20260328063000 +0000" stop="20260328070000 +0000" channel="tv-afas.ewtn">
-    <title>Women of Grace</title>
-    <sub-title>Walking the Way of the Cross With Mary, Pt. 5</sub-title>
-    <desc>Colin Donovan wraps up the series, “Walking the Way of the Cross with Mary,” by discussing the many special titles the Church has given Mary and the importance behind each.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/women-of-grace-WGR.jpg" />
+  <programme start="20260404090000 +0000" stop="20260404103000 +0000" channel="tv-apac.ewtn">
+    <title>Way of the Cross From Rome</title>
+    <desc>From the Colosseum, the Holy Father, Leo XIV, will preside over the pious exercise of the "Via Crucis," at the conclusion of which he will impart the Apostolic Blessing.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/way-of-the-cross-from-rome-WO1.jpg" />
   </programme>
-  <programme start="20260328070000 +0000" stop="20260328080000 +0000" channel="tv-afas.ewtn">
-    <title>Mother Angelica Live Classics</title>
-    <sub-title>03/22/11 Annunciation</sub-title>
-    <desc>EWTN foundress Mother Angelica discusses the Annunciation.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/mother-angelica-live-classics-MA9.jpg" />
+  <programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="tv-apac.ewtn">
+    <title>The Human Face of God in the Holy Veil of Manoppello</title>
+    <desc>Host Paul Badde goes on-location in Italy to explore the Veil of Manoppello and its relation to other images of the Holy Face of Christ.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-human-face-of-god-in-the-holy-veil-of-manoppello-381-354016.jpg" />
   </programme>
-  <programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="tv-afas.ewtn">
-    <title>The Friar</title>
-    <sub-title>The Parable of the Growing Seed</sub-title>
-    <desc>Ataulfo, a former thief, invites two members of his former gang to meet with Friar John in the hopes that hearing Jesus’ parable about the growing seed will convert them from their lives of crime.</desc>
+  <programme start="20260404110000 +0000" stop="20260404120000 +0000" channel="tv-apac.ewtn">
+    <title>Torchlight Stations of the Cross</title>
   </programme>
-  <programme start="20260328083000 +0000" stop="20260328093000 +0000" channel="tv-afas.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Welcome Ceremony</sub-title>
-    <desc>From the Prince’s Palace of Monaco.</desc>
+  <programme start="20260404120000 +0000" stop="20260404130000 +0000" channel="tv-apac.ewtn">
+    <title>The Shroud of Turin</title>
+    <desc>In this cinematic feature documentary, uncover the origin of and investigate the potential miracle behind the most studied artifact in human history, The Shroud of Turin.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-shroud-of-turin-381-392446.jpg" />
   </programme>
-  <programme start="20260328093000 +0000" stop="20260328100000 +0000" channel="tv-afas.ewtn">
-    <title>Where God Weeps</title>
-    <sub-title>Bringing Christ to the Northern India Tribes</sub-title>
-    <desc>Discover the story of how an aspiring seminarian, Jose Chirackal, became the Auxiliary Bishop for the Diocese of Tura in Meghalaya, India, home to a myriad of different tribes.</desc>
+  <programme start="20260404130000 +0000" stop="20260404143000 +0000" channel="tv-apac.ewtn">
+    <title>Path of the Messiah</title>
+    <sub-title>Path of the Messiah, Part 1</sub-title>
+    <desc>Hosts Raymond Arroyo and Jeff Cavins travel through the Holy Land as they retrace the footsteps of Our Lord. Part One begins this dramatic and beautiful journey into Christ's homeland and reflections on the Messiah's mission and ministry.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/path-of-the-messiah-part-1-POT02001.jpg" />
   </programme>
-  <programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="tv-afas.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With the Catholic Community</sub-title>
-    <desc>In the Cathedral of the Immaculate Conception.</desc>
+  <programme start="20260404143000 +0000" stop="20260404150000 +0000" channel="tv-apac.ewtn">
+    <title>Icons: Windows Onto Heaven</title>
+    <sub-title>Glory of His Resurrection Pt. 1</sub-title>
+    <desc>A feature on the Icon of the Raising of Lazarus. It was our Lord’s last great Miracle before entering Jerusalem on Palm Sunday and  a preview of His resurrection. Christ is the central character in the Icon, not Lazarus.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/glory-of-his-resurrection-pt-1-IWO09811.jpg" />
   </programme>
-  <programme start="20260328103000 +0000" stop="20260328104500 +0000" channel="tv-afas.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>God’s Mission for Man</sub-title>
-    <desc>Explore how work shapes our identity, serves the common good, and can be a path to holiness when centered on Christ. Catholic farmer, Jesse Straight, shares his powerful story.</desc>
+  <programme start="20260404150000 +0000" stop="20260404160000 +0000" channel="tv-apac.ewtn">
+    <title>Hill Number One</title>
+    <desc>The Korean war, and the battles that ensue, are correlated to Christ's crucifixion on Golgotha; a dramatic re-mix of biblical and historical elements. Featuring James Dean.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/hill-number-one-381-70035.jpg" />
   </programme>
-  <programme start="20260328104500 +0000" stop="20260328114500 +0000" channel="tv-afas.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With Young People and Catechumens</sub-title>
-    <desc>Taking place in the area in front of the Church of Sainte-Dévote.</desc>
-  </programme>
-  <programme start="20260328114500 +0000" stop="20260328120000 +0000" channel="tv-afas.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>Work and Holiness</sub-title>
-    <desc>Find how habits formed through work can lead toward or away from virtue through teachings of St. John Paul II. Col. Dr. Ed Lopez shares his testimony as a military physician.</desc>
-  </programme>
-  <programme start="20260328120000 +0000" stop="20260328130000 +0000" channel="tv-afas.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328130000 +0000" stop="20260328133000 +0000" channel="tv-afas.ewtn">
-    <title>Holy Rosary for Peace in the World</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, Alabama. The praying of this rosary is in response to the invitation of Cardinal Pizzaballa, Latin Patriarch of Jerusalem, for everyone to recite the Rosary "to ask for peace and serenity, especially for those suffering because of the conflict."</desc>
-  </programme>
-  <programme start="20260328133000 +0000" stop="20260328135000 +0000" channel="tv-afas.ewtn">
+  <programme start="20260404160000 +0000" stop="20260404162000 +0000" channel="tv-apac.ewtn">
     <title>Chaplet of Divine Mercy</title>
     <desc>From the chapel of the National Shrine of the Divine Mercy in Stockbridge, Massachusetts.</desc>
   </programme>
-  <programme start="20260328135000 +0000" stop="20260328140000 +0000" channel="tv-afas.ewtn">
-    <title>Live Adoration From EWTN Chapel</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, AL.</desc>
-  </programme>
-  <programme start="20260328140000 +0000" stop="20260328143000 +0000" channel="tv-afas.ewtn">
-    <title>A Travel Guide to Life</title>
-    <sub-title>Transform Yourself</sub-title>
-    <desc>Anthony DeStefano wraps things up by discussing three of the hardest realities in life to understand: the presence of evil in the world, suffering, the meaning of love and its greatest symbol, the Cross.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/transform-yourself-TGL14006.jpg" />
-  </programme>
-  <programme start="20260328143000 +0000" stop="20260328163000 +0000" channel="tv-afas.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Holy Mass</sub-title>
-    <desc>From Louis II Stadium.</desc>
-  </programme>
-  <programme start="20260328163000 +0000" stop="20260328170000 +0000" channel="tv-afas.ewtn">
-    <title>Rosary in French</title>
-    <sub-title>Sorrowful Mysteries</sub-title>
-    <desc>The Agony, Scourging, Crowning with Thorns, Carrying the Cross and Crucifixion help us to accept  pain and perseverance to the very end.</desc>
-  </programme>
-  <programme start="20260328170000 +0000" stop="20260328171500 +0000" channel="tv-afas.ewtn">
-    <title>Le Chapelet De La Divine Misericorde</title>
-    <desc>The Chaplet of the Divine Mercy is prayed in French by the parish of Our Lady of the Nativity in La Garde, France. Our Lord taught Sister Faustina in Poland, the five decades to recite. Spoken and sung with portrayals of Jesus' Passion and Resurrection.</desc>
-  </programme>
-  <programme start="20260328171500 +0000" stop="20260328173000 +0000" channel="tv-afas.ewtn">
+  <programme start="20260404162000 +0000" stop="20260404163000 +0000" channel="tv-apac.ewtn">
     <title>Reflections With Fr. Leo Clifford</title>
-    <sub-title>Sins of Omission</sub-title>
-    <desc>Father Leo Clifford reflects on why it’s so important to love.</desc>
+    <sub-title>The Love of God</sub-title>
+    <desc>Father Leo Clifford reflects on the meaning of love of God and love of neighbor.</desc>
   </programme>
-  <programme start="20260328173000 +0000" stop="20260328181500 +0000" channel="tv-afas.ewtn">
-    <title>Saint Sépulcre</title>
-    <desc>Au cœur de la chrétienté : la Basilique du Saint Sépulcre, à travers l'archéologie, l'histoire et la foi.</desc>
+  <programme start="20260404163000 +0000" stop="20260404170000 +0000" channel="tv-apac.ewtn">
+    <title>Rosary for Life</title>
+    <desc>Rosary service in Irondale Chapel.</desc>
   </programme>
-  <programme start="20260328181500 +0000" stop="20260328183000 +0000" channel="tv-afas.ewtn">
-    <title>Reflections With Fr. Leo Clifford</title>
-    <sub-title>Mercy of God</sub-title>
-    <desc>Father Leo Clifford explores the various methods of mercy introduced by Jesus to mankind and why they have been given to us.  The thesis is that God's love is so great that His mercy abounds if we but seek it sincerely.</desc>
+  <programme start="20260404170000 +0000" stop="20260404173000 +0000" channel="tv-apac.ewtn">
+    <title>Icons: Windows Onto Heaven</title>
+    <sub-title>Glory of His Resurrection Pt. 2</sub-title>
+    <desc>Fr. Jacob Restrick shares the Marion icons that explain Mary’s privileged role in  salvation history and in the glory that is hers at the Annunciation.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/glory-of-his-resurrection-pt-2-IWO09812.jpg" />
   </programme>
-  <programme start="20260328183000 +0000" stop="20260328193000 +0000" channel="tv-afas.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
+  <programme start="20260404173000 +0000" stop="20260404180000 +0000" channel="tv-apac.ewtn">
+    <title>Meditations With Fr. Groeschel</title>
+    <sub-title>On Easter Sunday</sub-title>
+    <desc>Father Groeschel offers a Lenten Meditation on Easter Sunday, showing how the entire Christian Faith depends on the Resurrection of Christ.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/on-easter-sunday-MFG02704.jpg" />
   </programme>
-  <programme start="20260328193000 +0000" stop="20260328200000 +0000" channel="tv-afas.ewtn">
-    <title>Catholics Come Home</title>
-    <sub-title>Former Male Stripper Now Teaches Catholic Purity</sub-title>
-    <desc>After working as a stripper at 18-21, a self-proclaimed “wild child,” Jim O’Day reflects on his epiphany of faith after receiving morally convicting statements from his boss at 22.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/former-male-stripper-now-teaches-catholic-purity-CM425001.jpg" />
+  <programme start="20260404180000 +0000" stop="20260404190000 +0000" channel="tv-apac.ewtn">
+    <title>That I May See</title>
+    <desc>The Sermon on the Mount and the miracles of Jesus featuring Ruth Hussey and Raymond Burr.</desc>
   </programme>
-  <programme start="20260328200000 +0000" stop="20260328210000 +0000" channel="tv-afas.ewtn">
-    <title>Mother Angelica Live Classics</title>
-    <sub-title>Seven Last Words</sub-title>
-    <desc>Mother talks about the Seven Last Words of Jesus. She talks about some of the meaning you can get from this.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/mother-angelica-live-classics-MA9.jpg" />
+  <programme start="20260404190000 +0000" stop="20260404213000 +0000" channel="tv-apac.ewtn">
+    <title>Easter Vigil Mass From Rome</title>
+    <desc>His Holiness, Pope Francis, presides over the Easter Vigil Mass, live from Vatican City.</desc>
   </programme>
-  <programme start="20260328210000 +0000" stop="20260328220000 +0000" channel="tv-afas.ewtn">
-    <title>Christendom</title>
-    <desc>A docudrama about the golden age when Christianity touched every aspect of peoples’ lives and the pillars of Western civilization were formed, producing great achievements in art, music, agriculture, health care and science.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/christendom-381-376945.jpg" />
+  <programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="tv-apac.ewtn">
+    <title>Mysteries of the Rosary - the Glorious Mysteries</title>
+    <sub-title>Glory of God</sub-title>
+    <desc>Mark Hartfiel considers the supposed failure of Our Lord upon the Cross and how the splendor and beauty of a Church which transformed civilization for eternity rose from the ashes.</desc>
   </programme>
-  <programme start="20260328220000 +0000" stop="20260328223000 +0000" channel="tv-afas.ewtn">
-    <title>Lenten Reflections</title>
-    <sub-title>Palm Sunday - the Triumphal Entry and His Saving Passion</sub-title>
-    <desc>From Holy Cross Leicester, Fr. Richard Ounsworth, defines the themes of the Palm Sunday Gospel readings, that of the triumphal entry of Our Lord into Jerusalem, and of his Passion.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/lenten-reflections-LN3.jpg" />
+  <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="tv-apac.ewtn">
+    <title>Pilgrim, the - Road to Emmaus</title>
+    <desc>A Pilgrim shares the transformative truths of the Gospel with two young men who are confused by their friend’s choice to join the monastic life, which inspires them to conversion.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/pilgrim-the-road-to-emmaus-381-388000.jpg" />
   </programme>
-  <programme start="20260328223000 +0000" stop="20260328230000 +0000" channel="tv-afas.ewtn">
-    <title>The Choices We Face</title>
-    <sub-title>The Hour of Testing</sub-title>
-    <desc>Fr. Donald Haggerty poses ways in which the church can be vigilant and proactive in engaging the battle and also shares his recent book “The Hour of Testing.”</desc>
+  <programme start="20260404230000 +0000" stop="20260404233000 +0000" channel="tv-apac.ewtn">
+    <title>An EWTN Holy Land Experience</title>
+    <sub-title>An EWTN Holy Land Experience: Resurrection</sub-title>
+    <desc>Fr. Joseph Mary Wolfe and Fr. Mark Mary Cristina journey to the Holy Land to visit sites related to the Resurrection.</desc>
   </programme>
-  <programme start="20260328230000 +0000" stop="20260328233000 +0000" channel="tv-afas.ewtn">
-    <title>Catholic Classics: Living the Scriptures</title>
-    <sub-title>John 4</sub-title>
-    <desc>Mother continues with John 4 on the will of God as food for the soul.</desc>
+  <programme start="20260404233000 +0000" stop="20260405000000 +0000" channel="tv-apac.ewtn">
+    <title>The Word Was Made Flesh</title>
+    <sub-title>Easter Sunday and Appearances of Our Lord</sub-title>
+    <desc>By highlighting the reactions of the apostles and disciples to Christ's resurrection from the dead, Fr. Apostoli concludes his survey of the Gospel.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/easter-sunday-and-appearances-of-our-lord-WWM02513.jpg" />
   </programme>
-  <programme start="20260328233000 +0000" stop="20260329000000 +0000" channel="tv-afas.ewtn">
-    <title>Blue Collar Apologetics</title>
-    <sub-title>Apologetics for the Scripturally-Challenged</sub-title>
-    <desc>John Martignoni shares sure-fire methods Catholics can use to defend their faith, even if they’re far from being the most well-read scripture scholar.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/apologetics-for-the-scripturally-challenged-BLC15001.jpg" />
-  </programme>
+  <channel id="tv-afas.ewtn">
+    <display-name>EWTN Africa/Asia</display-name>
+  </channel>
   <programme start="20260329000000 +0000" stop="20260329010000 +0000" channel="tv-afas.ewtn">
     <title>Path of the Messiah</title>
     <sub-title>Path of the Messiah, Part 2</sub-title>
@@ -5064,180 +4759,152 @@ When he married his wife, he started going to church regularly with her, but whe
     <sub-title>Correcting Media Images and Information</sub-title>
     <desc>Deacon Harold Burke-Sivers and Fr. Brian Mullady discuss the anti-clerical images presented by the media.</desc>
   </programme>
+  <programme start="20260404000000 +0000" stop="20260404010000 +0000" channel="tv-afas.ewtn">
+    <title>Life Is Worth Living</title>
+    <sub-title>His Last Words</sub-title>
+    <desc>Archbishop Sheen meditates on spectators on and about the Cross.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/life-is-worth-living-LIW.jpg" />
+  </programme>
+  <programme start="20260404010000 +0000" stop="20260404020000 +0000" channel="tv-afas.ewtn">
+    <title>Lenten Parish Mission</title>
+    <sub-title>Mary, the Mother of God</sub-title>
+    <desc>From the Shrine of the Blessed Sacrament in Hanceville, Alabama, the Very Reverend Casey, talks about Mary, Mother of God.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/mary-the-mother-of-god-LPM02206.jpg" />
+  </programme>
+  <programme start="20260404020000 +0000" stop="20260404033000 +0000" channel="tv-afas.ewtn">
+    <title>Path of the Messiah</title>
+    <sub-title>Path of the Messiah, Part 1</sub-title>
+    <desc>Hosts Raymond Arroyo and Jeff Cavins travel through the Holy Land as they retrace the footsteps of Our Lord. Part One begins this dramatic and beautiful journey into Christ's homeland and reflections on the Messiah's mission and ministry.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/path-of-the-messiah-part-1-POT02001.jpg" />
+  </programme>
+  <programme start="20260404033000 +0000" stop="20260404034800 +0000" channel="tv-afas.ewtn">
+    <title>The Holy Land Rosary</title>
+    <sub-title>Sorrowful Mysteries</sub-title>
+    <desc>Fr. Mitch Pacwa leads the Sorrowful Mysteries of the Rosary from the actual holy sites and shrines where they took place, bringing the Gospels to life and offering a deeper understanding of the Rosary meditations.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/holy-land-rosary-HLR.jpg" />
+  </programme>
+  <programme start="20260404034800 +0000" stop="20260404040000 +0000" channel="tv-afas.ewtn">
+    <title>The Litany of the Most Precious Blood of Jesus</title>
+    <desc>Join the Franciscan Missionaries of the Eternal Word at the Shrine of the Most Blessed Sacrament in Hanceville, Alabama, as they recite this beautiful prayer in honor of the Precious Blood of Jesus shed for our salvation.</desc>
+  </programme>
+  <programme start="20260404040000 +0000" stop="20260404043000 +0000" channel="tv-afas.ewtn">
+    <title>For God So Loved the World</title>
+    <sub-title>Jesus Before Pilate</sub-title>
+    <desc>An examination of  the torture Christ was forced to endure. Pilate knowingly has an innocent man crucified, thus rejecting the grace of God while advancing our redemption. Hosted by Bible scholar Frances Hogan.</desc>
+  </programme>
+  <programme start="20260404043000 +0000" stop="20260404063000 +0000" channel="tv-afas.ewtn">
+    <title>Easter Vigil From the Holy Sepulchre</title>
+    <desc>From the Church of the Holy Sepulchre in Jerusalem, join EWTN for Easter Vigil services, the first official celebration of the Resurrection of Jesus.</desc>
+  </programme>
+  <programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="tv-afas.ewtn">
+    <title>The Human Face of God in the Holy Veil of Manoppello</title>
+    <desc>Host Paul Badde goes on-location in Italy to explore the Veil of Manoppello and its relation to other images of the Holy Face of Christ.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-human-face-of-god-in-the-holy-veil-of-manoppello-381-354016.jpg" />
+  </programme>
+  <programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="tv-afas.ewtn">
+    <title>Choral Meditations on the Passion of Christ</title>
+    <desc>From the Basilica of the National Shrine of the Immaculate Conception in Washington DC, EWTN presents a Choral Meditation on the Passion of Christ and solemn celebration of the Lord's Passion on Good Friday.</desc>
+  </programme>
+  <programme start="20260404073000 +0000" stop="20260404093000 +0000" channel="tv-afas.ewtn">
+    <title>Liturgy of the Lord's Passion (BNSIC)</title>
+    <sub-title>Liturgy of the Lord's Passion</sub-title>
+    <desc>From the Basilica of the National Shrine of the Immaculate Conception, join EWTN for a Solemn celebration of the Lord's Passion on Good Friday.</desc>
+  </programme>
+  <programme start="20260404093000 +0000" stop="20260404100000 +0000" channel="tv-afas.ewtn">
+    <title>For God So Loved the World</title>
+    <sub-title>The Execution of God's Beloved Son</sub-title>
+    <desc>Scripture scholar Frances Hogan points out the parallels between the Passover lamb of the Old Testament and Jesus as the Paschal Lamb of the new Passover.</desc>
+  </programme>
+  <programme start="20260404100000 +0000" stop="20260404110000 +0000" channel="tv-afas.ewtn">
+    <title>Mother Angelica Live Classics</title>
+    <sub-title>Seven Last Words</sub-title>
+    <desc>Mother talks about the Seven Last Words of Jesus. She talks about some of the meaning you can get from this.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/mother-angelica-live-classics-MA9.jpg" />
+  </programme>
+  <programme start="20260404110000 +0000" stop="20260404120000 +0000" channel="tv-afas.ewtn">
+    <title>Shroud, the - the Story of a Mystery</title>
+    <desc>A documentary on the Shroud of Turin, featuring scholars and experts to discuss its research project and the significant challenges it presents to 21st-century scientists.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/shroud-the-the-story-of-a-mystery-381-392567.jpg" />
+  </programme>
+  <programme start="20260404120000 +0000" stop="20260404133000 +0000" channel="tv-afas.ewtn">
+    <title>Way of the Cross From Rome</title>
+    <desc>From the Colosseum, the Holy Father, Leo XIV, will preside over the pious exercise of the "Via Crucis," at the conclusion of which he will impart the Apostolic Blessing.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/way-of-the-cross-from-rome-WO1.jpg" />
+  </programme>
+  <programme start="20260404133000 +0000" stop="20260404135000 +0000" channel="tv-afas.ewtn">
+    <title>Chaplet of Divine Mercy</title>
+    <desc>From the chapel of the National Shrine of the Divine Mercy in Stockbridge, Massachusetts.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/MCH19002.jpg" />
+  </programme>
+  <programme start="20260404135000 +0000" stop="20260404140000 +0000" channel="tv-afas.ewtn">
+    <title>Rome's Hidden Churches: a Lenten Pilgrimage</title>
+    <sub-title>Saint Mary Major</sub-title>
+    <desc>In the Eastern Church, there's a tradition that the first person Christ appeared to after His resurrection was His Mother.  On Easter Sunday, Dr. O'Donnell visits St. Mary Major, the great basilica built in Her honor</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/basilica-de-santa-maria-la-mayor-RHC09929.jpg" />
+  </programme>
+  <programme start="20260404140000 +0000" stop="20260404150000 +0000" channel="tv-afas.ewtn">
+    <title>Torchlight Stations of the Cross</title>
+  </programme>
+  <programme start="20260404150000 +0000" stop="20260404160000 +0000" channel="tv-afas.ewtn">
+    <title>The Shroud of Turin</title>
+    <desc>In this cinematic feature documentary, uncover the origin of and investigate the potential miracle behind the most studied artifact in human history, The Shroud of Turin.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-shroud-of-turin-381-392446.jpg" />
+  </programme>
+  <programme start="20260404160000 +0000" stop="20260404163000 +0000" channel="tv-afas.ewtn">
+    <title>Feasts &amp; Seasons - the Year ‘Round</title>
+    <sub-title>Holy Week &amp; Easter</sub-title>
+    <desc>Joanna Bogle honors Holy Week and Good Friday by preparing marzipan treats and dyed eggs for Easter.</desc>
+  </programme>
+  <programme start="20260404163000 +0000" stop="20260404170000 +0000" channel="tv-afas.ewtn">
+    <title>Rosary in French</title>
+    <sub-title>Sorrowful Mysteries</sub-title>
+    <desc>The Agony, Scourging, Crowning with Thorns, Carrying the Cross and Crucifixion help us to accept  pain and perseverance to the very end.</desc>
+  </programme>
+  <programme start="20260404170000 +0000" stop="20260404171500 +0000" channel="tv-afas.ewtn">
+    <title>Le Chapelet De La Divine Misericorde</title>
+    <desc>The Chaplet of the Divine Mercy is prayed in French by the parish of Our Lady of the Nativity in La Garde, France. Our Lord taught Sister Faustina in Poland, the five decades to recite. Spoken and sung with portrayals of Jesus' Passion and Resurrection.</desc>
+  </programme>
+  <programme start="20260404171500 +0000" stop="20260404173000 +0000" channel="tv-afas.ewtn">
+    <title>Reflections With Fr. Leo Clifford</title>
+    <sub-title>Our Father</sub-title>
+    <desc>Father Leo Clifford reflects on the glory of the Our Father.</desc>
+  </programme>
+  <programme start="20260404173000 +0000" stop="20260404183000 +0000" channel="tv-afas.ewtn">
+    <title>Saint Sépulcre</title>
+    <desc>Au cœur de la chrétienté : la Basilique du Saint Sépulcre, à travers l'archéologie, l'histoire et la foi.</desc>
+  </programme>
+  <programme start="20260404183000 +0000" stop="20260404190000 +0000" channel="tv-afas.ewtn">
+    <title>An EWTN Holy Land Experience</title>
+    <sub-title>An EWTN Holy Land Experience: Resurrection</sub-title>
+    <desc>Fr. Joseph Mary Wolfe and Fr. Mark Mary Cristina journey to the Holy Land to visit sites related to the Resurrection.</desc>
+  </programme>
+  <programme start="20260404190000 +0000" stop="20260404213000 +0000" channel="tv-afas.ewtn">
+    <title>Easter Vigil Mass From Rome</title>
+    <desc>His Holiness, Pope Francis, presides over the Easter Vigil Mass, live from Vatican City.</desc>
+  </programme>
+  <programme start="20260404213000 +0000" stop="20260404223000 +0000" channel="tv-afas.ewtn">
+    <title>Pilgrim, the - Road to Emmaus</title>
+    <desc>A Pilgrim shares the transformative truths of the Gospel with two young men who are confused by their friend’s choice to join the monastic life, which inspires them to conversion.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/pilgrim-the-road-to-emmaus-381-388000.jpg" />
+  </programme>
+  <programme start="20260404223000 +0000" stop="20260404230000 +0000" channel="tv-afas.ewtn">
+    <title>Easter Sunday Meditations</title>
+    <desc>Fr. Benedict Groeschel enlightens us with spirituality, as he shares meditations for Easter Sunday.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/easter-sunday-meditations-381-10126.jpg" />
+  </programme>
+  <programme start="20260404230000 +0000" stop="20260404233000 +0000" channel="tv-afas.ewtn">
+    <title>Mysteries of the Rosary - the Glorious Mysteries</title>
+    <sub-title>Glory of God</sub-title>
+    <desc>Mark Hartfiel considers the supposed failure of Our Lord upon the Cross and how the splendor and beauty of a Church which transformed civilization for eternity rose from the ashes.</desc>
+  </programme>
+  <programme start="20260404233000 +0000" stop="20260405000000 +0000" channel="tv-afas.ewtn">
+    <title>Canada catholique</title>
+    <sub-title>Aux racines de la foi au Québec</sub-title>
+    <desc>Francis Denis présente l'histoire inspirante de la foi au Canada, incluant des sanctuaires catholiques renommés, des ordres religieux et des entrevues remarquables avec d'éminents chefs de l'Église.</desc>
+  </programme>
   <channel id="tv-eu.ewtn">
     <display-name>EWTN Europe</display-name>
   </channel>
-  <programme start="20260328000000 +0000" stop="20260328010000 +0000" channel="tv-eu.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
-  </programme>
-  <programme start="20260328010000 +0000" stop="20260328020000 +0000" channel="tv-eu.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328020000 +0000" stop="20260328023000 +0000" channel="tv-eu.ewtn">
-    <title>Chaplet of St. Michael</title>
-    <desc>Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels, as they pray the chaplet of St. Michael.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/chaplet-of-st-michael-381-123265.jpg" />
-  </programme>
-  <programme start="20260328023000 +0000" stop="20260328030000 +0000" channel="tv-eu.ewtn">
-    <title>Catholics Come Home</title>
-    <sub-title>Moonie Cult Member Becomes Faithful Catholic</sub-title>
-    <desc>Hear the inspiring story of a woman who overcame sexual abuse, her family’s secretive cult involvement, and turbulent childhood, to paint Catholic Icons and com home to the Church.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/moonie-cult-member-becomes-faithful-catholic-CM425004.jpg" />
-  </programme>
-  <programme start="20260328030000 +0000" stop="20260328040000 +0000" channel="tv-eu.ewtn">
-    <title>Living Right With Dr. Ray</title>
-    <sub-title>Dynamic Duo</sub-title>
-    <desc>Johnette and Jack Williams join Dr. Ray to share their journey as Catholic media evangelists. A mom of athletic sons seeks advice on balancing sports with the rest of life.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/living-right-with-dr-ray-RWL.jpg" />
-  </programme>
-  <programme start="20260328040000 +0000" stop="20260328043000 +0000" channel="tv-eu.ewtn">
-    <title>Quest for Shakespeare</title>
-    <sub-title>To Be Or to Seem to Be, That Is the Question</sub-title>
-    <desc>Host Joseph Pearce examines Shakespeare's Catholic motives in Hamlet. Topics include debunking negative criticisms of the play; Hamlet and his likeness to the Earl of Essex; the Ghost of Hamlet's father as a soul in purgatory.</desc>
-  </programme>
-  <programme start="20260328043000 +0000" stop="20260328050000 +0000" channel="tv-eu.ewtn">
-    <title>Meditations With Fr. Groeschel</title>
-    <sub-title>On Palm Sunday</sub-title>
-    <desc>Palm Sunday marks the beginning of holiest week of the year in the Catholic calendar. Today, spiritual master Fr. Benedict Groeschel offers a series of meditations to help prepare us for this special time.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/on-palm-sunday-MFG02701.jpg" />
-  </programme>
-  <programme start="20260328050000 +0000" stop="20260328051900 +0000" channel="tv-eu.ewtn">
-    <title>The Holy Land Rosary</title>
-    <sub-title>Joyful Mysteries</sub-title>
-    <desc>Fr. Mitch Pacwa leads the Joyful Mysteries of the Rosary from the actual holy sites and shrines where they took place, bringing the Gospels to life and offering a deeper understanding of the Rosary meditations.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/holy-land-rosary-HLR.jpg" />
-  </programme>
-  <programme start="20260328051900 +0000" stop="20260328053000 +0000" channel="tv-eu.ewtn">
-    <title>The Litany of the Blessed Virgin Mary</title>
-    <desc>Join the Franciscan Missionaries of the Eternal Word as they recite this beautiful prayer in honor of the Blessed Virgin Mary from the Shrine of the Most Blessed Sacrament in Hanceville, Alabama.</desc>
-  </programme>
-  <programme start="20260328053000 +0000" stop="20260328060000 +0000" channel="tv-eu.ewtn">
-    <title>Saints for Today</title>
-    <sub-title>Blessed Gaetano Catanoso</sub-title>
-    <desc>Father John Horgan explores the life of Blessed Gaetano Catanoso and the community of sisters he founded to wipe away Jesus' tears, not on His human face, but mystically present in the faces of all of us.</desc>
-  </programme>
-  <programme start="20260328060000 +0000" stop="20260328070000 +0000" channel="tv-eu.ewtn">
-    <title>Mother Angelica Live Classics</title>
-    <sub-title>Why Did Lucifer Call God a Liar</sub-title>
-    <desc>Mother Angelica offers an insightful discussion on the deceptiveness of our spiritual enemy, Satan.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/mother-angelica-live-classics-MA9.jpg" />
-  </programme>
-  <programme start="20260328070000 +0000" stop="20260328073000 +0000" channel="tv-eu.ewtn">
-    <title>A Travel Guide to Life</title>
-    <sub-title>Transform Yourself</sub-title>
-    <desc>Anthony DeStefano wraps things up by discussing three of the hardest realities in life to understand: the presence of evil in the world, suffering, the meaning of love and its greatest symbol, the Cross.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/transform-yourself-TGL14006.jpg" />
-  </programme>
-  <programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="tv-eu.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Friday, March 27, 2026</sub-title>
-    <desc>Pope Leo XIV is set for a historic visit to Monaco. Meanwhile, Mass was held in memory of Mother Angelica at St. Peter’s Basilica. And, Chicago Catholic parents have appealed to the Vatican to keep their school open.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="tv-eu.ewtn">
-    <title>Massterpiece Donut Shop</title>
-    <sub-title>Making a Sacrifice</sub-title>
-    <desc>After stealing from the tip jar at the Donut Shop to buy a new skateboard, Cory realizes he's made a terrible mistake and seeks to confess-- but will the other kids forgive him?</desc>
-  </programme>
-  <programme start="20260328083000 +0000" stop="20260328093000 +0000" channel="tv-eu.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Welcome Ceremony</sub-title>
-    <desc>From the Prince’s Palace of Monaco.</desc>
-  </programme>
-  <programme start="20260328093000 +0000" stop="20260328100000 +0000" channel="tv-eu.ewtn">
-    <title>At Home With Jim and Joy</title>
-    <sub-title>Sr. Emma Rueda, SCTJM and Sr. Amanda Davis, Pt. 2</sub-title>
-    <desc>Sr. Emma SCTJM and Sr. Amanda Magdalena SCTJM are back with Jim and Joy to share more about the beauty found within the Servants of the Pierced Hearts of Jesus and Mary.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/at-home-with-jim-and-joy-HJJ.jpg" />
-  </programme>
-  <programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="tv-eu.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With the Catholic Community</sub-title>
-    <desc>In the Cathedral of the Immaculate Conception.</desc>
-  </programme>
-  <programme start="20260328103000 +0000" stop="20260328104500 +0000" channel="tv-eu.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>God’s Mission for Man</sub-title>
-    <desc>Explore how work shapes our identity, serves the common good, and can be a path to holiness when centered on Christ. Catholic farmer, Jesse Straight, shares his powerful story.</desc>
-  </programme>
-  <programme start="20260328104500 +0000" stop="20260328114500 +0000" channel="tv-eu.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Meeting With Young People and Catechumens</sub-title>
-    <desc>Taking place in the area in front of the Church of Sainte-Dévote.</desc>
-  </programme>
-  <programme start="20260328114500 +0000" stop="20260328120000 +0000" channel="tv-eu.ewtn">
-    <title>Into the Breach: the Dignity of Work</title>
-    <sub-title>Work and Holiness</sub-title>
-    <desc>Find how habits formed through work can lead toward or away from virtue through teachings of St. John Paul II. Col. Dr. Ed Lopez shares his testimony as a military physician.</desc>
-  </programme>
-  <programme start="20260328120000 +0000" stop="20260328130000 +0000" channel="tv-eu.ewtn">
-    <title>Daily Mass</title>
-    <desc>The Franciscan Missionaries of the Eternal Word celebrate Mass from the Our Lady of Angels Chapel in Irondale, AL. (LIVE DAILY at 8 am Eastern)</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328130000 +0000" stop="20260328133000 +0000" channel="tv-eu.ewtn">
-    <title>Holy Rosary for Peace in the World</title>
-    <desc>From Our Lady of the Angels Chapel in Irondale, Alabama. The praying of this rosary is in response to the invitation of Cardinal Pizzaballa, Latin Patriarch of Jerusalem, for everyone to recite the Rosary "to ask for peace and serenity, especially for those suffering because of the conflict."</desc>
-  </programme>
-  <programme start="20260328133000 +0000" stop="20260328143000 +0000" channel="tv-eu.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
-  </programme>
-  <programme start="20260328143000 +0000" stop="20260328163000 +0000" channel="tv-eu.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Holy Mass</sub-title>
-    <desc>From Louis II Stadium.</desc>
-  </programme>
-  <programme start="20260328163000 +0000" stop="20260328173000 +0000" channel="tv-eu.ewtn">
-    <title>Faith on the Frontier - the Father Kino Story</title>
-    <desc>An EWTN original documentary on the life of Fr. Eusebio Kino, who evangelized the Southwest American frontier during the late 17th century, building missions and bringing faith to the natives working in the harshest of conditions.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/faith-on-the-frontier-the-father-kino-story-381-370466.jpg" />
-  </programme>
-  <programme start="20260328173000 +0000" stop="20260328180000 +0000" channel="tv-eu.ewtn">
-    <title>A Travel Guide to Life</title>
-    <sub-title>Transform Yourself</sub-title>
-    <desc>Anthony DeStefano wraps things up by discussing three of the hardest realities in life to understand: the presence of evil in the world, suffering, the meaning of love and its greatest symbol, the Cross.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/transform-yourself-TGL14006.jpg" />
-  </programme>
-  <programme start="20260328180000 +0000" stop="20260328200000 +0000" channel="tv-eu.ewtn">
-    <title>Pope Leo in Monaco</title>
-    <sub-title>Holy Mass</sub-title>
-    <desc>From Louis II Stadium.</desc>
-  </programme>
-  <programme start="20260328200000 +0000" stop="20260328210000 +0000" channel="tv-eu.ewtn">
-    <title>Christianity in Lebanon: A Rock of Faith</title>
-    <desc>Colm Flynn reports from Lebanon, framed by Pope Leo’s visit, exploring Catholic life, conflict, and the resilience of a new generation.</desc>
-  </programme>
-  <programme start="20260328210000 +0000" stop="20260328213000 +0000" channel="tv-eu.ewtn">
-    <title>EWTN News Nightly</title>
-    <sub-title>EWTN News Nightly | Friday, March 27, 2026</sub-title>
-    <desc>Pope Leo XIV is set for a historic visit to Monaco. Meanwhile, Mass was held in memory of Mother Angelica at St. Peter’s Basilica. And, Chicago Catholic parents have appealed to the Vatican to keep their school open.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/enn-veronica-hl-ENN.jpg" />
-  </programme>
-  <programme start="20260328213000 +0000" stop="20260328220000 +0000" channel="tv-eu.ewtn">
-    <title>EWTN Bookmark</title>
-    <sub-title>God's Wounds</sub-title>
-    <desc>Discover the remarkable truth behind those who bore the signs of Christ's Passion. John Clark's new book examines the evidence on stigmata phenomena both medically and spiritually.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/ewtn-bookmark-BOO.jpg" />
-  </programme>
-  <programme start="20260328220000 +0000" stop="20260328230000 +0000" channel="tv-eu.ewtn">
-    <title>Called to Communion With Dr. David Anders</title>
-    <sub-title>The Bible</sub-title>
-    <desc>Dr. Anders answers questions about the Bible as the most popular book ever read worldwide and how a non-Catholic may benefit from the Catholic view of the Gospel.</desc>
-  </programme>
-  <programme start="20260328230000 +0000" stop="20260328233000 +0000" channel="tv-eu.ewtn">
-    <title>Forgotten Heritage</title>
-    <sub-title>Rue Du Bac, France: Miraculous Medal and the Age of  Mary</sub-title>
-    <desc>Fr. Owen Gorman and Fr. John Hogan relate the historical tradition of the Rue du Bac in Paris, where St. Catherine Laboure beheld apparitions of Mary who asked for the Miraculous Medal to be struck and devotion promulgated.</desc>
-  </programme>
-  <programme start="20260328233000 +0000" stop="20260329000000 +0000" channel="tv-eu.ewtn">
-    <title>Fathers for Good</title>
-    <sub-title>Leadership in the Home, Church and Community</sub-title>
-    <desc>Fr. Francis Gustilo and Frank Padilla discuss the role of men in their homes, church parishes and communities.  Men are called to be leaders and to set examples for family, friends and neighbors.</desc>
-  </programme>
   <programme start="20260329000000 +0000" stop="20260329003000 +0000" channel="tv-eu.ewtn">
     <title>Web of Faith 2.0</title>
     <sub-title>Why Did Jesus Undergo Baptism?</sub-title>
@@ -6365,189 +6032,155 @@ When he married his wife, he started going to church regularly with her, but whe
     <sub-title>Liturgy of the Lord's Passion</sub-title>
     <desc>From the Basilica of the National Shrine of the Immaculate Conception, join EWTN for a Solemn celebration of the Lord's Passion on Good Friday.</desc>
   </programme>
+  <programme start="20260404000000 +0000" stop="20260404010000 +0000" channel="tv-eu.ewtn">
+    <title>To Believe</title>
+    <desc>During the 20th Century, the Soviet Union relentlessly persecuted the Church within its own borders. This is the true story of Fr. Sebastian Sabudzinski and the small Catholic parish he tended to in Ukraine during the Communist persecution.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/to-believe-381-378381.jpg" />
+  </programme>
+  <programme start="20260404010000 +0000" stop="20260404020000 +0000" channel="tv-eu.ewtn">
+    <title>The Shroud of Turin</title>
+    <desc>In this cinematic feature documentary, uncover the origin of and investigate the potential miracle behind the most studied artifact in human history, The Shroud of Turin.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-shroud-of-turin-381-392446.jpg" />
+  </programme>
+  <programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="tv-eu.ewtn">
+    <title>Chaplet of St. Michael</title>
+    <desc>Mother Angelica and the Nuns of Our Lady of the Angels Monastery ask for the intercession of the Prince of the Heavenly Hosts and the nine Choirs of Angels, as they pray the chaplet of St. Michael.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/chaplet-of-st-michael-381-123265.jpg" />
+  </programme>
+  <programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="tv-eu.ewtn">
+    <title>The Word Was Made Flesh</title>
+    <sub-title>The Last Supper: Part Two</sub-title>
+    <desc>Fr. Apostoli recounts Jesus' further directives to his disciples on how to remain connected with him even after He has gone. They are to live in his love, keeping his commandments and love one another as He has loved them.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-last-supper-part-two-WWM02511.jpg" />
+  </programme>
+  <programme start="20260404030000 +0000" stop="20260404040000 +0000" channel="tv-eu.ewtn">
+    <title>Lenten Parish Mission</title>
+    <sub-title>Mary, the Mother of God</sub-title>
+    <desc>From the Shrine of the Blessed Sacrament in Hanceville, Alabama, the Very Reverend Casey, talks about Mary, Mother of God.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/mary-the-mother-of-god-LPM02206.jpg" />
+  </programme>
+  <programme start="20260404040000 +0000" stop="20260404043000 +0000" channel="tv-eu.ewtn">
+    <title>The Word Was Made Flesh</title>
+    <sub-title>The Passion and Death of Our Lord</sub-title>
+    <desc>Fr. Apostoli unfolds John's dramatic firsthand accounts of the suffering and death of Christ, the Father's plan and fulfillment.</desc>
+  </programme>
+  <programme start="20260404043000 +0000" stop="20260404063000 +0000" channel="tv-eu.ewtn">
+    <title>Easter Vigil From the Holy Sepulchre</title>
+    <desc>From the Church of the Holy Sepulchre in Jerusalem, join EWTN for Easter Vigil services, the first official celebration of the Resurrection of Jesus.</desc>
+  </programme>
+  <programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="tv-eu.ewtn">
+    <title>Living Divine Mercy</title>
+    <sub-title>Fr. Chris Explains St. Dismas</sub-title>
+    <desc>Fr. Chris Alar, M.I.C. helps viewers get a better understanding of the Divine Mercy message, and shares powerful, real life examples of people who live Divine Mercy in their every day lives.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/LDI.jpg" />
+  </programme>
+  <programme start="20260404070000 +0000" stop="20260404080000 +0000" channel="tv-eu.ewtn">
+    <title>Hill Number One</title>
+    <desc>The Korean war, and the battles that ensue, are correlated to Christ's crucifixion on Golgotha; a dramatic re-mix of biblical and historical elements. Featuring James Dean.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/hill-number-one-381-70035.jpg" />
+  </programme>
+  <programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="tv-eu.ewtn">
+    <title>Truth in the Heart</title>
+    <sub-title>Easter Vigil, Pt. 1</sub-title>
+    <desc>Sister Mary Joseph explores the meaning of the Easter Vigil in this engaging catechism lesson for children (Catechetical Level: 2nd grade ).</desc>
+  </programme>
+  <programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="tv-eu.ewtn">
+    <title>Truth in the Heart</title>
+    <sub-title>Easter Vigil, Pt. 2</sub-title>
+    <desc>Sister Mary Joseph explores the meaning of the Easter Vigil in this engaging catechism lesson for children (Catechetical Level: 2nd grade ).</desc>
+  </programme>
+  <programme start="20260404090000 +0000" stop="20260404100000 +0000" channel="tv-eu.ewtn">
+    <title>The Holy Winding Sheet- Exploring the Shroud of Turin</title>
+    <desc>After meeting with five of The Shroud of Turin’s leading experts, Catholic High School Senior Parker Dow provides a contemporary look at the history and authenticity of the linen believed to be the burial cloth of Christ.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-holy-winding-sheet-exploring-the-shroud-of-turin-381-318380.jpg" />
+  </programme>
+  <programme start="20260404100000 +0000" stop="20260404113000 +0000" channel="tv-eu.ewtn">
+    <title>Redeemer</title>
+    <desc>Dramatic presentation follows Jesus through the last days of His life.</desc>
+  </programme>
+  <programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="tv-eu.ewtn">
+    <title>Icons: Windows Onto Heaven</title>
+    <sub-title>His Passion and Cross</sub-title>
+    <desc>Images that depict Christ as the Bridegroom. The bridegroom image is an ancient image of God who is married to and has a covenant with His people.</desc>
+  </programme>
+  <programme start="20260404120000 +0000" stop="20260404133000 +0000" channel="tv-eu.ewtn">
+    <title>Way of the Cross From Rome</title>
+    <desc>From the Colosseum, the Holy Father, Leo XIV, will preside over the pious exercise of the "Via Crucis," at the conclusion of which he will impart the Apostolic Blessing.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/way-of-the-cross-from-rome-WO1.jpg" />
+  </programme>
+  <programme start="20260404133000 +0000" stop="20260404140000 +0000" channel="tv-eu.ewtn">
+    <title>Rosary for Life</title>
+    <desc>Rosary service in Irondale Chapel.</desc>
+  </programme>
+  <programme start="20260404140000 +0000" stop="20260404150000 +0000" channel="tv-eu.ewtn">
+    <title>The Shroud of Turin</title>
+    <desc>In this cinematic feature documentary, uncover the origin of and investigate the potential miracle behind the most studied artifact in human history, The Shroud of Turin.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-shroud-of-turin-381-392446.jpg" />
+  </programme>
+  <programme start="20260404150000 +0000" stop="20260404152000 +0000" channel="tv-eu.ewtn">
+    <title>Chaplet of Divine Mercy</title>
+    <desc>From the chapel of the National Shrine of the Divine Mercy in Stockbridge, Massachusetts.</desc>
+  </programme>
+  <programme start="20260404152000 +0000" stop="20260404153000 +0000" channel="tv-eu.ewtn">
+    <title>Rome's Hidden Churches: a Lenten Pilgrimage</title>
+    <sub-title>Saint Mary Major</sub-title>
+    <desc>In the Eastern Church, there's a tradition that the first person Christ appeared to after His resurrection was His Mother.  On Easter Sunday, Dr. O'Donnell visits St. Mary Major, the great basilica built in Her honor</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/basilica-de-santa-maria-la-mayor-RHC09929.jpg" />
+  </programme>
+  <programme start="20260404153000 +0000" stop="20260404160000 +0000" channel="tv-eu.ewtn">
+    <title>The Human Face of God in the Holy Veil of Manoppello</title>
+    <desc>Host Paul Badde goes on-location in Italy to explore the Veil of Manoppello and its relation to other images of the Holy Face of Christ.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/the-human-face-of-god-in-the-holy-veil-of-manoppello-381-354016.jpg" />
+  </programme>
+  <programme start="20260404160000 +0000" stop="20260404170000 +0000" channel="tv-eu.ewtn">
+    <title>Torchlight Stations of the Cross</title>
+  </programme>
+  <programme start="20260404170000 +0000" stop="20260404173000 +0000" channel="tv-eu.ewtn">
+    <title>At Home With Jim and Joy</title>
+    <sub-title>Fr. Dan Reehil, Pt. 2</sub-title>
+    <desc>Jim and Joy welcome back Fr. Dan Reehil to continue their conversation on why our current time in history is the right time to return to God, and how this affects families.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/at-home-with-jim-and-joy-HJJ.jpg" />
+  </programme>
+  <programme start="20260404173000 +0000" stop="20260404180000 +0000" channel="tv-eu.ewtn">
+    <title>Unlocking the Secrets of the Shroud</title>
+    <desc>An extensive historical, cultural, and medical study of the fascinating mysteries of the Shroud of Turin.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/unlocking-the-secrets-of-the-shroud-381-11333.jpg" />
+  </programme>
+  <programme start="20260404180000 +0000" stop="20260404190000 +0000" channel="tv-eu.ewtn">
+    <title>Shroud, the - the Story of a Mystery</title>
+    <desc>A documentary on the Shroud of Turin, featuring scholars and experts to discuss its research project and the significant challenges it presents to 21st-century scientists.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/shroud-the-the-story-of-a-mystery-381-392567.jpg" />
+  </programme>
+  <programme start="20260404190000 +0000" stop="20260404213000 +0000" channel="tv-eu.ewtn">
+    <title>Easter Vigil Mass From Rome</title>
+    <desc>His Holiness, Pope Francis, presides over the Easter Vigil Mass, live from Vatican City.</desc>
+  </programme>
+  <programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="tv-eu.ewtn">
+    <title>EWTN Bookmark</title>
+    <sub-title>Remain in Me and I in You</sub-title>
+    <desc>Doug welcomes Fr. Wayne Sattler to discuss how we can transform our hearts from thinking of God as an idea, to knowing, loving, and serving the tangible person of Jesus Christ.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/ewtn-bookmark-BOO.jpg" />
+  </programme>
+  <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="tv-eu.ewtn">
+    <title>Hill Number One</title>
+    <desc>The Korean war, and the battles that ensue, are correlated to Christ's crucifixion on Golgotha; a dramatic re-mix of biblical and historical elements. Featuring James Dean.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/hill-number-one-381-70035.jpg" />
+  </programme>
+  <programme start="20260404230000 +0000" stop="20260404233000 +0000" channel="tv-eu.ewtn">
+    <title>Icons: Windows Onto Heaven</title>
+    <sub-title>Glory of His Resurrection Pt. 1</sub-title>
+    <desc>A feature on the Icon of the Raising of Lazarus. It was our Lord’s last great Miracle before entering Jerusalem on Palm Sunday and  a preview of His resurrection. Christ is the central character in the Icon, not Lazarus.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/glory-of-his-resurrection-pt-1-IWO09811.jpg" />
+  </programme>
+  <programme start="20260404233000 +0000" stop="20260405000000 +0000" channel="tv-eu.ewtn">
+    <title>Icons: Windows Onto Heaven</title>
+    <sub-title>Glory of His Resurrection Pt. 2</sub-title>
+    <desc>Fr. Jacob Restrick shares the Marion icons that explain Mary’s privileged role in  salvation history and in the glory that is hers at the Annunciation.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/glory-of-his-resurrection-pt-2-IWO09812.jpg" />
+  </programme>
   <channel id="tv-eeuu.ewtn">
     <display-name>EWTN Estados Unidos</display-name>
   </channel>
-  <programme start="20260328000000 +0000" stop="20260328003000 +0000" channel="tv-eeuu.ewtn">
-    <title>Informe provida</title>
-    <sub-title>¿Por qué soy provida?</sub-title>
-    <desc>Hacemos una pregunta fundamental en este campo de la lucha social ¿por qué soy provida? Vamos a la raíz de nuestra motivación para sostener una posición que muchas veces no es popular.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/informe-provida-IPV.jpg" />
-  </programme>
-  <programme start="20260328003000 +0000" stop="20260328010000 +0000" channel="tv-eeuu.ewtn">
-    <title>De dos en dos</title>
-    <sub-title>Reglas 9 y 10 de los ejercicios espirituales</sub-title>
-    <desc>¿Por qué enfrentas una crisis espiritual y cómo prepararte para ella?</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/de-dos-en-dos-DO3.jpg" />
-  </programme>
-  <programme start="20260328010000 +0000" stop="20260328013000 +0000" channel="tv-eeuu.ewtn">
-    <title>Norte</title>
-    <desc>Película sobre la crisis vocacional que sufre un sacerdote tras casi tres décadas de servicio a su ministerio. Una noche oscura donde brillará la luz de la esperanza.</desc>
-  </programme>
-  <programme start="20260328013000 +0000" stop="20260328020000 +0000" channel="tv-eeuu.ewtn">
-    <title>Mujeres en la Biblia</title>
-    <sub-title>Judith</sub-title>
-    <desc>Mujer fuerte y valiente que, gracias a sus distintas cualidades, recursos y dones, siempre sirvió a dios y a su pueblo.</desc>
-  </programme>
-  <programme start="20260328020000 +0000" stop="20260328030000 +0000" channel="tv-eeuu.ewtn">
-    <title>Lo mejor de la Madre Angélica</title>
-    <sub-title>Fr. Andrew apostoli</sub-title>
-    <desc>Mother Angelica welcomes Franciscan Friar of the Renewal Fr. Andrew Apostoli to the show; Father shares his extensive knowledge of the great Italian Stigmatist, Padre Pio.</desc>
-  </programme>
-  <programme start="20260328030000 +0000" stop="20260328033000 +0000" channel="tv-eeuu.ewtn">
-    <title>EWTN noticias</title>
-    <sub-title>EWTN Noticias | Viernes 27 de marzo 2026 | Programa completo</sub-title>
-    <desc>Hoy. Tras la muerte por eutanasia de la joven española Noelia, la Conferencia episcopal subraya que el suicidio asistido es una derrota social frenta  al sufrimiento humano. Además: Con una Misa en la Basílica de San Pedro, EWTN conmemora el décimo aniversario de la muerte de su fundadora, la Madre Angélica. Más en EWTN Noticias.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/ewtn-noticias-ENO.jpg" />
-  </programme>
-  <programme start="20260328033000 +0000" stop="20260328040000 +0000" channel="tv-eeuu.ewtn">
-    <title>Ni AM, ni FM, ni mp3</title>
-    <sub-title>El papel de los abuelos</sub-title>
-    <desc>Miguel Ángel González cuenta su experiencia como padre en la educación de los hijos, y también como abuelo.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/ni-am-ni-fm-ni-mp3-NNF.jpg" />
-  </programme>
-  <programme start="20260328040000 +0000" stop="20260328053000 +0000" channel="tv-eeuu.ewtn">
-    <title>Sabeth: beata Isabel de la trinidad</title>
-    <desc>Este documental presenta la vida, espiritualidad y escritos de Santa Elizabet de la Trinidad.</desc>
-  </programme>
-  <programme start="20260328053000 +0000" stop="20260328060000 +0000" channel="tv-eeuu.ewtn">
-    <title>Si lo hubiera sabido</title>
-    <desc>El Padre Stephen Lesniewski, un sacerdote de Chicago se inspiró en los conmovedores testimonios de mujeres para producir este programa que muestra las dolorosas consecuencias del aborto.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/si-lo-hubiera-sabido-381-348537.jpg" />
-  </programme>
-  <programme start="20260328060000 +0000" stop="20260328063000 +0000" channel="tv-eeuu.ewtn">
-    <title>Clásicos Católicos: Madre Angélica presenta</title>
-    <sub-title>Pay up</sub-title>
-    <desc>God doesn't ask us to forget, but to forgive.  True compassion and mercy are not easy, but they are necessary to love as Jesus loves.</desc>
-  </programme>
-  <programme start="20260328063000 +0000" stop="20260328070000 +0000" channel="tv-eeuu.ewtn">
-    <title>Clásicos católicos: viviendo las Escrituras</title>
-    <sub-title>Luke 13:31</sub-title>
-    <desc>Mother reflects on Luke 13:31, when Jesus constantly offers grace but we don't always accept it.</desc>
-  </programme>
-  <programme start="20260328070000 +0000" stop="20260328080000 +0000" channel="tv-eeuu.ewtn">
-    <title>Iglesia en camino Panama</title>
-    <desc>Documental que presenta las actividades de sacerdotes, religiosos y laicos católicos en Panamá, y muestra celebraciones y festividades particulares de dicho país.</desc>
-  </programme>
-  <programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="tv-eeuu.ewtn">
-    <title>Explora con el cazador de Milagros</title>
-    <sub-title>Paray-le-monial</sub-title>
-    <desc>Serie original de EWTN en la que Michael O’Neill, el “Cazador del Milagros”, viaja por el mundo para darnos a conocer eventos extraordinarios ocurridos a lo largo de la historia.</desc>
-  </programme>
-  <programme start="20260328083000 +0000" stop="20260328093000 +0000" channel="tv-eeuu.ewtn">
-    <title>Viaje apostólico del Santo Padre al Principado de Mónaco</title>
-    <sub-title>Ceremonia de bienvenida</sub-title>
-    <desc>En vivo desde el Palacio del Príncipe de Mónaco.</desc>
-  </programme>
-  <programme start="20260328093000 +0000" stop="20260328100000 +0000" channel="tv-eeuu.ewtn">
-    <title>Cocina franciscana</title>
-    <sub-title>Aceitunas aliñadas del corral</sub-title>
-    <desc>En esta receta preparamos unas aceitunas aliñadas al estilo del Corral. El nombre de Corral proviene de la Villa manchega de Corral de Calatrava (Ciudad Real - España). Esta Villa vio nacer a Fray Ángel Ramón.</desc>
-  </programme>
-  <programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="tv-eeuu.ewtn">
-    <title>Viaje apostólico del Santo Padre al Principado de Mónaco</title>
-    <sub-title>Encuentro con la comunidad católica</sub-title>
-    <desc>En vivo desde la Catedral de la Inmaculada Concepción.</desc>
-  </programme>
-  <programme start="20260328103000 +0000" stop="20260328104500 +0000" channel="tv-eeuu.ewtn">
-    <title>Sacerdote, regalo de Dios para el mundo</title>
-    <desc>A punto de consumarse su vida, en el año 2017, el sacerdote protagonista de este cortometraje, rememora todo su ministerio. Era la audacia de Dios, al llamarlo para ser cura. Desde aquel momento todo su ser ha sido un regalo de Dios para el mundo.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/sacerdote-regalo-de-dios-para-el-mundo-381-304483.jpg" />
-  </programme>
-  <programme start="20260328104500 +0000" stop="20260328114500 +0000" channel="tv-eeuu.ewtn">
-    <title>Viaje apostólico del Santo Padre al Principado de Mónaco</title>
-    <sub-title>Encuentro con jóvenes y catecúmenos</sub-title>
-    <desc>En vivo frente a la Iglesia de Santa Devota.</desc>
-  </programme>
-  <programme start="20260328114500 +0000" stop="20260328120000 +0000" channel="tv-eeuu.ewtn">
-    <title>Las letanías</title>
-    <sub-title>Letanía a la bendita Virgen María</sub-title>
-  </programme>
-  <programme start="20260328120000 +0000" stop="20260328130000 +0000" channel="tv-eeuu.ewtn">
-    <title>Misa diaria</title>
-    <desc>El Santo Sacrificio de la Misa desde la Capilla de EWTN, con los cantos gregorianos de los Hermanos franciscanos, y la visita de prelados de diversas diócesis que concelebran el Memorial de la Pasión, Muerte y Resurrección de Cristo.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328130000 +0000" stop="20260328133000 +0000" channel="tv-eeuu.ewtn">
-    <title>Santo Rosario por la paz mundial</title>
-    <desc>Un rezo del Santo Rosario en respuesta a la invitación del Cardenal Pizzaballa, Patriarca Latino de Jerusalén, para que todos reciten el Rosario «para pedir paz y serenidad, especialmente para aquellos que sufren a causa del conflicto», desde la Capilla de Nuestra Señora de los Ángeles en Irondale, Alabama.</desc>
-  </programme>
-  <programme start="20260328133000 +0000" stop="20260328140000 +0000" channel="tv-eeuu.ewtn">
-    <title>El Rosario de los niños</title>
-    <sub-title>Misterios gozosos</sub-title>
-    <desc>Misterios Gozosos: Meditación con dramatizaciones de los misterios Gozosos sobre los momentos mas importantes de la anunciación, nacimiento y niñez del Salvador</desc>
-  </programme>
-  <programme start="20260328140000 +0000" stop="20260328143000 +0000" channel="tv-eeuu.ewtn">
-    <title>Mis angelitos</title>
-    <sub-title>El Bautismo</sub-title>
-    <desc>En el pueblo de San Pablo, el padre Francisco, la madre superiora y las hermanas del convento, tienen la gran tarea de evangelizar a los pequeños. Los niños aprenden el significado del sacramento del bautismo en la vida del cristiano.</desc>
-  </programme>
-  <programme start="20260328143000 +0000" stop="20260328163000 +0000" channel="tv-eeuu.ewtn">
-    <title>Viaje apostólico del Santo Padre al Principado de Mónaco</title>
-    <sub-title>Santa Misa</sub-title>
-    <desc>En vivo desde el Estadio Luis II.</desc>
-  </programme>
-  <programme start="20260328163000 +0000" stop="20260328173000 +0000" channel="tv-eeuu.ewtn">
-    <title>Iglesia en camino Panama</title>
-    <desc>Documental que presenta las actividades de sacerdotes, religiosos y laicos católicos en Panamá, y muestra celebraciones y festividades particulares de dicho país.</desc>
-  </programme>
-  <programme start="20260328173000 +0000" stop="20260328180000 +0000" channel="tv-eeuu.ewtn">
-    <title>Clásicos católicos: viviendo las Escrituras</title>
-    <sub-title>Luke 13:31</sub-title>
-    <desc>Mother reflects on Luke 13:31, when Jesus constantly offers grace but we don't always accept it.</desc>
-  </programme>
-  <programme start="20260328180000 +0000" stop="20260328183000 +0000" channel="tv-eeuu.ewtn">
-    <title>Cocina franciscana</title>
-    <sub-title>Aceitunas aliñadas del corral</sub-title>
-    <desc>En esta receta preparamos unas aceitunas aliñadas al estilo del Corral. El nombre de Corral proviene de la Villa manchega de Corral de Calatrava (Ciudad Real - España). Esta Villa vio nacer a Fray Ángel Ramón.</desc>
-  </programme>
-  <programme start="20260328183000 +0000" stop="20260328190000 +0000" channel="tv-eeuu.ewtn">
-    <title>Razón y fe</title>
-    <sub-title>Límites de la ciencia</sub-title>
-    <desc>Para que una conclusión sea válida, según el método científico, dicha conclusión tiene que ser matematizable, controlable, repetible y verificable.  Sin embargo, no todo puede ser parametrado según éstas.</desc>
-  </programme>
-  <programme start="20260328190000 +0000" stop="20260328192000 +0000" channel="tv-eeuu.ewtn">
-    <title>Coronilla de la Divina Misericordia</title>
-  </programme>
-  <programme start="20260328192000 +0000" stop="20260328193000 +0000" channel="tv-eeuu.ewtn">
-    <title>Adoración eucarística, en vivo, desde la capilla de EWTN</title>
-    <desc>En vivo.</desc>
-  </programme>
-  <programme start="20260328193000 +0000" stop="20260328200000 +0000" channel="tv-eeuu.ewtn">
-    <title>Rosario desde Lourdes</title>
-    <desc>Unámonos a la oración del Santo Rosario desde el Santuario de Nuestra Señora de Lourdes, en Francia.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/rosario-desde-lourdes-RNS.jpg" />
-  </programme>
-  <programme start="20260328200000 +0000" stop="20260328210000 +0000" channel="tv-eeuu.ewtn">
-    <title>Misa diaria</title>
-    <desc>El Santo Sacrificio de la Misa desde la Capilla de EWTN, con los cantos gregorianos de los Hermanos franciscanos, y la visita de prelados de diversas diócesis que concelebran el Memorial de la Pasión, Muerte y Resurrección de Cristo.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328210000 +0000" stop="20260328220000 +0000" channel="tv-eeuu.ewtn">
-    <title>Iglesia en camino Panama</title>
-    <desc>Documental que presenta las actividades de sacerdotes, religiosos y laicos católicos en Panamá, y muestra celebraciones y festividades particulares de dicho país.</desc>
-  </programme>
-  <programme start="20260328220000 +0000" stop="20260328223000 +0000" channel="tv-eeuu.ewtn">
-    <title>Razón y fe</title>
-    <sub-title>Fronteras éticas del método científico</sub-title>
-    <desc>¿Cuál es la capacidad de discernimiento ético del Método Científico?</desc>
-  </programme>
-  <programme start="20260328223000 +0000" stop="20260328230000 +0000" channel="tv-eeuu.ewtn">
-    <title>Cocina franciscana</title>
-    <sub-title>Aceitunas aliñadas del corral</sub-title>
-    <desc>En esta receta preparamos unas aceitunas aliñadas al estilo del Corral. El nombre de Corral proviene de la Villa manchega de Corral de Calatrava (Ciudad Real - España). Esta Villa vio nacer a Fray Ángel Ramón.</desc>
-  </programme>
-  <programme start="20260328230000 +0000" stop="20260328233000 +0000" channel="tv-eeuu.ewtn">
-    <title>Vaticano</title>
-    <sub-title>Preparándonos para la semana santa</sub-title>
-    <desc>Prepárese para celebrar la Pascua: desde Tierra Santa hasta el nuevo Vía Crucis de la Basílica de San Pedro</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/vaticano-SVA.jpg" />
-  </programme>
-  <programme start="20260328233000 +0000" stop="20260329000000 +0000" channel="tv-eeuu.ewtn">
-    <title>Explora con el cazador de Milagros</title>
-    <sub-title>Paray-le-monial</sub-title>
-    <desc>Serie original de EWTN en la que Michael O’Neill, el “Cazador del Milagros”, viaja por el mundo para darnos a conocer eventos extraordinarios ocurridos a lo largo de la historia.</desc>
-  </programme>
   <programme start="20260329000000 +0000" stop="20260329013000 +0000" channel="tv-eeuu.ewtn">
     <title>Sabeth: beata Isabel de la trinidad</title>
     <desc>Este documental presenta la vida, espiritualidad y escritos de Santa Elizabet de la Trinidad.</desc>
@@ -7549,174 +7182,151 @@ When he married his wife, he started going to church regularly with her, but whe
     <desc>La Eucaristía es la Pascua Eterna de nuestro Señor Jesucristo, su muestra de amor más perfecta.</desc>
     <icon src="https://www.ewtn.com/img/tv/highlights/the-eucharist-as-expiatory-sacrifice-part-2-LPE18005.jpg" />
   </programme>
-  <channel id="tv-latam.ewtn">
-    <display-name>EWTN Latinoamérica</display-name>
-  </channel>
-  <programme start="20260328000000 +0000" stop="20260328003000 +0000" channel="tv-latam.ewtn">
-    <title>Informe provida</title>
-    <sub-title>¿Por qué soy provida?</sub-title>
-    <desc>Hacemos una pregunta fundamental en este campo de la lucha social ¿por qué soy provida? Vamos a la raíz de nuestra motivación para sostener una posición que muchas veces no es popular.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/informe-provida-IPV.jpg" />
+  <programme start="20260404000000 +0000" stop="20260404003000 +0000" channel="tv-eeuu.ewtn">
+    <title>Meditaciones coral de la Eucaristía</title>
+    <sub-title>Meditaciones corales de la Eucaristía</sub-title>
+    <desc>Hermosas meditaciones corales desde la Basílica de la Inmaculada Concepción.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/choral-meditations-on-the-eucharist-MDE.jpg" />
   </programme>
-  <programme start="20260328003000 +0000" stop="20260328010000 +0000" channel="tv-latam.ewtn">
-    <title>De dos en dos</title>
-    <sub-title>Reglas 9 y 10 de los ejercicios espirituales</sub-title>
-    <desc>¿Por qué enfrentas una crisis espiritual y cómo prepararte para ella?</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/de-dos-en-dos-DO3.jpg" />
+  <programme start="20260404003000 +0000" stop="20260404023000 +0000" channel="tv-eeuu.ewtn">
+    <title>Liturgia de la Pasión del Señor</title>
+    <sub-title>Liturgy of the Lord's passion</sub-title>
+    <desc>La Liturgia de la Pasión del Señor, desde la Basílica de la Inmaculada Concepción.</desc>
   </programme>
-  <programme start="20260328010000 +0000" stop="20260328013000 +0000" channel="tv-latam.ewtn">
-    <title>Norte</title>
-    <desc>Película sobre la crisis vocacional que sufre un sacerdote tras casi tres décadas de servicio a su ministerio. Una noche oscura donde brillará la luz de la esperanza.</desc>
+  <programme start="20260404023000 +0000" stop="20260404033000 +0000" channel="tv-eeuu.ewtn">
+    <title>Meditaciones de semana santa</title>
+    <sub-title>Viernes</sub-title>
+    <icon src="https://www.ewtn.com/img/tv/highlights/meditaciones-de-semana-santa-MD1.jpg" />
   </programme>
-  <programme start="20260328013000 +0000" stop="20260328020000 +0000" channel="tv-latam.ewtn">
-    <title>Cristonautas</title>
-    <sub-title>Escritos de S. Pablo: Introducción y contexto</sub-title>
-    <desc>Introducción a las numerosas cartas que escribió San Pablo para fortalecer y guiar a las incipientes comunidades cristianas y la Iglesia universal de todos los tiempos.</desc>
+  <programme start="20260404033000 +0000" stop="20260404043000 +0000" channel="tv-eeuu.ewtn">
+    <title>Semana Santa en Huánuco Peru</title>
+    <desc>La Semana Santa en Huánuco nos transporta hasta los Andes para apreciar cómo celebra su fe católica este sencillo pueblo latinoamericano, que recibió la fe hace ya quinientos años, y que la mantiene viva en sus tradiciones religiosas.</desc>
   </programme>
-  <programme start="20260328020000 +0000" stop="20260328030000 +0000" channel="tv-latam.ewtn">
-    <title>Lo mejor de la Madre Angélica</title>
-    <sub-title>Fr. Andrew apostoli</sub-title>
-    <desc>Mother Angelica welcomes Franciscan Friar of the Renewal Fr. Andrew Apostoli to the show; Father shares his extensive knowledge of the great Italian Stigmatist, Padre Pio.</desc>
+  <programme start="20260404043000 +0000" stop="20260404063000 +0000" channel="tv-eeuu.ewtn">
+    <title>Vigilia Pascual desde el santo sepulcro</title>
+    <desc>En vivo desde el Santo Sepulcro en Jerusalén.  (Este evento se realiza el Sábado Santo por la mañana, como se acostumbra en Jerusalén)</desc>
   </programme>
-  <programme start="20260328030000 +0000" stop="20260328033000 +0000" channel="tv-latam.ewtn">
-    <title>EWTN noticias</title>
-    <sub-title>EWTN Noticias | Viernes 27 de marzo 2026 | Programa completo</sub-title>
-    <desc>Hoy. Tras la muerte por eutanasia de la joven española Noelia, la Conferencia episcopal subraya que el suicidio asistido es una derrota social frenta  al sufrimiento humano. Además: Con una Misa en la Basílica de San Pedro, EWTN conmemora el décimo aniversario de la muerte de su fundadora, la Madre Angélica. Más en EWTN Noticias.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/ewtn-noticias-ENO.jpg" />
+  <programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="tv-eeuu.ewtn">
+    <title>Clásicos católicos: viviendo las Escrituras</title>
+    <sub-title>Mark 5</sub-title>
+    <desc>Mark 5-Jesus calms the seas.  We should know that we are safe when Jesus is with us.</desc>
   </programme>
-  <programme start="20260328033000 +0000" stop="20260328040000 +0000" channel="tv-latam.ewtn">
-    <title>Kerigma de amor  (novena temporada)</title>
-    <sub-title>Ser testigos de Cristo</sub-title>
-    <desc>El Señor no solo nos llama para que le abramos la puerta de nuestras vidas; nos invita además a ser sus testigos, a ensañar su y palabra, y a dar testimonio de su amor en nuestras vidas. “Recibirán la fuerza del Espíritu Santo, que vendrá sobre ustedes, y serán mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra”, Hechos 1, 8</desc>
+  <programme start="20260404070000 +0000" stop="20260404080000 +0000" channel="tv-eeuu.ewtn">
+    <title>La pasión, análisis médico</title>
+    <desc>La Pasión de Jesús nos conmueve por el nivel de sufrimiento que experimenta el Señor, al tiempo que manifiesta su gran amor por cada uno de nosotros, haciendo del dolor un instrumento de Salvación.   ¿Cómo fue el dolor físico que experimentó el Señor durante su Pasión? ¿Cómo fue el dolor en el Corazón que experimento Jesús durante su Pasión?   Los doctores Estuardo Carrera y Arturo Carranza nos ofrecen un análisis médico detallado los sufrimientos que experimentó Jesús en su cuerpo durante su Pasión hasta su muerte en la Cruz.</desc>
   </programme>
-  <programme start="20260328040000 +0000" stop="20260328043000 +0000" channel="tv-latam.ewtn">
-    <title>La "reforma"</title>
-    <sub-title>Desde el levantamiento de occidente hasta Isabel I</sub-title>
-    <desc>Eduardo VI, hijo de Enrique VIII, bajo la influencia de Thomas Cranmer, impuso reformas radicales en la Iglesia: retiró la misa en latín, las prácticas religiosas y la mayoría de los sacramentos; y la gente del occidente se rebeló. Eduardo muere joven y María reinstituye el catolicismo; pero muere antes de poder establecer una sucesión católica. Isabel I sube al trono y reestablece la Iglesia protestante en Inglaterra.</desc>
+  <programme start="20260404080000 +0000" stop="20260404090000 +0000" channel="tv-eeuu.ewtn">
+    <title>San Juan María Vianney - Confesor de almas</title>
+    <desc>Filmado en Ars, este docudrama original de EWTN presenta la vida, ministerio sacerdotal y espiritual de San Juan María Vianney, también conocido como el Cura de Ars combinando entrevistas de expertos con dramatizaciones.</desc>
   </programme>
-  <programme start="20260328043000 +0000" stop="20260328050000 +0000" channel="tv-latam.ewtn">
+  <programme start="20260404090000 +0000" stop="20260404100000 +0000" channel="tv-eeuu.ewtn">
+    <title>Amor, agonía y esperanza</title>
+    <desc>El programa es un viaje en las vidas de Jesús y María durante el Jueves Santo y Viernes Santo.  Es un concierto narrado sobre la Pasíon de Jesús, la Ultima Cena y la importancia del Santísimo Sacramento.</desc>
+  </programme>
+  <programme start="20260404100000 +0000" stop="20260404103000 +0000" channel="tv-eeuu.ewtn">
+    <title>Clásicos Católicos: Madre Angélica presenta</title>
+    <sub-title>Holiness is being human</sub-title>
+    <desc>Mother describes how each of us is called to be holy but remain human.  She delves into the Old Testament for Elias running in fear of  Jezebel and brings in St. Paul and his preaching.</desc>
+  </programme>
+  <programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="tv-eeuu.ewtn">
+    <title>Clásicos católicos: viviendo las Escrituras</title>
+    <sub-title>Mark 5</sub-title>
+    <desc>Mark 5-Jesus calms the seas.  We should know that we are safe when Jesus is with us.</desc>
+  </programme>
+  <programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="tv-eeuu.ewtn">
     <title>Santo Rosario</title>
     <sub-title>Misterios gozosos</sub-title>
     <desc>En los Misterios Gozosos meditamos sobre la vida de Jesús desde la Anunciación-Encarnación hasta la alegría del Encuentro del niño Jesús que se había perdido en el Templo.</desc>
   </programme>
-  <programme start="20260328050000 +0000" stop="20260328063000 +0000" channel="tv-latam.ewtn">
-    <title>Sabeth: beata Isabel de la trinidad</title>
-    <desc>Este documental presenta la vida, espiritualidad y escritos de Santa Elizabet de la Trinidad.</desc>
+  <programme start="20260404113000 +0000" stop="20260404115000 +0000" channel="tv-eeuu.ewtn">
+    <title>Coronilla de la Misericordia Divina - Latinoamérica</title>
+    <desc>El Padre Luís Eduardo Rodríguez Rodríguez, nos lleva por un viaje alrededor de toda Latinoamérica, rezando la Divina Misericordia.</desc>
   </programme>
-  <programme start="20260328063000 +0000" stop="20260328070000 +0000" channel="tv-latam.ewtn">
-    <title>Si lo hubiera sabido</title>
-    <desc>El Padre Stephen Lesniewski, un sacerdote de Chicago se inspiró en los conmovedores testimonios de mujeres para producir este programa que muestra las dolorosas consecuencias del aborto.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/si-lo-hubiera-sabido-381-348537.jpg" />
+  <programme start="20260404115000 +0000" stop="20260404120000 +0000" channel="tv-eeuu.ewtn">
+    <title>Las iglesias ocultas de Roma:  peregrinacion de cuaresma</title>
+    <sub-title>Basílica de Juan Letran</sub-title>
+    <desc>La última parada en el peregrinaje cuaresmal del Dr. O'Donnell's es en San Juan de Letrán, el Sábado Santo. Este es el día en el que recordamos el cuerpo sin vida de Jesús a la espera del gran momento de la Resurrección.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/basilica-de-san-juan-letran-RHC09928.jpg" />
   </programme>
-  <programme start="20260328070000 +0000" stop="20260328073000 +0000" channel="tv-latam.ewtn">
-    <title>Razón y fe</title>
-    <sub-title>La religión vista por la razón</sub-title>
-    <desc>Revisión de diversos intentos por comprender el hecho religioso, desde un punto de vista científico.</desc>
+  <programme start="20260404120000 +0000" stop="20260404130000 +0000" channel="tv-eeuu.ewtn">
+    <title>La sábana santa - la historia de un misterio</title>
+    <desc>Este documental sobre la Sábana Santa muestra varios expertos de diversas áreas que dan sus opiniones acerca del Proyecto de Investigación de la Sábana de Turín; así como los retos a los que se han visto expuestos.</desc>
   </programme>
-  <programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="tv-latam.ewtn">
-    <title>La familia: familia, escuela de virtudes cristianas</title>
-    <sub-title>Carta a los colosenses</sub-title>
-    <desc>Aplicación práctica de los métodos de educación familiar en torno a pasajes de los Evangelios.</desc>
+  <programme start="20260404130000 +0000" stop="20260404131500 +0000" channel="tv-eeuu.ewtn">
+    <title>Lukas storyteller</title>
+    <sub-title>San Joaquín y santa Ana el amor incondicional de los abuelos</sub-title>
+    <desc>Todos los chicos del arrecife preparan con emoción el día de los abuelos, al ver esto, Paul se entristece pues él no los conoció. Noah decide platicar la historia de Ana y Joaquín, los abuelos de Jesús y ayudarles a saber más sobre los suyos y cómo ellos nos llenan de amor, de ejemplo y nos acercan más a Jesús.</desc>
   </programme>
-  <programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="tv-latam.ewtn">
-    <title>Clásicos Católicos: Madre Angélica presenta</title>
-    <sub-title>Believing without seeing</sub-title>
-    <desc>Mother Angelica has a saying when people are afraid to listen to God. She calls it the "Old Testament trust." In other words, something that people are reluctant to give up or some form of discomfort.</desc>
+  <programme start="20260404131500 +0000" stop="20260404133000 +0000" channel="tv-eeuu.ewtn">
+    <title>Lukas storyteller</title>
+    <sub-title>San Maximiliano Kolbe y la gratitud</sub-title>
+    <desc>Nuestros amigos viajan con emoción a un campamento que Lukas preparó. Al llegar al lugar empiezan a extrañar las comodidades de su casa y es cuando se dan cuenta, siguiendo el ejemplo de San Maximiliano Kolbe, que debemos ser agradecidos siempre por lo que tenemos.</desc>
   </programme>
-  <programme start="20260328083000 +0000" stop="20260328093000 +0000" channel="tv-latam.ewtn">
-    <title>Viaje apostólico del Santo Padre al Principado de Mónaco</title>
-    <sub-title>Ceremonia de bienvenida</sub-title>
-    <desc>En vivo desde el Palacio del Príncipe de Mónaco.</desc>
-  </programme>
-  <programme start="20260328093000 +0000" stop="20260328100000 +0000" channel="tv-latam.ewtn">
-    <title>Cocina franciscana</title>
-    <sub-title>Habas en cazuela con huevo escalfado</sub-title>
-    <desc>Un plato en sus orígenes con carne, pero también se puede plantear para vegetarianos. Aprovechamos este vídeo para hablar de San Pascual Bailón, fraile franciscano.</desc>
-  </programme>
-  <programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="tv-latam.ewtn">
-    <title>Viaje apostólico del Santo Padre al Principado de Mónaco</title>
-    <sub-title>Encuentro con la comunidad católica</sub-title>
-    <desc>En vivo desde la Catedral de la Inmaculada Concepción.</desc>
-  </programme>
-  <programme start="20260328103000 +0000" stop="20260328104500 +0000" channel="tv-latam.ewtn">
-    <title>Sacerdote, regalo de Dios para el mundo</title>
-    <desc>A punto de consumarse su vida, en el año 2017, el sacerdote protagonista de este cortometraje, rememora todo su ministerio. Era la audacia de Dios, al llamarlo para ser cura. Desde aquel momento todo su ser ha sido un regalo de Dios para el mundo.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/sacerdote-regalo-de-dios-para-el-mundo-381-304483.jpg" />
-  </programme>
-  <programme start="20260328104500 +0000" stop="20260328114500 +0000" channel="tv-latam.ewtn">
-    <title>Viaje apostólico del Santo Padre al Principado de Mónaco</title>
-    <sub-title>Encuentro con jóvenes y catecúmenos</sub-title>
-    <desc>En vivo frente a la Iglesia de Santa Devota.</desc>
-  </programme>
-  <programme start="20260328114500 +0000" stop="20260328120000 +0000" channel="tv-latam.ewtn">
-    <title>Las letanías</title>
-    <sub-title>Letanía a la bendita Virgen María</sub-title>
-  </programme>
-  <programme start="20260328120000 +0000" stop="20260328130000 +0000" channel="tv-latam.ewtn">
-    <title>Misa diaria</title>
-    <desc>El Santo Sacrificio de la Misa desde la Capilla de EWTN, con los cantos gregorianos de los Hermanos franciscanos, y la visita de prelados de diversas diócesis que concelebran el Memorial de la Pasión, Muerte y Resurrección de Cristo.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328130000 +0000" stop="20260328133000 +0000" channel="tv-latam.ewtn">
-    <title>Santo Rosario por la paz mundial</title>
-    <desc>Un rezo del Santo Rosario en respuesta a la invitación del Cardenal Pizzaballa, Patriarca Latino de Jerusalén, para que todos reciten el Rosario «para pedir paz y serenidad, especialmente para aquellos que sufren a causa del conflicto», desde la Capilla de Nuestra Señora de los Ángeles en Irondale, Alabama.</desc>
-  </programme>
-  <programme start="20260328133000 +0000" stop="20260328140000 +0000" channel="tv-latam.ewtn">
-    <title>El Rosario de los niños</title>
+  <programme start="20260404133000 +0000" stop="20260404140000 +0000" channel="tv-eeuu.ewtn">
+    <title>Rosario de niños</title>
     <sub-title>Misterios gozosos</sub-title>
-    <desc>Misterios Gozosos: Meditación con dramatizaciones de los misterios Gozosos sobre los momentos mas importantes de la anunciación, nacimiento y niñez del Salvador</desc>
   </programme>
-  <programme start="20260328140000 +0000" stop="20260328143000 +0000" channel="tv-latam.ewtn">
+  <programme start="20260404140000 +0000" stop="20260404143000 +0000" channel="tv-eeuu.ewtn">
     <title>Mis angelitos</title>
-    <sub-title>El Bautismo</sub-title>
-    <desc>En el pueblo de San Pablo, el padre Francisco, la madre superiora y las hermanas del convento, tienen la gran tarea de evangelizar a los pequeños. Los niños aprenden el significado del sacramento del bautismo en la vida del cristiano.</desc>
+    <sub-title>La Ley de Dios</sub-title>
+    <desc>En el pueblo de San Pablo, el padre Francisco, la madre superiora y las hermanas del convento, tienen la gran tarea de evangelizar a los pequeños. Los niños aprenden sobre lo que Dios le comunicó a Moises en las tablas de la ley y porque debemos obedecer.</desc>
   </programme>
-  <programme start="20260328143000 +0000" stop="20260328163000 +0000" channel="tv-latam.ewtn">
-    <title>Viaje apostólico del Santo Padre al Principado de Mónaco</title>
-    <sub-title>Santa Misa</sub-title>
-    <desc>En vivo desde el Estadio Luis II.</desc>
+  <programme start="20260404143000 +0000" stop="20260404150000 +0000" channel="tv-eeuu.ewtn">
+    <title>Coronilla de los siete dolores de la virgen Maria</title>
   </programme>
-  <programme start="20260328163000 +0000" stop="20260328173000 +0000" channel="tv-latam.ewtn">
-    <title>Iglesia en camino Panama</title>
-    <desc>Documental que presenta las actividades de sacerdotes, religiosos y laicos católicos en Panamá, y muestra celebraciones y festividades particulares de dicho país.</desc>
-  </programme>
-  <programme start="20260328173000 +0000" stop="20260328183000 +0000" channel="tv-latam.ewtn">
-    <title>Misa diaria</title>
-    <desc>El Santo Sacrificio de la Misa desde la Capilla de EWTN, con los cantos gregorianos de los Hermanos franciscanos, y la visita de prelados de diversas diócesis que concelebran el Memorial de la Pasión, Muerte y Resurrección de Cristo.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/381-1938.jpg" />
-  </programme>
-  <programme start="20260328183000 +0000" stop="20260328190000 +0000" channel="tv-latam.ewtn">
-    <title>Rosario desde Lourdes</title>
-    <desc>Unámonos a la oración del Santo Rosario desde el Santuario de Nuestra Señora de Lourdes, en Francia.</desc>
-    <icon src="https://www.ewtn.com/img/tv/highlights/rosario-desde-lourdes-RNS.jpg" />
-  </programme>
-  <programme start="20260328190000 +0000" stop="20260328192000 +0000" channel="tv-latam.ewtn">
-    <title>Las letanías</title>
-    <sub-title>Letanía a la bendita Virgen María</sub-title>
-  </programme>
-  <programme start="20260328192000 +0000" stop="20260328193000 +0000" channel="tv-latam.ewtn">
-    <title>Adoración eucarística, en vivo, desde la capilla de EWTN</title>
-    <desc>En vivo.</desc>
-  </programme>
-  <programme start="20260328193000 +0000" stop="20260328200000 +0000" channel="tv-latam.ewtn">
+  <programme start="20260404150000 +0000" stop="20260404153000 +0000" channel="tv-eeuu.ewtn">
     <title>Explora con el cazador de Milagros</title>
-    <sub-title>Paray-le-monial</sub-title>
-    <desc>Serie original de EWTN en la que Michael O’Neill, el “Cazador del Milagros”, viaja por el mundo para darnos a conocer eventos extraordinarios ocurridos a lo largo de la historia.</desc>
+    <sub-title>Naples</sub-title>
+    <desc>Exploremos Naples ciudad del obispo y mártir del siglo III: San Januarius (San Genaro). Según la tradición, en el día de su fiesta. su sangre, normalmente seca, se liquidifica, frente a miles de fieles que ahí se reúnen.  Se dice que cuando eso no sucede, suceden calamidades o eventos negativos.</desc>
   </programme>
-  <programme start="20260328200000 +0000" stop="20260328213000 +0000" channel="tv-latam.ewtn">
-    <title>Sabeth: beata Isabel de la trinidad</title>
-    <desc>Este documental presenta la vida, espiritualidad y escritos de Santa Elizabet de la Trinidad.</desc>
+  <programme start="20260404153000 +0000" stop="20260404160000 +0000" channel="tv-eeuu.ewtn">
+    <title>Santo Rosario</title>
+    <sub-title>Misterios gozosos</sub-title>
+    <desc>En los Misterios Gozosos meditamos sobre la vida de Jesús desde la Anunciación-Encarnación hasta la alegría del Encuentro del niño Jesús que se había perdido en el Templo.</desc>
   </programme>
-  <programme start="20260328213000 +0000" stop="20260328233000 +0000" channel="tv-latam.ewtn">
-    <title>Viaje apostólico del Santo Padre al Principado de Mónaco</title>
-    <sub-title>Santa Misa</sub-title>
-    <desc>En vivo desde el Estadio Luis II.</desc>
+  <programme start="20260404160000 +0000" stop="20260404170000 +0000" channel="tv-eeuu.ewtn">
+    <title>La sábana santa - la historia de un misterio</title>
+    <desc>Este documental sobre la Sábana Santa muestra varios expertos de diversas áreas que dan sus opiniones acerca del Proyecto de Investigación de la Sábana de Turín; así como los retos a los que se han visto expuestos.</desc>
   </programme>
-  <programme start="20260328233000 +0000" stop="20260329000000 +0000" channel="tv-latam.ewtn">
+  <programme start="20260404170000 +0000" stop="20260404173000 +0000" channel="tv-eeuu.ewtn">
+    <title>Clásicos Católicos: Madre Angélica presenta</title>
+    <sub-title>Holiness is being human</sub-title>
+    <desc>Mother describes how each of us is called to be holy but remain human.  She delves into the Old Testament for Elias running in fear of  Jezebel and brings in St. Paul and his preaching.</desc>
+  </programme>
+  <programme start="20260404173000 +0000" stop="20260404183000 +0000" channel="tv-eeuu.ewtn">
+    <title>San Juan María Vianney - Confesor de almas</title>
+    <desc>Filmado en Ars, este docudrama original de EWTN presenta la vida, ministerio sacerdotal y espiritual de San Juan María Vianney, también conocido como el Cura de Ars combinando entrevistas de expertos con dramatizaciones.</desc>
+  </programme>
+  <programme start="20260404183000 +0000" stop="20260404190000 +0000" channel="tv-eeuu.ewtn">
+    <title>Novena a la Divina Misericordia</title>
+    <sub-title>Hoy traeme a los sacerdotes (dia 2)</sub-title>
+    <desc>Hoy tráeme a las almas de los sacerdotes y las almas de los religiosos, y sumérgelas en Mi misericordia insondable.  Fueron ellas las que Me dieron fortaleza para soportar Mi amarga Pasión.  A través de ellas, como a través de canales, Mi Misericordia fluye hacia la humanidad.</desc>
+  </programme>
+  <programme start="20260404190000 +0000" stop="20260404213000 +0000" channel="tv-eeuu.ewtn">
+    <title>Easter vigil mass from rome</title>
+    <sub-title>Vigilia Pascual con el Papa León XIV</sub-title>
+    <desc>Misa de la Vigilia Pascual celebrada por el Papa León XIV desde Roma.</desc>
+  </programme>
+  <programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="tv-eeuu.ewtn">
+    <title>John Dechiaro presenta:  paz</title>
+    <desc>Este programa presenta la guitarra clásica en manos de John DeChiaro.</desc>
+  </programme>
+  <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="tv-eeuu.ewtn">
+    <title>Amor, agonía y esperanza</title>
+    <desc>El programa es un viaje en las vidas de Jesús y María durante el Jueves Santo y Viernes Santo.  Es un concierto narrado sobre la Pasíon de Jesús, la Ultima Cena y la importancia del Santísimo Sacramento.</desc>
+  </programme>
+  <programme start="20260404230000 +0000" stop="20260404233000 +0000" channel="tv-eeuu.ewtn">
+    <title>Las almas olvidadas de Sudán del Sur</title>
+    <desc>Colm Flynn informa sobre la vida de la Iglesia en Sudán del Sur y sobre aquellos que ayudan a los más vulnerables y marginados. Un especial de EWTN News en colaboración con ACI Africa.</desc>
+  </programme>
+  <programme start="20260404233000 +0000" stop="20260405000000 +0000" channel="tv-eeuu.ewtn">
     <title>Explora con el cazador de Milagros</title>
-    <sub-title>Paray-le-monial</sub-title>
-    <desc>Serie original de EWTN en la que Michael O’Neill, el “Cazador del Milagros”, viaja por el mundo para darnos a conocer eventos extraordinarios ocurridos a lo largo de la historia.</desc>
+    <sub-title>Naples</sub-title>
+    <desc>Exploremos Naples ciudad del obispo y mártir del siglo III: San Januarius (San Genaro). Según la tradición, en el día de su fiesta. su sangre, normalmente seca, se liquidifica, frente a miles de fieles que ahí se reúnen.  Se dice que cuando eso no sucede, suceden calamidades o eventos negativos.</desc>
   </programme>
+  <channel id="tv-latam.ewtn">
+    <display-name>EWTN Latinoamérica</display-name>
+  </channel>
   <programme start="20260329000000 +0000" stop="20260329010000 +0000" channel="tv-latam.ewtn">
     <title>Iglesia en camino Panama</title>
     <desc>Documental que presenta las actividades de sacerdotes, religiosos y laicos católicos en Panamá, y muestra celebraciones y festividades particulares de dicho país.</desc>
@@ -7812,8 +7422,8 @@ When he married his wife, he started going to church regularly with her, but whe
   </programme>
   <programme start="20260329123000 +0000" stop="20260329130000 +0000" channel="tv-latam.ewtn">
     <title>Mi familia católica</title>
-    <sub-title>Sta. Margarita clitherow y los 40 mártires de Inglaterra</sub-title>
-    <desc>Tomás, Elena enseñan a sus hijos Alex y Sara las vidas y espiritualidades de los grandes Santos de la Iglesia Católica en cada capítulo de esta serie en dibujos animados para niños de cualquier edad.  En este sentido, el título de la serie tiene doble sentido porque habla de una familia doméstica de nuestros tiempos y la familia Católica que cada persona Católica tiene a través de realidad familiar de la Comunión de los Santos.</desc>
+    <sub-title>Pier Giorgio Frassati</sub-title>
+    <desc>Durante un recorrido parroquial para subir una montaña, Alex y Sara aprenden sobre la vida de Pier Giorgio Frassati, un jóven Italiano cuyo amor por los pobres sigue inspirando a Católicos a nivel mundial.</desc>
   </programme>
   <programme start="20260329130000 +0000" stop="20260329131500 +0000" channel="tv-latam.ewtn">
     <title>Lukas storyteller</title>
@@ -8548,8 +8158,8 @@ When he married his wife, he started going to church regularly with her, but whe
   </programme>
   <programme start="20260402130000 +0000" stop="20260402133000 +0000" channel="tv-latam.ewtn">
     <title>Mi familia católica</title>
-    <sub-title>Sta. Margarita clitherow y los 40 mártires de Inglaterra</sub-title>
-    <desc>Tomás, Elena enseñan a sus hijos Alex y Sara las vidas y espiritualidades de los grandes Santos de la Iglesia Católica en cada capítulo de esta serie en dibujos animados para niños de cualquier edad.  En este sentido, el título de la serie tiene doble sentido porque habla de una familia doméstica de nuestros tiempos y la familia Católica que cada persona Católica tiene a través de realidad familiar de la Comunión de los Santos.</desc>
+    <sub-title>Pier Giorgio Frassati</sub-title>
+    <desc>Durante un recorrido parroquial para subir una montaña, Alex y Sara aprenden sobre la vida de Pier Giorgio Frassati, un jóven Italiano cuyo amor por los pobres sigue inspirando a Católicos a nivel mundial.</desc>
   </programme>
   <programme start="20260402133000 +0000" stop="20260402140000 +0000" channel="tv-latam.ewtn">
     <title>Rosario de niños</title>
@@ -8781,5 +8391,128 @@ When he married his wife, he started going to church regularly with her, but whe
     <title>Kerigma de amor  (novena temporada)</title>
     <sub-title>La virtud de la fe</sub-title>
     <desc>Aceptar a nuestro Señor Jesucristo es un acto de Fe que aumenta cada día, cuando escudriñamos su Palabra, la ponemos en práctica y nos esforzamos por hacer su voluntad. La Fe es poner nuestra confianza plena en el Señor. “La fe es garantía de lo que se espera; la prueba de las realidades que no se ven”, Hebreos 11, 1.</desc>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260404003000 +0000" channel="tv-latam.ewtn">
+    <title>Meditaciones Corales de la Pasión del Señor</title>
+    <sub-title>Choral meditations on the passion of Christ</sub-title>
+    <desc>En vivo desde la Basílica de la Inmaculada Concepción.</desc>
+  </programme>
+  <programme start="20260404003000 +0000" stop="20260404023000 +0000" channel="tv-latam.ewtn">
+    <title>Liturgia de la Pasión del Señor</title>
+    <sub-title>Liturgy of the Lord's passion</sub-title>
+    <desc>La Liturgia de la Pasión del Señor, desde la Basílica de la Inmaculada Concepción.</desc>
+  </programme>
+  <programme start="20260404023000 +0000" stop="20260404040000 +0000" channel="tv-latam.ewtn">
+    <title>Semana santa en Sevilla</title>
+    <sub-title>Resumen anos anteriores viernes santo</sub-title>
+    <desc>Las hermandades procesionan durante la noche entre el Jueves Santo y el Viernes Santo, hecho que se conoce como "La Madrugá". En la tarde del Viernes Santo se lleva a cabo la conmemoración de la pasión y muerte de Jesús.</desc>
+  </programme>
+  <programme start="20260404040000 +0000" stop="20260404043000 +0000" channel="tv-latam.ewtn">
+    <title>Semana Santa en Huánuco Peru</title>
+    <desc>La Semana Santa en Huánuco nos transporta hasta los Andes para apreciar cómo celebra su fe católica este sencillo pueblo latinoamericano, que recibió la fe hace ya quinientos años, y que la mantiene viva en sus tradiciones religiosas.</desc>
+  </programme>
+  <programme start="20260404043000 +0000" stop="20260404063000 +0000" channel="tv-latam.ewtn">
+    <title>Vigilia Pascual desde el santo sepulcro</title>
+    <desc>En vivo desde el Santo Sepulcro en Jerusalén.  (Este evento se realiza el Sábado Santo por la mañana, como se acostumbra en Jerusalén)</desc>
+  </programme>
+  <programme start="20260404063000 +0000" stop="20260404073000 +0000" channel="tv-latam.ewtn">
+    <title>El triduo Pascual</title>
+    <desc>Catequesis sobre el Triduo Pascual, con imágenes de la Semana Santa tomadas en la Basílica de San Pedro, presididas por el Papa Benedicto XVI, y otras celebraciones en España y Argentina.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/el-triduo-pascual-381-378361.jpg" />
+  </programme>
+  <programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="tv-latam.ewtn">
+    <title>La familia: familia, escuela de virtudes cristianas</title>
+    <sub-title>Primera carta a los tesalonicenses</sub-title>
+    <desc>Aplicación práctica de los métodos de educación familiar en torno a pasajes de los Evangelios.</desc>
+  </programme>
+  <programme start="20260404080000 +0000" stop="20260404090000 +0000" channel="tv-latam.ewtn">
+    <title>El santo grial</title>
+    <desc>El Santo Grial que buscaban los Caballeros de la Tabla Redonda ¿es el mismo que se venera en la catedral de Valencia y el que utilizó Jesucristo en la última Cena? ¿Y si fuese así, cómo llegó de Jerusalén a España? Este programa responde por medio de investigadores españoles y alemanes quienes demuestran que la copa de ágata que se venera en Valencia es de la época de Cristo</desc>
+  </programme>
+  <programme start="20260404090000 +0000" stop="20260404100000 +0000" channel="tv-latam.ewtn">
+    <title>Santo sepulcro</title>
+    <desc>En el corazón de la cristiandad, la Basílica del Santo Sepulcro, entre arqueología, historia y religión.</desc>
+  </programme>
+  <programme start="20260404100000 +0000" stop="20260404110000 +0000" channel="tv-latam.ewtn">
+    <title>Amor, agonía y esperanza</title>
+    <desc>El programa es un viaje en las vidas de Jesús y María durante el Jueves Santo y Viernes Santo.  Es un concierto narrado sobre la Pasíon de Jesús, la Ultima Cena y la importancia del Santísimo Sacramento.</desc>
+  </programme>
+  <programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="tv-latam.ewtn">
+    <title>Santo Rosario</title>
+    <sub-title>Misterios gozosos</sub-title>
+    <desc>En los Misterios Gozosos meditamos sobre la vida de Jesús desde la Anunciación-Encarnación hasta la alegría del Encuentro del niño Jesús que se había perdido en el Templo.</desc>
+  </programme>
+  <programme start="20260404113000 +0000" stop="20260404115000 +0000" channel="tv-latam.ewtn">
+    <title>Coronilla de la Misericordia Divina - Latinoamérica</title>
+    <desc>El Padre Luís Eduardo Rodríguez Rodríguez, nos lleva por un viaje alrededor de toda Latinoamérica, rezando la Divina Misericordia.</desc>
+  </programme>
+  <programme start="20260404115000 +0000" stop="20260404120000 +0000" channel="tv-latam.ewtn">
+    <title>Las iglesias ocultas de Roma:  peregrinacion de cuaresma</title>
+    <sub-title>Basílica de Juan Letran</sub-title>
+    <desc>La última parada en el peregrinaje cuaresmal del Dr. O'Donnell's es en San Juan de Letrán, el Sábado Santo. Este es el día en el que recordamos el cuerpo sin vida de Jesús a la espera del gran momento de la Resurrección.</desc>
+    <icon src="https://www.ewtn.com/img/tv/highlights/basilica-de-san-juan-letran-RHC09928.jpg" />
+  </programme>
+  <programme start="20260404120000 +0000" stop="20260404130000 +0000" channel="tv-latam.ewtn">
+    <title>La sábana santa - la historia de un misterio</title>
+    <desc>Este documental sobre la Sábana Santa muestra varios expertos de diversas áreas que dan sus opiniones acerca del Proyecto de Investigación de la Sábana de Turín; así como los retos a los que se han visto expuestos.</desc>
+  </programme>
+  <programme start="20260404130000 +0000" stop="20260404133000 +0000" channel="tv-latam.ewtn">
+    <title>Mi ratito con Jesús</title>
+    <sub-title>La pascua y la vida eterna</sub-title>
+    <desc>Cristín, Eva, Enrique y Joseph son unos niños de 8 años que viven en la ciudad. En cada episodio, viajan con su imaginación a algún pasaje de la Biblia para vivir en directo los momentos más importantes de la historia de la salvación.</desc>
+  </programme>
+  <programme start="20260404133000 +0000" stop="20260404140000 +0000" channel="tv-latam.ewtn">
+    <title>Rosario de niños</title>
+    <sub-title>Misterios gozosos</sub-title>
+  </programme>
+  <programme start="20260404140000 +0000" stop="20260404143000 +0000" channel="tv-latam.ewtn">
+    <title>Mis angelitos</title>
+    <sub-title>Especial de Cuaresma</sub-title>
+    <desc>La Madre Superiora y las hermanas piden gracias especiales para vivir la Cuaresma y a amar al prójimo como Dios nos ama. El padre Francisco explica la última cena e incluye la oración de Cristo en el huerto y la pasión del Viernes Santo.</desc>
+  </programme>
+  <programme start="20260404143000 +0000" stop="20260404150000 +0000" channel="tv-latam.ewtn">
+    <title>Coronilla de los siete dolores de la virgen Maria</title>
+  </programme>
+  <programme start="20260404150000 +0000" stop="20260404160000 +0000" channel="tv-latam.ewtn">
+    <title>La pasión, análisis médico</title>
+    <desc>La Pasión de Jesús nos conmueve por el nivel de sufrimiento que experimenta el Señor, al tiempo que manifiesta su gran amor por cada uno de nosotros, haciendo del dolor un instrumento de Salvación.   ¿Cómo fue el dolor físico que experimentó el Señor durante su Pasión? ¿Cómo fue el dolor en el Corazón que experimento Jesús durante su Pasión?   Los doctores Estuardo Carrera y Arturo Carranza nos ofrecen un análisis médico detallado los sufrimientos que experimentó Jesús en su cuerpo durante su Pasión hasta su muerte en la Cruz.</desc>
+  </programme>
+  <programme start="20260404160000 +0000" stop="20260404170000 +0000" channel="tv-latam.ewtn">
+    <title>Amor, agonía y esperanza</title>
+    <desc>El programa es un viaje en las vidas de Jesús y María durante el Jueves Santo y Viernes Santo.  Es un concierto narrado sobre la Pasíon de Jesús, la Ultima Cena y la importancia del Santísimo Sacramento.</desc>
+  </programme>
+  <programme start="20260404170000 +0000" stop="20260404173000 +0000" channel="tv-latam.ewtn">
+    <title>Novena a la Divina Misericordia</title>
+    <sub-title>Hoy traeme a los sacerdotes (dia 2)</sub-title>
+    <desc>Hoy tráeme a las almas de los sacerdotes y las almas de los religiosos, y sumérgelas en Mi misericordia insondable.  Fueron ellas las que Me dieron fortaleza para soportar Mi amarga Pasión.  A través de ellas, como a través de canales, Mi Misericordia fluye hacia la humanidad.</desc>
+  </programme>
+  <programme start="20260404173000 +0000" stop="20260404180000 +0000" channel="tv-latam.ewtn">
+    <title>La presencia real- La Misa</title>
+    <desc>Este programa cuenta con expertos que explican el formato y el significado teológico del santo sacrificio de la Misa. En la consagración, ocurre la transubstanciación del pan y el vino, que realmente se transforman en el Cuerpo, Sangre, Alma y Divinidad de Jesucristo.</desc>
+  </programme>
+  <programme start="20260404180000 +0000" stop="20260404190000 +0000" channel="tv-latam.ewtn">
+    <title>La sábana santa - la historia de un misterio</title>
+    <desc>Este documental sobre la Sábana Santa muestra varios expertos de diversas áreas que dan sus opiniones acerca del Proyecto de Investigación de la Sábana de Turín; así como los retos a los que se han visto expuestos.</desc>
+  </programme>
+  <programme start="20260404190000 +0000" stop="20260404213000 +0000" channel="tv-latam.ewtn">
+    <title>Easter vigil mass from rome</title>
+    <sub-title>Vigilia Pascual con el Papa León XIV</sub-title>
+    <desc>Misa de la Vigilia Pascual celebrada por el Papa León XIV desde Roma.</desc>
+  </programme>
+  <programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="tv-latam.ewtn">
+    <title>La resurreción</title>
+    <desc>Éste es un programa musical basado en los textos del Evangelio según San Juan. Se citan algunos versículos de la Biblia y, con apoyo de imágenes alusivas a la Pasión de Nuestro Señor se recrea este acontecimiento central para nuestra fe.</desc>
+  </programme>
+  <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="tv-latam.ewtn">
+    <title>El santo grial</title>
+    <desc>El Santo Grial que buscaban los Caballeros de la Tabla Redonda ¿es el mismo que se venera en la catedral de Valencia y el que utilizó Jesucristo en la última Cena? ¿Y si fuese así, cómo llegó de Jerusalén a España? Este programa responde por medio de investigadores españoles y alemanes quienes demuestran que la copa de ágata que se venera en Valencia es de la época de Cristo</desc>
+  </programme>
+  <programme start="20260404230000 +0000" stop="20260404233000 +0000" channel="tv-latam.ewtn">
+    <title>Las almas olvidadas de Sudán del Sur</title>
+    <desc>Colm Flynn informa sobre la vida de la Iglesia en Sudán del Sur y sobre aquellos que ayudan a los más vulnerables y marginados. Un especial de EWTN News en colaboración con ACI Africa.</desc>
+  </programme>
+  <programme start="20260404233000 +0000" stop="20260405000000 +0000" channel="tv-latam.ewtn">
+    <title>John Dechiaro presenta:  paz</title>
+    <desc>Este programa presenta la guitarra clásica en manos de John DeChiaro.</desc>
   </programme>
 </tv>
