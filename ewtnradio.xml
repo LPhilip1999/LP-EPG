@@ -3512,6 +3512,10 @@
     <title>Catholic Answers Live ENCORE</title>
     <desc>The apologists of Catholic Answers address your questions about the Catholic faith</desc>
   </programme>
+  <programme start="20260509230000 +0000" stop="20260510000000 +0000" channel="radio-gb.ewtn">
+    <title>Catholic Answers Live ENCORE</title>
+    <desc>The apologists of Catholic Answers address your questions about the Catholic faith</desc>
+  </programme>
   <channel id="radio-ph.ewtn">
     <display-name>EWTN Radio Philippines</display-name>
   </channel>
@@ -4282,5 +4286,41 @@
   <programme start="20260509150000 +0000" stop="20260509160000 +0000" channel="radio-ph.ewtn">
     <title>The Journey Home</title>
     <desc>Marcus Grodi and his guests discuss their personal “journeys home” back to the Catholic Church.</desc>
+  </programme>
+  <programme start="20260509160000 +0000" stop="20260509170000 +0000" channel="radio-ph.ewtn">
+    <title>Daily Mass Enore</title>
+    <desc>From the EWTN Chapel in Irondale, Alabama</desc>
+  </programme>
+  <programme start="20260509170000 +0000" stop="20260509180000 +0000" channel="radio-ph.ewtn">
+    <title>Mother Angelica Live Classics</title>
+    <desc>Mother Mary Angelica, the foundress of EWTN, brings her world-famous wit and wisdom into play while offering practical solutions to life's challenges.</desc>
+  </programme>
+  <programme start="20260509180000 +0000" stop="20260509190000 +0000" channel="radio-ph.ewtn">
+    <title>The Best of Called to Communion</title>
+    <desc>Dr. David Anders takes calls from fallen away and non-Catholics.</desc>
+  </programme>
+  <programme start="20260509190000 +0000" stop="20260509193000 +0000" channel="radio-ph.ewtn">
+    <title>Sacred Heart of Jesus / Soulful Psalm</title>
+    <desc>EWTN Radio</desc>
+  </programme>
+  <programme start="20260509193000 +0000" stop="20260509200000 +0000" channel="radio-ph.ewtn">
+    <title>The Rosary is a Place</title>
+    <desc>The Holy Rosary with Fr. Benedict Groeschel &amp; Simonetta</desc>
+  </programme>
+  <programme start="20260509200000 +0000" stop="20260509210000 +0000" channel="radio-ph.ewtn">
+    <title>Beacon of Truth with Deacon Harold Burke-Sivers</title>
+    <desc>The Dynamic Deacon unpacks the teachings of the Church!</desc>
+  </programme>
+  <programme start="20260509210000 +0000" stop="20260509213000 +0000" channel="radio-ph.ewtn">
+    <title>Catholic Lives Philippines</title>
+    <desc>EWTN Radio</desc>
+  </programme>
+  <programme start="20260509213000 +0000" stop="20260509220000 +0000" channel="radio-ph.ewtn">
+    <title>EWTN Pro-Life Weekly</title>
+    <desc>Abigail Galvan brings us the latest pro-life news</desc>
+  </programme>
+  <programme start="20260509220000 +0000" stop="20260510000000 +0000" channel="radio-ph.ewtn">
+    <title>Catholic Answers Live</title>
+    <desc>EWTN is the radio home for Catholic Answers Live featuring some of the leading apologists and theologians in the Church today.</desc>
   </programme>
 </tv>
